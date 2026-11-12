@@ -5,6 +5,7 @@ on:
   workflow_dispatch:
     inputs:
       dry_run: {description: 'Compute targets only (1) or trade (0)', default: '1'}
+      force_rebalance: {description: 'Rebalance today even if not the first trading day (1)', default: '0'}
 concurrency: {group: journal, cancel-in-progress: false}
 permissions:
   contents: write
@@ -20,6 +21,7 @@ jobs:
           ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
           ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
           DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+          FORCE_REBALANCE: ${{ github.event.inputs.force_rebalance || '0' }}
         run: python scripts/paper_trader.py
       - name: Commit journal
         run: |
