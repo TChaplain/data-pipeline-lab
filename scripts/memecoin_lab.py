@@ -64,8 +64,11 @@ def get(path, base=API):
             with urllib.request.urlopen(req, timeout=30) as r:
                 return json.load(r)
         except Exception as e:  # rate limit (30/min) or transient error
+            err = e
+            if getattr(e, 'code', 0) in (400, 404):
+                break
             time.sleep(3 * (attempt + 1))
-    raise RuntimeError(f'failed {path}')
+    raise RuntimeError(f'failed {path[:80]}: {err}')
 
 
 def parse(d, now):
@@ -225,8 +228,15 @@ def main():
     # 2. re-price open positions, 30 pools per request
     addrs = sorted({o['addr'] for o in st['open']} | set(track))
     live = {}
+    unpriced = set()
     for i in range(0, len(addrs), 30):
-        for d in get('/networks/solana/pools/multi/' + ','.join(addrs[i:i + 30]))['data']:
+        try:
+            batch = get('/networks/solana/pools/multi/' + ','.join(addrs[i:i + 30]))['data']
+        except Exception as e:  # skip this batch this run; those positions are left as they are
+            print('reprice skipped:', e)
+            unpriced |= set(addrs[i:i + 30])
+            continue
+        for d in batch:
             q = parse(d, now)
             live[q['addr']] = q
     # credit early buyers of pools that hit WIN_X; forget pools after 48h
@@ -248,6 +258,8 @@ def main():
         q = live.get(o['addr'])
         params = STRATS[o['strat']][1]
         age_h = (now - dt.datetime.fromisoformat(o['opened'])).total_seconds() / 3600
+        if o['addr'] in unpriced:
+            still.append(o); continue
         if o['entry'] is None:  # just opened this run
             if q and q['liq'] >= RUG_LIQ and q['price'] > 0:
                 o['entry'] = q['price'] * (1 + ENTRY_COST)
