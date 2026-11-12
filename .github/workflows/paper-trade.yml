@@ -1,0 +1,30 @@
+name: paper-trade
+on:
+  schedule:
+    - cron: '0 15 * * 1-5'   # 15:00 UTC = 10:00 New York in winter, 11:00 in summer
+  workflow_dispatch:
+    inputs:
+      dry_run: {description: 'Compute targets only (1) or trade (0)', default: '1'}
+concurrency: {group: journal, cancel-in-progress: false}
+permissions:
+  contents: write
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - name: Run paper trader
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          DRY_RUN: ${{ github.event.inputs.dry_run || '0' }}
+        run: python scripts/paper_trader.py
+      - name: Commit journal
+        run: |
+          git config user.name "paper-trader-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add journal || true
+          git diff --cached --quiet || git commit -m "journal: $(date -u +%F)"
+          git pull --rebase && git push
