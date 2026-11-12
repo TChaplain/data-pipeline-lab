@@ -1,0 +1,35 @@
+name: news-stream
+on:
+  schedule:
+    - cron: '30 12 * * 1-5'   # 7:30am-1:15pm New York (winter)
+    - cron: '20 18 * * 1-5'   # 1:20pm-4:05pm New York (winter)
+  workflow_dispatch:
+    inputs:
+      minutes: {description: 'Shift length in minutes', default: '10'}
+permissions:
+  contents: write
+concurrency: {group: news-stream, cancel-in-progress: false}
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: {python-version: '3.12'}
+      - run: pip install websockets==13.1
+      - name: Stream news and paper-trade reactions
+        env:
+          ALPACA_KEY_ID: ${{ secrets.ALPACA_KEY_ID }}
+          ALPACA_SECRET_KEY: ${{ secrets.ALPACA_SECRET_KEY }}
+          SHIFT_MINUTES: ${{ github.event.inputs.minutes || (github.event.schedule == '30 12 * * 1-5' && '345' || '165') }}
+        run: python scripts/news_stream.py
+      - name: Commit journal
+        if: always()
+        run: |
+          git config user.name "paper-trader-bot"
+          git config user.email "actions@users.noreply.github.com"
+          git add journal
+          git diff --cached --quiet && exit 0
+          git commit -m "news stream: $(date -u +'%F %H:%M')"
+          for i in 1 2 3 4; do git pull --rebase && git push && break; sleep $((i*5)); done
