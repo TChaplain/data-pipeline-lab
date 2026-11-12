@@ -63,3 +63,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-12T22:40+00:00,moonshot_hold,mihao / SOL,GV8FcbEXchCkAv59CinA7gkho86WM4adUEvrwr2n2XJQ,2026-11-12T22:30+00:00,0,-1.03,rug/no liquidity
 2026-11-12T22:50+00:00,graduates,CSI / SOL,AUsf5pqLK9FTJJ5EoUVHeKYDxY9dHvkPbgZ9ycn5h9oM,2026-11-12T22:40+00:00,0.041,-1.021,stop loss
 2026-11-12T22:50+00:00,moonshot_hold,1WIN / TTWO,2rgpUvyo6b9raeqe7TmmfKAAAxvG7HdLCyDciLk2xpys,2026-11-12T22:40+00:00,0,-1.03,rug/no liquidity
+2026-11-12T23:00+00:00,graduates,NOBUSHIBA,Dagau7G32pmkjf8ng2372xo2hyGfgenx5Yn7mWMkHfGF,2026-11-12T15:27+00:00,0.3,-0.775,stop loss
+2026-11-12T23:00+00:00,dex_boosted,NOBUSHIBA,Dagau7G32pmkjf8ng2372xo2hyGfgenx5Yn7mWMkHfGF,2026-11-12T15:27+00:00,0.3,-0.775,stop loss
+2026-11-12T23:00+00:00,graduates,plumber / SOL,9ExRf1acwkvrY9qRqfUDDaW29TCAaTEi4YB4GSwmwUZB,2026-11-12T22:50+00:00,0,-1.03,rug/no liquidity
+2026-11-12T23:00+00:00,moonshot_hold,plumber / SOL,9ExRf1acwkvrY9qRqfUDDaW29TCAaTEi4YB4GSwmwUZB,2026-11-12T22:50+00:00,0,-1.03,rug/no liquidity
