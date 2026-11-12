@@ -10,4 +10,4 @@ Claude can't create accounts or handle API keys, so these steps are yours. Every
 Cost is $0. Private repos get 2,000 free Actions minutes a month, and this uses about 25.
 
 ## Memecoin paper lab
-`scripts/memecoin_lab.py` runs every 10 minutes with no keys or wallet. It paper-buys $1 of new Solana tokens under 6 pre-registered rules and tracks every one until it's sold or rugs. Run `python scripts/scoreboard.py` to see win rate, rug rate, best multiple and P&L by strategy.
+`scripts/memecoin_lab.py` runs every 10 minutes with no keys or wallet. It paper-buys $1 of Solana tokens under 8 pre-registered rules (including the news system: Telegram calls and trending lists; add public channel names to `config/tg_channels.txt`) and tracks every one until it's sold or rugs. Run `python scripts/scoreboard.py` to see win rate, rug rate, best multiple and P&L by strategy.
