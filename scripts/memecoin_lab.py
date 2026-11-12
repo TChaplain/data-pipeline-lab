@@ -148,7 +148,7 @@ def main():
             if ok:
                 st['seen'][key] = now.isoformat()
                 st['open'].append({'strat': name, 'addr': p['addr'], 'name': p['name'],
-                                   'entry': None,  # set from GeckoTerminal's pool price below, so entry and exit use one price source 'peak': 1.0, 'half_sold': False,
+                                   'entry': None, 'peak': 1.0,  # entry set from GeckoTerminal's price below, same source as exits
                                    'opened': now.isoformat(timespec='minutes')})
                 opened += 1
     # 2. re-price open positions, 30 pools per request
@@ -185,7 +185,7 @@ def main():
         if q is None or q['liq'] < RUG_LIQ:
             close(o, 0, 'rug/no liquidity', now, rows); continue
         mult = q['price'] / o['entry']
-        o['peak'] = max(o['peak'], mult)
+        o['peak'] = max(o.get('peak', 1.0), mult)
         if params['tp'] and mult >= params['tp']:
             close(o, mult, f'take profit {params["tp"]}x', now, rows)
         elif params['sl'] is not None and mult <= 1 + params['sl']:
