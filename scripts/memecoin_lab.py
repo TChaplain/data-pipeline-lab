@@ -106,7 +106,10 @@ def telegram_mentions(now, seen_posts):
             html = urllib.request.urlopen(req, timeout=20).read().decode('utf-8', 'ignore')
         except Exception as e:
             print('telegram skipped', ch, e); continue
-        for block in html.split('tgme_widget_message_wrap')[1:]:
+        blocks = html.split('tgme_widget_message_wrap')[1:]
+        times = re.findall(r'datetime="([^"]+)"', html)
+        print(f'telegram {ch}: {len(blocks)} posts on page, newest {times[-1] if times else "none"}')
+        for block in blocks:
             post = re.search(r'data-post="([^"]+)"', block)
             when = re.search(r'datetime="([^"]+)"', block)
             if not post or not when or post.group(1) in seen_posts:
