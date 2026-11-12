@@ -15,7 +15,8 @@ DATA = 'https://data.alpaca.markets'
 J = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'journal')
 STATE, LOG, TRADES = (os.path.join(J, f) for f in ('news_state.json', 'news_log.csv', 'news_trades.csv'))
 H = {'APCA-API-KEY-ID': os.environ.get('ALPACA_KEY_ID', ''), 'APCA-API-SECRET-KEY': os.environ.get('ALPACA_SECRET_KEY', '')}
-BEAT = re.compile(r'\b(beats?|tops?|exceeds?|surpass(es)?|above)\b.*\b(estimates?|expectations|consensus|views?)\b|\braises?\b.*\bguidance\b', re.I)
+BEAT = re.compile(r'\bbeats?\b.*\b(estimates?|expectations|consensus)\b|\b(tops|exceeds?|surpass(es)?|above)\b.*\b(estimates?|expectations|consensus)\b|\braises?\b.*\bguidance\b', re.I)
+SKIP = re.compile(r'\bahead of\b|\bpreview\b|\bforecasters?\b|\banalysts? (revamp|adjust)', re.I)  # previews, not results
 MISS = re.compile(r'\b(miss(es)?|below|lowers?|cuts?)\b.*\b(estimates?|expectations|consensus|guidance)\b', re.I)
 EARN = re.compile(r'\b(EPS|earnings|Q[1-4]|quarter|revenue|sales)\b', re.I)
 SIZE, HOLD_DAYS, COST = 1000.0, 28, 0.001  # 10 bps per side
@@ -64,7 +65,7 @@ def main():
                 continue
             st['seen'].append(n['id'])
             h = n['headline']
-            sig = 'beat' if EARN.search(h) and BEAT.search(h) and not MISS.search(h) else ('miss' if EARN.search(h) and MISS.search(h) else '')
+            sig = 'beat' if EARN.search(h) and BEAT.search(h) and not MISS.search(h) and not SKIP.search(h) else ('miss' if EARN.search(h) and MISS.search(h) else '')
             w.writerow([n['created_at'], ' '.join(n['symbols']), h, sig])
             if sig == 'beat' and 1 <= len(n['symbols']) <= 2:
                 for s in n['symbols']:
