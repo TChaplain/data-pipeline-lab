@@ -30,3 +30,4 @@ jobs:
           git add journal || true
           git diff --cached --quiet || git commit -m "journal: $(date -u +%F)"
           git pull --rebase && git push
+# schedule re-registered 2026-11-12

@@ -26,3 +26,4 @@ jobs:
           git add journal
           git diff --cached --quiet || git commit -m "news lab: $(date -u +'%F %H:%M')"
           git pull --rebase && git push
+# schedule re-registered 2026-11-12
