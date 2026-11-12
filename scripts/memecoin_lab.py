@@ -106,6 +106,12 @@ def telegram_mentions(now, seen_posts):
             html = urllib.request.urlopen(req, timeout=20).read().decode('utf-8', 'ignore')
         except Exception as e:
             print('telegram skipped', ch, e); continue
+        disc = os.path.join(J, 'tg_discovered.csv')  # channels other channels link or forward: candidates to add
+        known = set(open(disc).read().split()) if os.path.exists(disc) else set()
+        links = {h for h in re.findall(r't\.me/([A-Za-z][A-Za-z0-9_]{4,31})', html) if h.lower() not in ('s', 'share', 'joinchat', ch.lower())}
+        with open(disc, 'a') as f:
+            for h in sorted(links - known - set(chans)):
+                f.write(h + '\n')
         blocks = html.split('tgme_widget_message_wrap')[1:]
         times = re.findall(r'datetime="([^"]+)"', html)
         print(f'telegram {ch}: {len(blocks)} posts on page, newest {times[-1] if times else "none"}')
