@@ -35,3 +35,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-12T21:00+00:00,trending_new,AMD / AMD,CRWCDWttGVRhm5oDFNgYF4AVaZx52HXpfXbhRRoqX7Ak,2026-11-12T20:30+00:00,0.461,-0.622,stop loss
 2026-11-12T21:00+00:00,moonshot_hold,Huang / SOL,2gkecF6stucSg1qJWuUvg8fCAfZH6UEckmrKQ1uL84vw,2026-11-12T20:50+00:00,0,-1.03,rug/no liquidity
 2026-11-12T21:00+00:00,moonshot_hold,Helmiz / SOL,JCGTgKJx4xTAwRvhTh1CCRVSyau9wZsMpWVmEGKiepCg,2026-11-12T20:50+00:00,0,-1.03,rug/no liquidity
+2026-11-12T21:10+00:00,ape_everything,DJT / SOL,4SzgD7WWudYNb1AyU9g3jAFxUsNBKQLC2wadxi48vaMZ,2026-11-12T21:00+00:00,0,-1.03,rug/no liquidity
+2026-11-12T21:10+00:00,moonshot_hold,DJT / SOL,5dpB56uabUqJvMbMPdJnoTiv7nAA2Ln33QDKmzaMFVQv,2026-11-12T21:00+00:00,0,-1.03,rug/no liquidity
+2026-11-12T21:10+00:00,moonshot_hold,DODO / SOL,DgUoBTNdbbDd4jSAwPXpU3UtSSmZgpwbdJcrX3LcgmWs,2026-11-12T21:00+00:00,0,-1.03,rug/no liquidity
