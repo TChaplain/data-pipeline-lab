@@ -47,3 +47,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-12T21:40+00:00,ape_everything,AI / SOL,DkWEWZrqGZ3wB1EVvdrwrRo578mHjv7PQqQ7ZWVKWqjL,2026-11-12T21:00+00:00,0,-1.03,rug/no liquidity
 2026-11-12T21:40+00:00,early_momentum,SI / SOL,HHMtAbPcZD8Gf5E87yv3jxS5o2FhDByxn2LqNgHChKzU,2026-11-12T21:10+00:00,0,-1.03,rug/no liquidity
 2026-11-12T21:40+00:00,moonshot_hold,SI / SOL,HHMtAbPcZD8Gf5E87yv3jxS5o2FhDByxn2LqNgHChKzU,2026-11-12T21:10+00:00,0,-1.03,rug/no liquidity
+2026-11-12T21:50+00:00,trending_new,Hero / SPCX,CZ3EYvM6yyEVRtA4KimDHDJsfLtcyDHqG5BTUBsQJ74x,2026-11-12T20:50+00:00,0.419,-0.662,stop loss
+2026-11-12T21:50+00:00,moonshot_hold,AI / SOL,BYmcHLaMRnegq4ni4wQLWP5KJyj19wzMFkgscT83kXwW,2026-11-12T21:00+00:00,0,-1.03,rug/no liquidity
+2026-11-12T21:50+00:00,moonshot_hold,Hero / SOL,3YfX9teZX4EeoP4VyUsNa5oXL4NhnxS6F6AoLNQGbbMx,2026-11-12T21:40+00:00,0,-1.03,rug/no liquidity
