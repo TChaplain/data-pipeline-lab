@@ -148,7 +148,7 @@ def main():
             if ok:
                 st['seen'][key] = now.isoformat()
                 st['open'].append({'strat': name, 'addr': p['addr'], 'name': p['name'],
-                                   'entry': p['price'] * (1 + ENTRY_COST), 'peak': 1.0, 'half_sold': False,
+                                   'entry': None,  # set from GeckoTerminal's pool price below, so entry and exit use one price source 'peak': 1.0, 'half_sold': False,
                                    'opened': now.isoformat(timespec='minutes')})
                 opened += 1
     # 2. re-price open positions, 30 pools per request
@@ -177,6 +177,11 @@ def main():
         q = live.get(o['addr'])
         params = STRATS[o['strat']][1]
         age_h = (now - dt.datetime.fromisoformat(o['opened'])).total_seconds() / 3600
+        if o['entry'] is None:  # just opened this run
+            if q and q['liq'] >= RUG_LIQ and q['price'] > 0:
+                o['entry'] = q['price'] * (1 + ENTRY_COST)
+                still.append(o)
+            continue  # untradeable at entry: never counted as a trade
         if q is None or q['liq'] < RUG_LIQ:
             close(o, 0, 'rug/no liquidity', now, rows); continue
         mult = q['price'] / o['entry']
