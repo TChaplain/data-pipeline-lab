@@ -70,7 +70,7 @@ async def main():
     if not KEY:
         sys.exit('Missing Alpaca keys')
     os.makedirs(J, exist_ok=True)
-    seen, tasks = set(), []
+    seen, tasks, auth = set(), [], []
     while time.time() < SHIFT_END - 120:
         try:
             async with websockets.connect('wss://stream.data.alpaca.markets/v1beta1/news') as ws:
@@ -83,8 +83,8 @@ async def main():
                         continue
                     for m in json.loads(raw):
                         if m.get('T') != 'n' or m.get('id') in seen:
-                            if m.get('T') in ('error',):
-                                print('stream error', m, flush=True)
+                            if m.get('T') in ('error', 'success', 'subscription'):
+                                print('stream', m, flush=True)
                             continue
                         seen.add(m['id'])
                         h, syms = m.get('headline', ''), m.get('symbols', [])
@@ -96,7 +96,7 @@ async def main():
             print('reconnect after error:', e, flush=True)
             await asyncio.sleep(5)
     await asyncio.gather(*tasks, return_exceptions=True)
-    print('shift over; signals:', len(tasks), flush=True)
+    print('shift over; headlines:', len(seen), 'signals:', len(tasks), flush=True)
 
 
 if __name__ == '__main__':
