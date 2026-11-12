@@ -52,3 +52,10 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-12T21:50+00:00,moonshot_hold,Hero / SOL,3YfX9teZX4EeoP4VyUsNa5oXL4NhnxS6F6AoLNQGbbMx,2026-11-12T21:40+00:00,0,-1.03,rug/no liquidity
 2026-11-12T22:00+00:00,graduates,JensenHao / SOL,E1DvpEwMqDke65kEERQCvp2nm2EZ9dHdYphytzHPbEQH,2026-11-12T20:40+00:00,0.013,-1.047,stop loss
 2026-11-12T22:00+00:00,moonshot_hold,SI / SOL,Cp4JTJQibUxGWsmN3vJqs9TwY36hsEPhUaexCkSSQidG,2026-11-12T21:40+00:00,0,-1.03,rug/no liquidity
+2026-11-12T22:30+00:00,trending_new,AI / NVDAx,CRnK5Nh5kQjA4FqaYkqJ9y9KGfNh99U6HHyRtUjPNKAW,2026-11-12T21:30+00:00,0.459,-0.623,stop loss
+2026-11-12T22:30+00:00,graduates,Max / SOL,3Dq6YvwheVLT8mAaRGWhCDdhAnaxsLrsYKgQowuhd2uR,2026-11-12T22:00+00:00,0,-1.03,rug/no liquidity
+2026-11-12T22:30+00:00,dex_boosted,Helmiz,HPc6rBjtHaWdNAKeBTVButCfrtKPDDApRVMTZUfTUHfv,2026-11-12T22:00+00:00,0.499,-0.586,stop loss
+2026-11-12T22:30+00:00,moonshot_hold,RIPJIMOTHY / SOL,FXEySRABmU1kjabHBqxotNXEGVnqxpSf6doDNFdrZHii,2026-11-12T22:20+00:00,0,-1.03,rug/no liquidity
+2026-11-12T22:30+00:00,moonshot_hold,Jimothy / SOL,9z3ayYQUomfXhWedbbHkBZKYx9RcyfnKctUHdrm2BPfY,2026-11-12T22:20+00:00,0,-1.03,rug/no liquidity
+2026-11-12T22:30+00:00,moonshot_hold,JIMOTHY / SOL,DKPLcDZdmtY36pmd35qqbodssUp4KXu1uaRzzfYZHCzz,2026-11-12T22:20+00:00,0,-1.03,rug/no liquidity
+2026-11-12T22:30+00:00,early_momentum,Jimothy / SOL,9z3ayYQUomfXhWedbbHkBZKYx9RcyfnKctUHdrm2BPfY,2026-11-12T22:20+00:00,0,-1.03,rug/no liquidity
