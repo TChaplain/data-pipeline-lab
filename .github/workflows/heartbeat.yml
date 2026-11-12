@@ -1,0 +1,33 @@
+name: heartbeat
+# GitHub's cron never fired for this repo, so this job is the clock: it starts each bot on time,
+# runs ~5h50m, then starts a fresh copy of itself. The cron below is only a backup restart.
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '7 */6 * * *'
+permissions:
+  actions: write
+concurrency: {group: heartbeat, cancel-in-progress: false}
+jobs:
+  tick:
+    runs-on: ubuntu-latest
+    timeout-minutes: 360
+    steps:
+      - env:
+          GH_TOKEN: ${{ github.token }}
+          R: ${{ github.repository }}
+        run: |
+          go() { gh api -X POST repos/$R/actions/workflows/$1/dispatches -f ref=main "${@:2}" >/dev/null && echo "$(date -u +%H:%M) started $1" || echo "failed $1"; }
+          end=$(( $(date +%s) + 350*60 ))
+          while [ $(date +%s) -lt $end ]; do
+            m=$(date -u +%-M); h=$(date -u +%-H); wd=$(date -u +%u)
+            [ $((m % 10)) -eq 0 ] && go memecoin-lab.yml
+            if [ $wd -le 5 ]; then
+              [ $m -eq 5 ] && go news-lab.yml
+              [ $h -eq 15 ] && [ $m -eq 0 ] && go paper-trade.yml
+              [ $h -eq 12 ] && [ $m -eq 30 ] && go news-stream.yml -f inputs[minutes]=345
+              [ $h -eq 18 ] && [ $m -eq 20 ] && go news-stream.yml -f inputs[minutes]=165
+            fi
+            sleep $(( 60 - $(date +%-S) ))
+          done
+          go heartbeat.yml
