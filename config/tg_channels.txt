@@ -1,0 +1,3 @@
+# Public Telegram channels to read via t.me/s/<name>. One per line. Only public, read-only previews.
+SIGNALCALLS
+whalefudinsidercalls

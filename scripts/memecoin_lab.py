@@ -12,7 +12,7 @@ Each run (every 10 minutes from GitHub Actions):
 Rules were pre-registered on 2026-11-12. Do not tune them after seeing results; add a new
 strategy with a new name instead.
 """
-import csv, datetime as dt, json, os, time, urllib.request
+import csv, datetime as dt, json, os, re, time, urllib.request
 
 API = 'https://api.geckoterminal.com/api/v2'
 J = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'journal')
@@ -23,6 +23,7 @@ EXIT_COST = 0.05
 FIXED_USD = 0.03      # priority + network fees per side (token-account rent is refundable, so not counted)
 RUG_LIQ = 500         # pool liquidity below $500 means you can't get out: value 0
 MAX_OPEN = 150        # per strategy
+NEW_POOL_RULES = ('ape_everything', 'early_momentum', 'graduates', 'moonshot_hold')
 
 STRATS = {
     # name: (entry filter(pool) -> bool, exit params)
@@ -37,6 +38,12 @@ STRATS = {
     # Added 2026-11-12. "Someone paid DexScreener to promote it" signal:
     'dex_boosted': (lambda p: p.get('boosted') and p['liq'] >= 10_000,
                     dict(tp=None, sl=-0.5, trail=0.5, max_h=48)),
+    # Added 2026-11-12 (news system). A public Telegram call channel posted this token in the last 30 min:
+    'tg_call': (lambda p: p.get('tg_call') and p['liq'] >= 5_000,
+                dict(tp=None, sl=-0.5, trail=0.5, max_h=24)),
+    # Added 2026-11-12 (news system). On GeckoTerminal's 1h trending list and under 24h old:
+    'trending_new': (lambda p: p.get('trending') and p['age_m'] <= 1440 and p['liq'] >= 20_000,
+                     dict(tp=None, sl=-0.5, trail=0.5, max_h=24)),
     # Added 2026-11-12. Our own smart-money tracker: 2+ early buyers who were early in a 5x+ pool before.
     'smart_follow': (lambda p: p.get('smart_n', 0) >= 2 and p['liq'] >= 5_000,
                      dict(tp=None, sl=-0.5, trail=0.5, max_h=48)),
@@ -72,13 +79,44 @@ def parse(d, now):
             'age_m': (now - created).total_seconds() / 60}
 
 
-def parse_ds(d, now):
+def parse_ds(d, now, flag='boosted'):
     tx = (d.get('txns') or {}).get('h1') or {}
     created = d.get('pairCreatedAt') or now.timestamp() * 1000
     return {'addr': d['pairAddress'], 'name': (d.get('baseToken') or {}).get('symbol', '?'), 'dex': d.get('dexId', ''),
             'price': float(d.get('priceUsd') or 0), 'liq': float((d.get('liquidity') or {}).get('usd') or 0),
             'vol_h1': float((d.get('volume') or {}).get('h1') or 0), 'buys_h1': tx.get('buys', 0), 'sells_h1': tx.get('sells', 0),
-            'age_m': (now.timestamp() * 1000 - created) / 60000, 'boosted': True}
+            'age_m': (now.timestamp() * 1000 - created) / 60000, flag: True}
+
+
+CHANNELS_FILE = os.path.join(os.path.dirname(os.path.abspath(__file__)), '..', 'config', 'tg_channels.txt')
+NEWS = os.path.join(J, 'meme_news.csv')
+B58 = re.compile(r'\b[1-9A-HJ-NP-Za-km-z]{32,44}\b')
+
+
+def telegram_mentions(now, seen_posts):
+    """Public channel previews (t.me/s/<name>): token addresses posted in the last 30 minutes."""
+    chans = [c.strip() for c in open(CHANNELS_FILE) if c.strip() and not c.startswith('#')] if os.path.exists(CHANNELS_FILE) else []
+    found = {}
+    for ch in chans:
+        try:
+            req = urllib.request.Request(f'https://t.me/s/{ch}', headers={'User-Agent': 'Mozilla/5.0'})
+            html = urllib.request.urlopen(req, timeout=20).read().decode('utf-8', 'ignore')
+        except Exception as e:
+            print('telegram skipped', ch, e); continue
+        for block in html.split('tgme_widget_message_wrap')[1:]:
+            post = re.search(r'data-post="([^"]+)"', block)
+            when = re.search(r'datetime="([^"]+)"', block)
+            if not post or not when or post.group(1) in seen_posts:
+                continue
+            t = dt.datetime.fromisoformat(when.group(1))
+            if (now - t).total_seconds() > 1800:
+                continue
+            seen_posts.append(post.group(1))
+            text = re.sub(r'<[^>]+>', ' ', block.split('tgme_widget_message_text', 1)[-1]) if 'tgme_widget_message_text' in block else ''
+            hrefs = ' '.join(re.findall(r'href="([^"]+)"', block))
+            for a in set(B58.findall(text + ' ' + hrefs.replace('/', ' ').replace('?', ' ').replace('=', ' '))):
+                found.setdefault(a, ch)
+    return found
 
 
 def early_buyers(addr):
@@ -120,6 +158,36 @@ def main():
             new += [parse_ds(d, now) for d in best.values()]
     except Exception as e:
         print('dexscreener skipped:', e)
+    # 0b. news system: Telegram call channels + GeckoTerminal trending
+    try:
+        mentions = telegram_mentions(now, st.setdefault('tg_seen', []))
+        st['tg_seen'] = st['tg_seen'][-3000:]
+        addrs = list(mentions)[:30]
+        if addrs:
+            best = {}
+            for d in get('/tokens/v1/solana/' + ','.join(addrs), DS):
+                t = d['baseToken']['address']
+                if t in mentions and (t not in best or (d.get('liquidity') or {}).get('usd', 0) > (best[t].get('liquidity') or {}).get('usd', 0)):
+                    best[t] = d
+            new_f = not os.path.exists(NEWS)
+            with open(NEWS, 'a', newline='') as f:
+                w = csv.writer(f)
+                if new_f:
+                    w.writerow(['time', 'source', 'token', 'symbol', 'pool', 'mcap', 'liq_usd', 'price'])
+                for t, d in best.items():
+                    w.writerow([now.isoformat(timespec='minutes'), 'tg:' + mentions[t], t, d['baseToken'].get('symbol'), d['pairAddress'],
+                                d.get('marketCap'), (d.get('liquidity') or {}).get('usd'), d.get('priceUsd')])
+                    new.append(parse_ds(d, now, 'tg_call'))
+            print(f'telegram: {len(mentions)} candidates, {len(best)} real tokens')
+    except Exception as e:
+        print('telegram step skipped:', e)
+    try:
+        for d in get('/networks/solana/trending_pools?duration=1h')['data']:
+            p = parse(d, now)
+            p['trending'] = True
+            new.append(p)
+    except Exception as e:
+        print('trending skipped:', e)
     wallets = json.load(open(WALLETS)) if os.path.exists(WALLETS) else {}
     track = json.load(open(TRACK)) if os.path.exists(TRACK) else {}
     fresh = [p for p in new if not p.get('boosted') and p['addr'] not in track and p['liq'] >= 5_000 and p['price'] > 0]
@@ -137,7 +205,10 @@ def main():
     for p in new:
         if p['price'] <= 0:
             continue
+        side_feed = p.get('boosted') or p.get('tg_call') or p.get('trending')
         for name, (entry, _) in STRATS.items():
+            if side_feed and name in NEW_POOL_RULES:  # the original 4 rules are defined on brand-new pools only
+                continue
             key = f'{name}:{p["addr"]}'
             if key in st['seen'] or sum(o['strat'] == name for o in st['open']) >= MAX_OPEN:
                 continue
