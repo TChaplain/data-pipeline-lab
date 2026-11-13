@@ -122,3 +122,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T02:30+00:00,graduates,Democat / SOL,AvSXB48gqn8NNw8rfk9koopDYi9zQAoJy2vjxCyoMHST,2026-11-13T02:20+00:00,0.462,-0.621,stop loss
 2026-11-13T02:30+00:00,smart_follow,Democat / SOL,AvSXB48gqn8NNw8rfk9koopDYi9zQAoJy2vjxCyoMHST,2026-11-13T02:20+00:00,0.462,-0.621,stop loss
 2026-11-13T02:30+00:00,graduates,VI / SOL,DSBqAoiakNLHK4hLCtwEC6rHrFT5iQWHx345zcoHgkX2,2026-11-13T02:20+00:00,0.241,-0.831,stop loss
+2026-11-13T02:40+00:00,moonshot_hold,Democat / SOL,AvSXB48gqn8NNw8rfk9koopDYi9zQAoJy2vjxCyoMHST,2026-11-13T02:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:40+00:00,moonshot_hold,FOMO / SOL,4TB8ywhJ1KGLGhun9YEXzgRXsBw8oPZdHEXq3TbWh8CX,2026-11-13T02:30+00:00,0,-1.03,rug/no liquidity
