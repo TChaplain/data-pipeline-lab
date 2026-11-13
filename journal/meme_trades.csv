@@ -181,3 +181,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T07:40+00:00,moonshot_hold,Rotate / SOL,H1h4BNtnVtDPEGp9wmgHpGnzDo6ZHuB18pXC1sah2Nav,2026-11-13T07:10+00:00,0,-1.03,rug/no liquidity
 2026-11-13T07:40+00:00,graduates,FOOD / SOL,9ku9gr8VuKCAF2FYQivbymxw6pCCbKwR4vYF1HsFrkh3,2026-11-13T07:10+00:00,0,-1.03,rug/no liquidity
 2026-11-13T07:40+00:00,smart_follow,FOOD / SOL,9ku9gr8VuKCAF2FYQivbymxw6pCCbKwR4vYF1HsFrkh3,2026-11-13T07:10+00:00,0,-1.03,rug/no liquidity
+2026-11-13T10:45+00:00,early_momentum,UDTF / SOL,AbNj7s1wFoebWY39vAqUoWna83WybiJ1GVhEEug8rMZ,2026-11-13T03:50+00:00,0.0,-1.06,stop loss
+2026-11-13T10:45+00:00,graduates,UDTF / SOL,AbNj7s1wFoebWY39vAqUoWna83WybiJ1GVhEEug8rMZ,2026-11-13T03:50+00:00,0.0,-1.06,stop loss
+2026-11-13T10:45+00:00,smart_follow,CLOCKED / SOL,BfiYXP8FVg8L3C8A3CoNe61goYFSdY6vtAjGFLvrKDeH,2026-11-13T04:00+00:00,0.034,-1.027,stop loss
+2026-11-13T10:45+00:00,early_momentum,Cole / SOL,9be36uLR8ALqF1JX7fGnY4qVhC9Ye6rPdULeTcypnZi1,2026-11-13T07:40+00:00,0,-1.03,rug/no liquidity
+2026-11-13T10:45+00:00,moonshot_hold,Cole / SOL,9be36uLR8ALqF1JX7fGnY4qVhC9Ye6rPdULeTcypnZi1,2026-11-13T07:40+00:00,0,-1.03,rug/no liquidity
+2026-11-13T10:45+00:00,trending_new,AUTISM / SOL,DWP8DXn6ZooBJyFD1bTRuEWgtHVvpGLjiwokkix1kafE,2026-11-13T07:40+00:00,0.256,-0.817,stop loss
