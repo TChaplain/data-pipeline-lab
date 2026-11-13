@@ -124,3 +124,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T02:30+00:00,graduates,VI / SOL,DSBqAoiakNLHK4hLCtwEC6rHrFT5iQWHx345zcoHgkX2,2026-11-13T02:20+00:00,0.241,-0.831,stop loss
 2026-11-13T02:40+00:00,moonshot_hold,Democat / SOL,AvSXB48gqn8NNw8rfk9koopDYi9zQAoJy2vjxCyoMHST,2026-11-13T02:20+00:00,0,-1.03,rug/no liquidity
 2026-11-13T02:40+00:00,moonshot_hold,FOMO / SOL,4TB8ywhJ1KGLGhun9YEXzgRXsBw8oPZdHEXq3TbWh8CX,2026-11-13T02:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:50+00:00,graduates,LuckyCoin,7YXjoiRDtVkHVJTnFoCiZkH6Ro1BTURTEZSh2HEWU1jE,2026-11-12T15:27+00:00,0.498,-0.587,stop loss
+2026-11-13T02:50+00:00,dex_boosted,LuckyCoin,7YXjoiRDtVkHVJTnFoCiZkH6Ro1BTURTEZSh2HEWU1jE,2026-11-12T15:27+00:00,0.498,-0.587,stop loss
+2026-11-13T02:50+00:00,graduates,Rockstar / SOL,DJ2c2QqMgyGQCXvAW76pRzBzv6T1abDWKy4z4qqtXvTK,2026-11-13T00:40+00:00,0.014,-1.047,stop loss
+2026-11-13T02:50+00:00,graduates,PICO / SOL,9w92DYcKr7M74X4VkP77Fwc7AgAp2L34dnv7dDaufizs,2026-11-13T02:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:50+00:00,moonshot_hold,CHARITY / SOL,45CJaLfAkjYR5Ha3W3yfYyPYhSGxxgAnjnZMtn63mEx6,2026-11-13T02:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:50+00:00,smart_follow,CHARITY / SOL,45CJaLfAkjYR5Ha3W3yfYyPYhSGxxgAnjnZMtn63mEx6,2026-11-13T02:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:50+00:00,moonshot_hold,Blueface / SOL,BPUquBE3X5XGPW36ryZkQALAXa6AGpVnvrGHwZnuYowd,2026-11-13T02:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:50+00:00,smart_follow,AI / SOL,8WPEH7RZgzPb81XTj1ttWfyciCiNxv2YD7Luiacu64YX,2026-11-13T02:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T02:50+00:00,moonshot_hold,Dingus / SOL,8wrApHTDT8DEWxKw2kTyZHTdPXERyYhyRTHEHLaaKXE7,2026-11-13T02:40+00:00,0,-1.03,rug/no liquidity
