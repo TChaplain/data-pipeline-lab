@@ -190,3 +190,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T11:40+00:00,moonshot_hold,MAXJAK / SOL,B8N7LxJZs3SvXZBMwBgj1FshCVmKzitkz7GCAbSU1gdq,2026-11-13T10:45+00:00,0,-1.03,rug/no liquidity
 2026-11-13T11:40+00:00,moonshot_hold,CR7 / SOL,FRZAeBjEZVmUE2kLLCdboEXfFJZJaFcAP9kJupTaUwaK,2026-11-13T10:45+00:00,0,-1.03,rug/no liquidity
 2026-11-13T12:30+00:00,dex_boosted,jjaemu,ASkgoEzt6Pp6LPMwajqQh1QrXTAxZfdfCiAxnE3PBahW,2026-11-12T19:38+00:00,0.024,-1.037,stop loss
+2026-11-13T14:30+00:00,smart_follow,mihao / SOL,HB3rHQAHeaM5Y6eQxdYkdDXvEpgq2vS45rLBMgeVUgNa,2026-11-13T13:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:30+00:00,moonshot_hold,Speed / SOL,4MBj9WPJpQobsrcj4VHR4HpD1VgUKNAe631zYqWU2v4J,2026-11-13T14:20+00:00,0,-1.03,rug/no liquidity
