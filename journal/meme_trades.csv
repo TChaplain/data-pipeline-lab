@@ -178,3 +178,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T07:10+00:00,moonshot_hold,DIVIDEND / SOL,EPr2zHtyJCKfcZKpdwgp1mzapq7PrNjhbRWGaq1u1hap,2026-11-13T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T07:10+00:00,moonshot_hold,dca / SOL,J6sHYRwUNWv9iaARHYVqns39fLAXxnJbhgJvrsyrzujR,2026-11-13T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T07:10+00:00,smart_follow,LEAP / SOL,37sSYtGSj2rEE96YZR9vYJoQFV8pzoudz3TWuHTzAz8L,2026-11-13T05:00+00:00,0.055,-1.008,stop loss
+2026-11-13T07:40+00:00,moonshot_hold,Rotate / SOL,H1h4BNtnVtDPEGp9wmgHpGnzDo6ZHuB18pXC1sah2Nav,2026-11-13T07:10+00:00,0,-1.03,rug/no liquidity
+2026-11-13T07:40+00:00,graduates,FOOD / SOL,9ku9gr8VuKCAF2FYQivbymxw6pCCbKwR4vYF1HsFrkh3,2026-11-13T07:10+00:00,0,-1.03,rug/no liquidity
+2026-11-13T07:40+00:00,smart_follow,FOOD / SOL,9ku9gr8VuKCAF2FYQivbymxw6pCCbKwR4vYF1HsFrkh3,2026-11-13T07:10+00:00,0,-1.03,rug/no liquidity
