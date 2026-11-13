@@ -230,3 +230,10 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T16:10+00:00,moonshot_hold,WHEEL / SOL,2sRJd4QD3C886cSNfNT3cPJk6nC1w6HJ32RX5C2xgtUs,2026-11-13T16:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T16:10+00:00,early_momentum,fomo / SOL,9A9XLZTyFmnDBxbNNppmFJwSQCUYXAU3conQT1zE2fJV,2026-11-13T16:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T16:10+00:00,moonshot_hold,fomo / SOL,9A9XLZTyFmnDBxbNNppmFJwSQCUYXAU3conQT1zE2fJV,2026-11-13T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T16:20+00:00,ape_everything,POKEWORK / SOL,TszpgK1QpXkuS6ZPeCCNV6V5t8q5z7y9fH5qwGwizsh,2026-11-12T15:27+00:00,0.715,-0.381,time exit
+2026-11-13T16:20+00:00,ape_everything,HUANG / SOL,cr68At5fs9EyGwLeKdshMbXXM2wrAozPVBKZRr2j93t,2026-11-12T15:27+00:00,0.952,-0.155,time exit
+2026-11-13T16:20+00:00,graduates,SPEED / SOL,4R8S5NUpaFcPsYLASyWzr6M4qSTGbf5aPJH335ypBvCR,2026-11-13T16:00+00:00,1.231,0.109,trailing stop
+2026-11-13T16:20+00:00,ape_everything,VENZA / SOL,8yFuhzssv5RXPPeNWJJjh8EhukUvHkanr9a1UQZV6hRi,2026-11-13T16:10+00:00,0,-1.03,rug/no liquidity
+2026-11-13T16:20+00:00,early_momentum,VENZA / SOL,8yFuhzssv5RXPPeNWJJjh8EhukUvHkanr9a1UQZV6hRi,2026-11-13T16:10+00:00,0,-1.03,rug/no liquidity
+2026-11-13T16:20+00:00,moonshot_hold,VENZA / SOL,8yFuhzssv5RXPPeNWJJjh8EhukUvHkanr9a1UQZV6hRi,2026-11-13T16:10+00:00,0,-1.03,rug/no liquidity
+2026-11-13T16:20+00:00,ape_everything,Sakura / SOL,8greibB7pcjTCdoaV7nAnoQ1VJWa7pTPeWuxdNdACJyx,2026-11-13T16:10+00:00,0,-1.03,rug/no liquidity
