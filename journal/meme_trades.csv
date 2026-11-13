@@ -192,3 +192,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T12:30+00:00,dex_boosted,jjaemu,ASkgoEzt6Pp6LPMwajqQh1QrXTAxZfdfCiAxnE3PBahW,2026-11-12T19:38+00:00,0.024,-1.037,stop loss
 2026-11-13T14:30+00:00,smart_follow,mihao / SOL,HB3rHQAHeaM5Y6eQxdYkdDXvEpgq2vS45rLBMgeVUgNa,2026-11-13T13:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T14:30+00:00,moonshot_hold,Speed / SOL,4MBj9WPJpQobsrcj4VHR4HpD1VgUKNAe631zYqWU2v4J,2026-11-13T14:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:50+00:00,graduates,UwU / SOL,9Tfhvg9gYQevaBJ7ZnrX8eMmS2BYi91Wu1XSK89XRpbv,2026-11-13T14:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:50+00:00,smart_follow,UwU / SOL,9Tfhvg9gYQevaBJ7ZnrX8eMmS2BYi91Wu1XSK89XRpbv,2026-11-13T14:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:50+00:00,moonshot_hold,Speed / SOL,DKGK6srCWkYztuGzqXwiFrPP724AcjTeg43YgHvXMgPt,2026-11-13T14:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:50+00:00,early_momentum,内个 / SOL,G2xaqSWj3vVagtHBg545VzPbmiEpaM5t8bFnSEBh2uUx,2026-11-13T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:50+00:00,moonshot_hold,内个 / SOL,G2xaqSWj3vVagtHBg545VzPbmiEpaM5t8bFnSEBh2uUx,2026-11-13T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T14:50+00:00,moonshot_hold,AI / SOL,2Wj8NpsmuhNW3VHKXURoUsgNSZjTKxfC4rbfVFdhyHJ5,2026-11-13T14:30+00:00,0,-1.03,rug/no liquidity
