@@ -187,3 +187,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T10:45+00:00,early_momentum,Cole / SOL,9be36uLR8ALqF1JX7fGnY4qVhC9Ye6rPdULeTcypnZi1,2026-11-13T07:40+00:00,0,-1.03,rug/no liquidity
 2026-11-13T10:45+00:00,moonshot_hold,Cole / SOL,9be36uLR8ALqF1JX7fGnY4qVhC9Ye6rPdULeTcypnZi1,2026-11-13T07:40+00:00,0,-1.03,rug/no liquidity
 2026-11-13T10:45+00:00,trending_new,AUTISM / SOL,DWP8DXn6ZooBJyFD1bTRuEWgtHVvpGLjiwokkix1kafE,2026-11-13T07:40+00:00,0.256,-0.817,stop loss
+2026-11-13T11:40+00:00,moonshot_hold,MAXJAK / SOL,B8N7LxJZs3SvXZBMwBgj1FshCVmKzitkz7GCAbSU1gdq,2026-11-13T10:45+00:00,0,-1.03,rug/no liquidity
+2026-11-13T11:40+00:00,moonshot_hold,CR7 / SOL,FRZAeBjEZVmUE2kLLCdboEXfFJZJaFcAP9kJupTaUwaK,2026-11-13T10:45+00:00,0,-1.03,rug/no liquidity
