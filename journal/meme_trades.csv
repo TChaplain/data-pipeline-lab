@@ -402,3 +402,14 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T20:30+00:00,ape_everything,BAWSAQ / SOL,DSvLuk6SfjLTCTh1WAAVbXAhWRrXRECBo7axirUcBAHv,2026-11-13T19:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T20:30+00:00,graduates,BAWSAQ / SOL,DSvLuk6SfjLTCTh1WAAVbXAhWRrXRECBo7axirUcBAHv,2026-11-13T19:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T20:30+00:00,moonshot_hold,ballfin / SOL,9Q8uKENJucM12RGZgJsARp8LoRj2dg3493QyiMpVNX4W,2026-11-13T19:40+00:00,0,-1.03,rug/no liquidity
+2026-11-13T21:20+00:00,ape_everything,Nurtle / SOL,5GH5DabiNSaRdwv9onMooUsgVoW8rYGwvjkpR7oGgmEx,2026-11-12T19:42+00:00,0.95,-0.157,time exit
+2026-11-13T21:20+00:00,ape_everything,RAM / SOL,GPg4pwoK84GaaCYgv9W6HunpUwgQHbeZT4KjxqKELp3Z,2026-11-12T20:30+00:00,0.952,-0.156,time exit
+2026-11-13T21:20+00:00,ape_everything,bork / SOL,6gvvppQynga3pgVJBU33jfBXsc5SAP85N8DpvoBB4867,2026-11-12T20:40+00:00,0.864,-0.239,time exit
+2026-11-13T21:20+00:00,ape_everything,WINDY / USDC,2zAoBRSxhSvMc2xwTRBRxYyLJA3kzz1EJstsyYRd4KTU,2026-11-12T20:40+00:00,0.934,-0.172,time exit
+2026-11-13T21:20+00:00,ape_everything,SI / NVDAx,HfSG5hAH3o1GdJHdXUvGSKfKrwWBTgPFBSEKf5Mwkumt,2026-11-12T21:00+00:00,0.347,-0.73,time exit
+2026-11-13T21:20+00:00,ape_everything,Pocky / SOL,3vjUTMeDa6H2P19KNsSj9YATwJnFLjtaMBVHuqujm73H,2026-11-12T21:20+00:00,0.846,-0.256,time exit
+2026-11-13T21:20+00:00,ape_everything,BAWSAQ / SOL,3WyeGk4BkYCTLGJ9fi7yKD48BC3oQs1z5HxoYrRByQh7,2026-11-13T19:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T21:20+00:00,ape_everything,CC / SOL,3XVVP2zxzN24XqpX7uYLiSsN3TPuxFSGDKafbUy6TTKe,2026-11-13T20:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T21:20+00:00,ape_everything,BAWSAQ / SOL,D13BdevRoTLui9ZQX4VbKSCu2Y4tr1ckGmZ3oNn9tiRx,2026-11-13T20:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T21:20+00:00,graduates,BAWSAQ / SOL,D13BdevRoTLui9ZQX4VbKSCu2Y4tr1ckGmZ3oNn9tiRx,2026-11-13T20:30+00:00,0,-1.03,rug/no liquidity
+2026-11-13T21:20+00:00,smart_follow,BAWSAQ / SOL,D13BdevRoTLui9ZQX4VbKSCu2Y4tr1ckGmZ3oNn9tiRx,2026-11-13T20:30+00:00,0,-1.03,rug/no liquidity
