@@ -167,3 +167,14 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T05:00+00:00,moonshot_hold,APPLE / SOL,4BuKcRp5fEazPjEfXtykQnszHUZRhxgRWB3BQWEEjp62,2026-11-13T04:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T05:00+00:00,moonshot_hold,FOOD / SOL,6vWNGUoyXwzSaxZkGbY7H3pX1nQm8wMcDd3G7L9Vynki,2026-11-13T04:50+00:00,0,-1.03,rug/no liquidity
 2026-11-13T05:00+00:00,moonshot_hold,KKK / SOL,2GF8NUU81o7wWgz1g2u3DwXWxJz95KXg62Gf2tXpD4jY,2026-11-13T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T07:10+00:00,dex_boosted,DOGGLE,DBzwWtsvwYDEf8SG8ypHdTKWdRL3WEvH1qDtwgx9DnqX,2026-11-12T19:38+00:00,0.46,-0.623,stop loss
+2026-11-13T07:10+00:00,trending_new,DOGGLE / SOL,DBzwWtsvwYDEf8SG8ypHdTKWdRL3WEvH1qDtwgx9DnqX,2026-11-12T19:38+00:00,0.46,-0.623,stop loss
+2026-11-13T07:10+00:00,trending_new,FLC / SOL,HGgP8yXg71PdRxTvA53Q7mKdzx9zSTUW8E2roC28WtZa,2026-11-12T19:38+00:00,0.427,-0.655,stop loss
+2026-11-13T07:10+00:00,trending_new,FOOD / SOL,2XhQqp1vDVxtaa21bPsekQF5gjts9euqRPSZ6Urs41qk,2026-11-13T00:20+00:00,1.628,0.486,trailing stop
+2026-11-13T07:10+00:00,dex_boosted,CHARITY,CW8CJreAf2iXMfkzsQy1FoRLrsnG4wwPk7e1j1M8KBSz,2026-11-13T03:10+00:00,0.807,-0.294,trailing stop
+2026-11-13T07:10+00:00,dex_boosted,ODDME,Fw5UBZ3VgzcRw9MW4Kso3ASG1FRkzQmnAL8qRCrYpAfo,2026-11-13T03:40+00:00,0.044,-1.018,stop loss
+2026-11-13T07:10+00:00,tg_call,FOOD,2XhQqp1vDVxtaa21bPsekQF5gjts9euqRPSZ6Urs41qk,2026-11-13T04:00+00:00,1.466,0.333,trailing stop
+2026-11-13T07:10+00:00,smart_follow,FOOD / SOL,4KqcLteERCmZJzGGtnxQe2TgYLw58KjkRnG9nnnYnQ2T,2026-11-13T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T07:10+00:00,moonshot_hold,DIVIDEND / SOL,EPr2zHtyJCKfcZKpdwgp1mzapq7PrNjhbRWGaq1u1hap,2026-11-13T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T07:10+00:00,moonshot_hold,dca / SOL,J6sHYRwUNWv9iaARHYVqns39fLAXxnJbhgJvrsyrzujR,2026-11-13T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T07:10+00:00,smart_follow,LEAP / SOL,37sSYtGSj2rEE96YZR9vYJoQFV8pzoudz3TWuHTzAz8L,2026-11-13T05:00+00:00,0.055,-1.008,stop loss
