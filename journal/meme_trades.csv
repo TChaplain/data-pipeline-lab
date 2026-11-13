@@ -314,3 +314,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T18:00+00:00,moonshot_hold,NICEJAR / SOL,HDXmwyUKFuhWjdDCS18twcZoKLNqk2RMFr85kVrgAv5H,2026-11-13T16:30+00:00,0,-1.03,rug/no liquidity
 2026-11-13T18:00+00:00,graduates,SIRIUS / SOL,3pPt2n33W9Q7D4rMX5ujEAGFYhBycrwsxdwekPoeiL3b,2026-11-13T17:40+00:00,0.4,-0.68,stop loss
 2026-11-13T18:00+00:00,smart_follow,SIRIUS / SOL,3pPt2n33W9Q7D4rMX5ujEAGFYhBycrwsxdwekPoeiL3b,2026-11-13T17:40+00:00,0.4,-0.68,stop loss
+2026-11-13T19:00+00:00,graduates,ANTH / SOL,7fxqDbq1CJjKkWy51UbQVyGcct6VNqCzhjq4HrTjcNje,2026-11-13T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,smart_follow,ANTH / SOL,7fxqDbq1CJjKkWy51UbQVyGcct6VNqCzhjq4HrTjcNje,2026-11-13T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,trending_new,inuhao / SOL,AQFC3QfATJggPQEuQGS65RuAQq5u2Pin6MYjz1eu4s31,2026-11-13T03:10+00:00,0.867,-0.236,trailing stop
+2026-11-13T19:00+00:00,ape_everything,Macca / SOL,HjdVsbX9uxDzmedJsxhsVEtfVY5NnpUJE2KX7xjhxBv6,2026-11-13T18:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,ape_everything,Billy-Jo / SOL,9kvqCNfCTc1ywa6x8Ymd3W8pPtj9VMwtR3HmGbXpBq4U,2026-11-13T18:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,ape_everything,Billy-Jo / SOL,F7bzk2T4K1Pq6rL4giRdGQtgsV2LfzbHh8t6bcubvVjV,2026-11-13T18:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,ape_everything,FOOD / SOL,AeXPtYfL5heWk4iBYz52xjigzD3FNRRheLihchDoWWzb,2026-11-13T18:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,smart_follow,FOOD / SOL,AeXPtYfL5heWk4iBYz52xjigzD3FNRRheLihchDoWWzb,2026-11-13T18:20+00:00,0,-1.03,rug/no liquidity
+2026-11-13T19:00+00:00,moonshot_hold,Billy-Jo / SOL,9kvqCNfCTc1ywa6x8Ymd3W8pPtj9VMwtR3HmGbXpBq4U,2026-11-13T18:20+00:00,0,-1.03,rug/no liquidity
