@@ -155,3 +155,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T04:10+00:00,graduates,AOTF / SOL,5UT8SSWnN5iKkTy4eiJM7LHB62gt93xJ53DifCxU6uKN,2026-11-13T03:40+00:00,0,-1.03,rug/no liquidity
 2026-11-13T04:10+00:00,smart_follow,AOTF / SOL,5UT8SSWnN5iKkTy4eiJM7LHB62gt93xJ53DifCxU6uKN,2026-11-13T03:40+00:00,0,-1.03,rug/no liquidity
 2026-11-13T04:10+00:00,moonshot_hold,AXEL / SOL,81oftEfb3pnX8udgW7gh4LxG356WaYFE8tRaQqzMzbg2,2026-11-13T04:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,early_momentum,THRONG / SOL,5AEoprJ4yDnKYZTBxCXJfKe9pYeV2KcD6nLsw6D7A55K,2026-11-13T00:50+00:00,0.475,-0.608,stop loss
+2026-11-13T04:50+00:00,graduates,THRONG / SOL,5AEoprJ4yDnKYZTBxCXJfKe9pYeV2KcD6nLsw6D7A55K,2026-11-13T00:50+00:00,0.475,-0.608,stop loss
+2026-11-13T04:50+00:00,graduates,AI / SOL,6h2fXPXRVvwFE7o5pGmht9EkiVBu7xQE6UKRDrMwqwP6,2026-11-13T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,smart_follow,AI / SOL,6h2fXPXRVvwFE7o5pGmht9EkiVBu7xQE6UKRDrMwqwP6,2026-11-13T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,moonshot_hold,AI / SOL,6h2fXPXRVvwFE7o5pGmht9EkiVBu7xQE6UKRDrMwqwP6,2026-11-13T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,graduates,Democat / SOL,9waNtrF7Fp1Snj6nkZuftRxjG127nWeWRHiyGyXgjo1n,2026-11-13T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,moonshot_hold,Democat / SOL,9waNtrF7Fp1Snj6nkZuftRxjG127nWeWRHiyGyXgjo1n,2026-11-13T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,graduates,USPR / SOL,B4YgcD3tG5jmfDwzRhiTzuaNxuSPdGgWoszD7omXsEdY,2026-11-13T04:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T04:50+00:00,moonshot_hold,USPR / SOL,B4YgcD3tG5jmfDwzRhiTzuaNxuSPdGgWoszD7omXsEdY,2026-11-13T04:00+00:00,0,-1.03,rug/no liquidity
