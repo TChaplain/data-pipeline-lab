@@ -87,3 +87,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T00:10+00:00,graduates,PLOG / SOL,D8y6VZeZ4qTHDg5KS2cxevuWNg5sgrmmvn2DED7PL29k,2026-11-13T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T00:10+00:00,moonshot_hold,JACKETOFF / SOL,AvyAZ7koo1YvzGB7vNAeTrXTt1ERbJNGT3Wx3juK9y6x,2026-11-13T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-13T00:10+00:00,smart_follow,JACKETOFF / SOL,AvyAZ7koo1YvzGB7vNAeTrXTt1ERbJNGT3Wx3juK9y6x,2026-11-13T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-13T00:20+00:00,graduates,Huang,FJ1Y3drK5Z715mj8Hk512ekk3rQhTAhgRv6HMhnPCN2u,2026-11-12T15:27+00:00,0.467,-0.616,stop loss
+2026-11-13T00:20+00:00,dex_boosted,Huang,FJ1Y3drK5Z715mj8Hk512ekk3rQhTAhgRv6HMhnPCN2u,2026-11-12T15:27+00:00,0.467,-0.616,stop loss
+2026-11-13T00:20+00:00,graduates,Humpback / SOL,FTvKDPw3capJb8BQLqoXqLyicapdC2d4tVVMvVKSKw7D,2026-11-12T23:50+00:00,0,-1.03,rug/no liquidity
+2026-11-13T00:20+00:00,moonshot_hold,Humpback / SOL,FTvKDPw3capJb8BQLqoXqLyicapdC2d4tVVMvVKSKw7D,2026-11-12T23:50+00:00,0,-1.03,rug/no liquidity
