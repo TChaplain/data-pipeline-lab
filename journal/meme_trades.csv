@@ -428,3 +428,18 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-13T21:50+00:00,ape_everything,CSI / SOL,FXBxKh38YLDs7yCYiFJCA6oRZe7pLydnvSjrQLEVrrgQ,2026-11-13T21:20+00:00,0,-1.03,rug/no liquidity
 2026-11-13T21:50+00:00,ape_everything,AURA / SOL,9EJF8pDoCKQEYxon3UGVFNjeVwN8bwXe1ZP1EiymtGm5,2026-11-13T21:20+00:00,0,-1.03,rug/no liquidity
 2026-11-13T21:50+00:00,ape_everything,Slutty / SOL,9RX84HKiV82m12UmUFk1KCPrsFEmtwWYEZoxFiyYxiY,2026-11-13T21:20+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,dex_boosted,$MOONBEAR,7oS4gdUnwat1SiM8ChcogFxEx8sikRVnrAcAsMori25d,2026-11-12T21:10+00:00,0.281,-0.793,stop loss
+2026-11-14T01:10+00:00,ape_everything,EVIL / SOL,HMEHghBbzGUJ6Hvh8ks73g9DYeS4u4ryCNHTvz7x14XP,2026-11-12T21:30+00:00,0.952,-0.155,time exit
+2026-11-14T01:10+00:00,trending_new,Speed / SOL,3nPSVTfVxNBeCQHbPJZtjEsK7WNG3a7FCVP3Jcv43doP,2026-11-13T14:20+00:00,0.087,-0.977,stop loss
+2026-11-14T01:10+00:00,dex_boosted,Nigghao,BwG8m2KZugbJHKBcjrsxiQzFrDHhLChSth2SS3Xy9C7j,2026-11-13T18:00+00:00,0.018,-1.043,stop loss
+2026-11-14T01:10+00:00,ape_everything,CSI / SOL,6y5ygXbZ15AdAdkwJk5AxG4rrwFHoAHihfB7g2nHWHM1,2026-11-13T21:20+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,smart_follow,CSI / SOL,6y5ygXbZ15AdAdkwJk5AxG4rrwFHoAHihfB7g2nHWHM1,2026-11-13T21:20+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,ape_everything,Cyber / SOL,3iQ6Kou2DPFZRcDoWS1fq8oxPpieiFeSEXc4yR5krLno,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,ape_everything,CSI / SOL,AUJxpYiLEe31Wryag4HL54PweEn4nv2ZgAbTQySeeFMN,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,ape_everything,NEX Ai / SOL,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,graduates,NEX Ai / SOL,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,ape_everything,CYBER / SOL,F8Jvg67YmXFGtutDyytctACpFhafc856fqkUpPeJMYjp,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,smart_follow,NEX Ai / SOL,DWbPxA7EiVi7q6zvkZybZei3t7zjj6oJQXgJP2BbcHHk,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,moonshot_hold,CYBER / SOL,F8Jvg67YmXFGtutDyytctACpFhafc856fqkUpPeJMYjp,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,ape_everything,CYBER / SOL,G9q6azWEqNdWsfW74ighWuNwUyP8983iHoygdnUAk54t,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-14T01:10+00:00,moonshot_hold,CYBER / SOL,G9q6azWEqNdWsfW74ighWuNwUyP8983iHoygdnUAk54t,2026-11-13T21:50+00:00,0,-1.03,rug/no liquidity
