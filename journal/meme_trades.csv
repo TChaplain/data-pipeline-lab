@@ -633,3 +633,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-15T23:30+00:00,ape_everything,FLOYD / SOL,42vEKCXL5tH8B7rtoRJB9n78LWpTRYjZ4gxRL7QLFfxo,2026-11-15T23:10+00:00,0,-1.03,rug/no liquidity
 2026-11-15T23:30+00:00,ape_everything,ANIME / SOL,2UtYxXvppSsEFKydzgafjEcwRLzYT7Agg6wpXd2EA26P,2026-11-15T23:20+00:00,0,-1.03,rug/no liquidity
 2026-11-15T23:30+00:00,moonshot_hold,ANIME / SOL,2UtYxXvppSsEFKydzgafjEcwRLzYT7Agg6wpXd2EA26P,2026-11-15T23:20+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:40+00:00,trending_new,BJB / SOL,8184MbYDwZxDZsWSNvDXcdvbffQqJnZqUkm1Qa5LL17k,2026-11-15T23:00+00:00,0.377,-0.701,stop loss
+2026-11-15T23:40+00:00,ape_everything,McNugget / SOL,7jzqiuXbgoNbE1tSXk6Xwd45Y3WhbLBtqZ6RVss3fv6c,2026-11-15T23:20+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:40+00:00,moonshot_hold,McNugget / SOL,7jzqiuXbgoNbE1tSXk6Xwd45Y3WhbLBtqZ6RVss3fv6c,2026-11-15T23:20+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:40+00:00,ape_everything,Kobu / SOL,HYGH77zL6hCudSKsseyP4wWFXGJZhDaeUSHNG5iEDCi4,2026-11-15T23:30+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:40+00:00,ape_everything,MANA / SOL,Hqp5LJsn5MYyo7rpKGHbeTk5MX1s765jqYLort4hSiJK,2026-11-15T23:30+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:40+00:00,smart_follow,MANA / SOL,Hqp5LJsn5MYyo7rpKGHbeTk5MX1s765jqYLort4hSiJK,2026-11-15T23:30+00:00,0,-1.03,rug/no liquidity
