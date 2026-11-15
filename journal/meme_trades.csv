@@ -620,3 +620,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-15T22:50+00:00,ape_everything,AWDADAD / SPCX,FPkDM18i8UbdV3ssKR4QFaeNsFMyXUqAzusf8fgXDyXc,2026-11-14T01:10+00:00,0.952,-0.155,time exit
 2026-11-15T22:50+00:00,ape_everything,$AURA / SOL,ANFsSZiucfyiqzBnhFk7x8tM9QB7WGahSYphxXqS9Mh4,2026-11-14T01:30+00:00,0.952,-0.155,time exit
 2026-11-15T23:00+00:00,ape_everything,BFS / SOL,5M7C3org7S99bWhjARa5h2BqnqcxXPGb9rgzBFsHhn7J,2026-11-15T22:50+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:10+00:00,graduates,LMAO! / SOL,HuFDmtYPigYnryiVjuoBZNTfYaAJ6w2M25t1QZWdbSex,2026-11-15T22:40+00:00,0.105,-0.96,stop loss
+2026-11-15T23:10+00:00,smart_follow,LMAO! / SOL,HuFDmtYPigYnryiVjuoBZNTfYaAJ6w2M25t1QZWdbSex,2026-11-15T22:40+00:00,0.105,-0.96,stop loss
+2026-11-15T23:10+00:00,ape_everything,MANA / SOL,EXgHpmx28xprPVNwGtDZybio6PwBsMTVf1MPBdXDWKnL,2026-11-15T23:00+00:00,0,-1.03,rug/no liquidity
+2026-11-15T23:10+00:00,ape_everything,WINTER / SOL,9rJD5oeqkBwtyxx8Y4wAgwfnJ7a5NpVREJpa28iBj9bw,2026-11-15T23:00+00:00,0,-1.03,rug/no liquidity
