@@ -740,3 +740,10 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T02:50+00:00,smart_follow,UODF / SOL,8U1keSXit4cKmKWUcoG9Lj4JWtvBtgWLWkztHmamMikG,2026-11-16T02:20+00:00,0,-1.03,rug/no liquidity
 2026-11-16T02:50+00:00,moonshot_hold,UODF / SOL,8U1keSXit4cKmKWUcoG9Lj4JWtvBtgWLWkztHmamMikG,2026-11-16T02:20+00:00,0,-1.03,rug/no liquidity
 2026-11-16T02:50+00:00,moonshot_hold,MIRCAT / SOL,CDdqmokhBe3CCpaYYRBDF8JsXzaY8ezAD6UnGMTV52Tv,2026-11-16T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:00+00:00,dex_boosted,NINU,89QbHwWcMLgbJK19AnFtC8E6AUT4mrLxeFyLi4HfiThk,2026-11-15T22:40+00:00,0.471,-0.613,stop loss
+2026-11-16T03:00+00:00,trending_new,NINU / SOL,89QbHwWcMLgbJK19AnFtC8E6AUT4mrLxeFyLi4HfiThk,2026-11-15T22:40+00:00,0.471,-0.613,stop loss
+2026-11-16T03:00+00:00,trending_new,Nеil / SOL,9Sm4qjmSTAVsovis1AuMoNN226xi6fVPCfySLgcs45xe,2026-11-16T02:10+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:00+00:00,moonshot_hold,PEG / SOL,9upEZd4NLVUVnnLN5XSB5xfznibFZag4aruPh3j7CrUP,2026-11-16T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:00+00:00,early_momentum,PEG / SOL,9upEZd4NLVUVnnLN5XSB5xfznibFZag4aruPh3j7CrUP,2026-11-16T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:00+00:00,moonshot_hold,Holden / SOL,7ZfHeYpTPPPAG16sKhxQh5ggCMDt1S35jo1eD7ZHJZxm,2026-11-16T02:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:00+00:00,smart_follow,Holden / SOL,7ZfHeYpTPPPAG16sKhxQh5ggCMDt1S35jo1eD7ZHJZxm,2026-11-16T02:50+00:00,0,-1.03,rug/no liquidity
