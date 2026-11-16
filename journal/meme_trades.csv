@@ -684,3 +684,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T00:30+00:00,smart_follow,BLG / SOL,5DXCzJJ1sRFv4qKVegcfAP9TYQqpiNmVyLyVANEiFD5v,2026-11-16T00:20+00:00,0,-1.03,rug/no liquidity
 2026-11-16T00:30+00:00,moonshot_hold,WAGMI / SOL,qmqerhFPRQ1SEvkJbZw3QAsHosjR5QfghXKcMpS3SAf,2026-11-16T00:20+00:00,0,-1.03,rug/no liquidity
 2026-11-16T00:30+00:00,moonshot_hold,WAGMI / SOL,8ownQssEcd3X2NuXP5pWonHhqLENVmvoA3LJXzBGwz7,2026-11-16T00:20+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:40+00:00,graduates,1000x / SOL,EZPtgeondGMefzaQijAsB2rzjCJzACQNuKYzEKFt2gR1,2026-11-16T00:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:40+00:00,smart_follow,1000x / SOL,EZPtgeondGMefzaQijAsB2rzjCJzACQNuKYzEKFt2gR1,2026-11-16T00:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:40+00:00,moonshot_hold,1000X / SOL,9GQXzc52xgsjwQGRtuFgZbErGrAxatNRCJ25WxwruWFM,2026-11-16T00:30+00:00,0,-1.03,rug/no liquidity
