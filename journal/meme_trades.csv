@@ -750,3 +750,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T03:10+00:00,early_momentum,fobo / SOL,EjtpgS8UrDQ43W4wDXp2uRUXmt8GPq8Lvphjy5cUJc5J,2026-11-16T03:00+00:00,0,-1.03,rug/no liquidity
 2026-11-16T03:10+00:00,moonshot_hold,fobo / SOL,EjtpgS8UrDQ43W4wDXp2uRUXmt8GPq8Lvphjy5cUJc5J,2026-11-16T03:00+00:00,0,-1.03,rug/no liquidity
 2026-11-16T03:20+00:00,smart_follow,NHI / SOL,7trgEePgsiBR2MBqnD6nQdbLAKFz1Xsm9JNaZJMZNNXd,2026-11-16T03:10+00:00,0.162,-0.906,stop loss
+2026-11-16T03:30+00:00,graduates,HOGE / SOL,5MDHg5zCNEZ1hzScWYBMy5YNmeirNKqtppAc7ZCJMkuW,2026-11-16T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,moonshot_hold,HOGE / SOL,5MDHg5zCNEZ1hzScWYBMy5YNmeirNKqtppAc7ZCJMkuW,2026-11-16T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,graduates,仙猫 / SOL,2rN84dbdkg35U7F7aDrTvLUdiss3gfyndqN9XMKSgaLg,2026-11-16T02:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,moonshot_hold,仙猫 / SOL,2rN84dbdkg35U7F7aDrTvLUdiss3gfyndqN9XMKSgaLg,2026-11-16T02:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,smart_follow,仙猫 / SOL,2rN84dbdkg35U7F7aDrTvLUdiss3gfyndqN9XMKSgaLg,2026-11-16T02:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,smart_follow,HOGE / SOL,FEEWvonkvcyQzdnLnyV3f8K58PyxRAGQ1y9fto9WJpt6,2026-11-16T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,moonshot_hold,GTA / SOL,EZFHtVwe8Qp1DGi4RzB18BJ3iaRB19aHTc59Hc4wWLir,2026-11-16T03:20+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,smart_follow,GTA / SOL,EZFHtVwe8Qp1DGi4RzB18BJ3iaRB19aHTc59Hc4wWLir,2026-11-16T03:20+00:00,0,-1.03,rug/no liquidity
+2026-11-16T03:30+00:00,moonshot_hold,LMAO / SOL,5LNjGUfgPhqxLDKtFEp1MCDUCMJMbkxmyHbFaJdfy33P,2026-11-16T03:20+00:00,0,-1.03,rug/no liquidity
