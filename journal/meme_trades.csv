@@ -765,3 +765,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T04:00+00:00,graduates,JUMP / SOL,2q6rTZ9F2YJFc7jMnkdZw6CFXqQoGrYLgGe6jdsVwYMY,2026-11-16T03:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T04:00+00:00,moonshot_hold,JUMP / SOL,2q6rTZ9F2YJFc7jMnkdZw6CFXqQoGrYLgGe6jdsVwYMY,2026-11-16T03:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T04:00+00:00,moonshot_hold,Hobbes / SOL,456G4Te95jH1D5hmbi4CtPAn6FsYwbNNmH1ZcWo7SCcE,2026-11-16T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T04:10+00:00,trending_new,HOGE / USDC,7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor,2026-11-16T01:50+00:00,0.938,-0.169,trailing stop
+2026-11-16T04:10+00:00,graduates,HOGE / SOL,7Zk6F4BBeqLsrZ85Ea1W7ANUzxLTWJDJQhnipe3euyau,2026-11-16T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T04:10+00:00,moonshot_hold,Marvin / SOL,DqyndjcUZhygwBsBNQbbq79is93vpgZA3Cx1djuQisUf,2026-11-16T04:00+00:00,0,-1.03,rug/no liquidity
