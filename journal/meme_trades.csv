@@ -862,3 +862,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T20:30+00:00,graduates,SNUT / SOL,BCxU8oxioRQk84B7tNjh2MxNC7iyPHecwERiLrdphyA4,2026-11-16T19:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T20:30+00:00,smart_follow,SNUT / SOL,BCxU8oxioRQk84B7tNjh2MxNC7iyPHecwERiLrdphyA4,2026-11-16T19:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T20:40+00:00,moonshot_hold,FLOAT / SOL,6cyoUyaVGVaBCJvvnoqvWfWJs5hVnGHswrrJQnomGJXf,2026-11-16T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T20:50+00:00,trending_new,Marvin / SOL,6hs1AR4zpsRwjJq5SCiHojFfWiMhLwqxL9Tzo1xMEG4e,2026-11-16T04:40+00:00,0.437,-0.645,stop loss
+2026-11-16T20:50+00:00,graduates,GTA / SOL,9vieJefrJGb8nzC2cWd4frtjz4H8hTDsTa8C1HZ6eyBe,2026-11-16T19:00+00:00,0.007,-1.054,stop loss
+2026-11-16T20:50+00:00,smart_follow,GTA / SOL,9vieJefrJGb8nzC2cWd4frtjz4H8hTDsTa8C1HZ6eyBe,2026-11-16T19:00+00:00,0.007,-1.054,stop loss
+2026-11-16T20:50+00:00,trending_new,SNUT / SPCX,J7xAvk1YFn3hsZzPeF5hQeR8t5Rc2Rxz76r1gAzoXgXZ,2026-11-16T19:20+00:00,0.456,-0.627,stop loss
+2026-11-16T20:50+00:00,graduates,GORP / SOL,9E76X6cxxUG1mFRwzvAbzMR13s1MVVdeLS7odFcmajXJ,2026-11-16T20:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T20:50+00:00,smart_follow,GORP / SOL,9E76X6cxxUG1mFRwzvAbzMR13s1MVVdeLS7odFcmajXJ,2026-11-16T20:40+00:00,0,-1.03,rug/no liquidity
