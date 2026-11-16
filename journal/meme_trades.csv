@@ -693,3 +693,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T00:50+00:00,ape_everything,IMMORTAL / SOL,GJibps3k4nduXHC4MzobkFPHkR6xCj5D3R8PfNMUAEnu,2026-11-16T00:40+00:00,0,-1.03,rug/no liquidity
 2026-11-16T00:50+00:00,moonshot_hold,IMMORTAL / SOL,GJibps3k4nduXHC4MzobkFPHkR6xCj5D3R8PfNMUAEnu,2026-11-16T00:40+00:00,0,-1.03,rug/no liquidity
 2026-11-16T01:00+00:00,dex_boosted,GTAVI,J3BYGU9dTkVZ28PXfKbpp8R6ienTEWcYYnPbyDYo2xCW,2026-11-15T23:20+00:00,0.498,-0.587,stop loss
+2026-11-16T01:10+00:00,dex_boosted,Punch,A6KHMiFzn9AM7VKBtVP4fZNY9bCo2jP63R9dphaW1vrq,2026-11-14T01:10+00:00,0.824,-0.277,time exit
+2026-11-16T01:10+00:00,dex_boosted,GLITCH,Em6RvzGXhd35pZ7CVUjCTPEnv4jAztScaVHaXBXCBcG7,2026-11-14T01:10+00:00,0.64,-0.452,time exit
+2026-11-16T01:10+00:00,dex_boosted,Gato,H4wp14QGkt3YextGrQXDqF1c3EPZVMxufgGcUhxSRJN4,2026-11-14T01:10+00:00,0.599,-0.491,time exit
+2026-11-16T01:10+00:00,moonshot_hold,Pepe / SOL,DziF8rhRRLsFsTFNgKsNbSg1rCL5FSXQ8zMRpFRNLUXv,2026-11-16T00:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T01:10+00:00,moonshot_hold,GRAPES / SOL,B3swBkUSGuDuBu4dKfghcgyfbDQp11Zp1rvqPc7y4g3y,2026-11-16T01:00+00:00,0,-1.03,rug/no liquidity
