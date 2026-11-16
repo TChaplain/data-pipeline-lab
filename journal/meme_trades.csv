@@ -791,3 +791,16 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T05:00+00:00,graduates,WIGGLES / SOL,7MMhpJtFUNQCdqrUYALKWAYxNbrZfQ9JhWAUi5tYAR1D,2026-11-16T04:30+00:00,0,-1.03,rug/no liquidity
 2026-11-16T05:00+00:00,moonshot_hold,WIGGLES / SOL,7MMhpJtFUNQCdqrUYALKWAYxNbrZfQ9JhWAUi5tYAR1D,2026-11-16T04:30+00:00,0,-1.03,rug/no liquidity
 2026-11-16T05:00+00:00,moonshot_hold,mihao / SOL,3jCeeuRZv6cwVK5smtMXr2mLF4M3T1XkM9WcutU3aRA8,2026-11-16T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,dex_boosted,TAIL,7GDmQtv4HyfrYAvwaoY63jV8cyZs3p2hqkVkek7q1Yw3,2026-11-15T22:40+00:00,0.351,-0.727,stop loss
+2026-11-16T13:00+00:00,ape_everything,nma / SOL,H9j8jzVfjqFjwX36J4RFFBFR9SckwRLckFTonrjHUvJf,2026-11-15T23:56+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,smart_follow,nma / SOL,H9j8jzVfjqFjwX36J4RFFBFR9SckwRLckFTonrjHUvJf,2026-11-15T23:56+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,GTAVI / SOL,AHPcxA9p7apx8P2cL316ingfCyQiUPx2m52FJeaSY6SR,2026-11-16T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,Marvin / SOL,FceqBXmU5foq99rr3iUcmQwj65S348WsUBu9FEZ6mc29,2026-11-16T04:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,graduates,BUTTHOLE / SOL,GzRXbJTSBy8NfqK9245tYDWPmDSVWQD89LqhoqzKq7mh,2026-11-16T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,Marvin / SOL,B2via6t56WUVnZssTrKQ957FAgYiHAAnyfzH4ED7tHey,2026-11-16T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,graduates,JENSEN / SOL,E6MXqwooHKbg5ZVGBZAMAiByxFeqKLYLG76cimPJyosg,2026-11-16T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,JENSEN / SOL,E6MXqwooHKbg5ZVGBZAMAiByxFeqKLYLG76cimPJyosg,2026-11-16T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,AudaCity / SOL,EzvQNCnPzYZ9Yv2sEa7AABYnrwW8CH2SJUHuJKb46Jr7,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,AudaCity / SOL,C4sa3y5D69acspWCahQNg2Zi7sudshXazTzn1kwKSHHy,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,graduates,Marvin / SOL,7dQ98T8SAxwbuppa2ANf2WCXYENYDNwBXtxDaKWqhaXC,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:00+00:00,moonshot_hold,Marvin / SOL,7dQ98T8SAxwbuppa2ANf2WCXYENYDNwBXtxDaKWqhaXC,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
