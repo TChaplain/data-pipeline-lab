@@ -662,3 +662,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-15T23:56+00:00,ape_everything,SI / SOL,HKvYxKCnCDxuEHZrbQywBYiJBgcAyKj3j84A3ePrG6ez,2026-11-15T23:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T00:00+00:00,ape_everything,FLOTI / SOL,2trmCeJYzEzW1iZrvXxRNLXSCXTQKtwAZzDMiuo9WVb6,2026-11-15T23:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T00:00+00:00,moonshot_hold,FLOTI / SOL,2trmCeJYzEzW1iZrvXxRNLXSCXTQKtwAZzDMiuo9WVb6,2026-11-15T23:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:10+00:00,ape_everything,PURR / SOL,7bPTdpKP2rAwMBMb7tiDnRTxJGwBk6FKearuNveoHpdg,2026-11-15T23:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:10+00:00,smart_follow,Deliv / SOL,2zFPutiGqvBBJD34kjTUj9QDcyQCx3S9mAPvJyAKuHAp,2026-11-15T23:56+00:00,0.194,-0.875,stop loss
+2026-11-16T00:10+00:00,ape_everything,nma / SOL,AfeyLpcteLUa79yhMoHvN8aGucPwBevsXzRcSE1VEBRC,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:10+00:00,moonshot_hold,nma / SOL,AfeyLpcteLUa79yhMoHvN8aGucPwBevsXzRcSE1VEBRC,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
