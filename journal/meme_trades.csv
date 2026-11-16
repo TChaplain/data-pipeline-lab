@@ -698,3 +698,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T01:10+00:00,dex_boosted,Gato,H4wp14QGkt3YextGrQXDqF1c3EPZVMxufgGcUhxSRJN4,2026-11-14T01:10+00:00,0.599,-0.491,time exit
 2026-11-16T01:10+00:00,moonshot_hold,Pepe / SOL,DziF8rhRRLsFsTFNgKsNbSg1rCL5FSXQ8zMRpFRNLUXv,2026-11-16T00:50+00:00,0,-1.03,rug/no liquidity
 2026-11-16T01:10+00:00,moonshot_hold,GRAPES / SOL,B3swBkUSGuDuBu4dKfghcgyfbDQp11Zp1rvqPc7y4g3y,2026-11-16T01:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T01:20+00:00,moonshot_hold,WIGGLES / SOL,6Jtb3uXxCmQXFrF2nBRZVa2K16ALQmo8R4RjZRYZi8aQ,2026-11-16T01:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T01:20+00:00,early_momentum,Neko / SOL,42maEPSwrHz3x8n5L375V8CQbkGP6V9X7W5fLdtF487K,2026-11-16T01:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T01:20+00:00,moonshot_hold,Neko / SOL,42maEPSwrHz3x8n5L375V8CQbkGP6V9X7W5fLdtF487K,2026-11-16T01:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T01:20+00:00,smart_follow,Nеil / SOL,3EwexQfRXpmwMu26BKvYSpxCSBWpfX5nbkdswNgUSpu1,2026-11-16T01:10+00:00,0,-1.03,rug/no liquidity
