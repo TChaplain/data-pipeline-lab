@@ -666,3 +666,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T00:10+00:00,smart_follow,Deliv / SOL,2zFPutiGqvBBJD34kjTUj9QDcyQCx3S9mAPvJyAKuHAp,2026-11-15T23:56+00:00,0.194,-0.875,stop loss
 2026-11-16T00:10+00:00,ape_everything,nma / SOL,AfeyLpcteLUa79yhMoHvN8aGucPwBevsXzRcSE1VEBRC,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-16T00:10+00:00,moonshot_hold,nma / SOL,AfeyLpcteLUa79yhMoHvN8aGucPwBevsXzRcSE1VEBRC,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,ape_everything,Democat / SOL,BXeK5Z4CXHGSKV49CHLqdd8qi6xYmWT2oUPamu5dV5E2,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,graduates,Democat / SOL,BXeK5Z4CXHGSKV49CHLqdd8qi6xYmWT2oUPamu5dV5E2,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,moonshot_hold,Democat / SOL,BXeK5Z4CXHGSKV49CHLqdd8qi6xYmWT2oUPamu5dV5E2,2026-11-16T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,ape_everything,FWilly / SOL,2FYpWt8V7TsBpqTzRiheH3ZBEy4S33EhSB9TXn7y23A2,2026-11-16T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,moonshot_hold,FWilly / SOL,2FYpWt8V7TsBpqTzRiheH3ZBEy4S33EhSB9TXn7y23A2,2026-11-16T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,ape_everything,CARMMIC / SOL,3JWndn3HtgJE5N92SUswLW65iv6S4PHsK5ynVPj7pqEY,2026-11-16T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,graduates,CARMMIC / SOL,3JWndn3HtgJE5N92SUswLW65iv6S4PHsK5ynVPj7pqEY,2026-11-16T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-16T00:20+00:00,smart_follow,CARMMIC / SOL,3JWndn3HtgJE5N92SUswLW65iv6S4PHsK5ynVPj7pqEY,2026-11-16T00:10+00:00,0,-1.03,rug/no liquidity
