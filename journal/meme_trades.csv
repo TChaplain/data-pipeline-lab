@@ -857,3 +857,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T19:30+00:00,moonshot_hold,MEOWL / SOL,5K5L7Cq3nMMAR33nvEDGE6RWimGsWmdaGeCVH7FpNQ7L,2026-11-16T19:20+00:00,0,-1.03,rug/no liquidity
 2026-11-16T19:50+00:00,early_momentum,HOG / SOL,2dTtnX43XEBBRZehEDb3TEtiUkseVLYsjt3LyYeinVHk,2026-11-16T19:30+00:00,0,-1.03,rug/no liquidity
 2026-11-16T19:50+00:00,moonshot_hold,HOG / SOL,2dTtnX43XEBBRZehEDb3TEtiUkseVLYsjt3LyYeinVHk,2026-11-16T19:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T20:30+00:00,moonshot_hold,BANK / SOL,7gcjbTsuC55PgDgwUBtavQL8CAJqxX2HsMTjS9u2FeS7,2026-11-16T19:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T20:30+00:00,trending_new,LEMON / SOL,5qwpPKpEK9kZsDYN7civM1R8SW7YawdoZcKVPyuJ65zh,2026-11-16T19:30+00:00,0.015,-1.046,stop loss
+2026-11-16T20:30+00:00,graduates,SNUT / SOL,BCxU8oxioRQk84B7tNjh2MxNC7iyPHecwERiLrdphyA4,2026-11-16T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-16T20:30+00:00,smart_follow,SNUT / SOL,BCxU8oxioRQk84B7tNjh2MxNC7iyPHecwERiLrdphyA4,2026-11-16T19:50+00:00,0,-1.03,rug/no liquidity
