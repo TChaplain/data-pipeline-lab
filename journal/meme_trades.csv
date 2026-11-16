@@ -848,3 +848,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T19:00+00:00,smart_follow,Huss / SOL,GkHcYZeXDi2SveqNaGSg3qxrkzShDr5Dxrd482kM2hXx,2026-11-16T17:30+00:00,0.455,-0.628,stop loss
 2026-11-16T19:00+00:00,moonshot_hold,ANGSTIPAN / TTWO,CZG2XU65rSq4eUJpWoF8jQ6YQgJV8kcKB7aghmYxH2ZL,2026-11-16T17:30+00:00,0,-1.03,rug/no liquidity
 2026-11-16T19:00+00:00,trending_new,Lemon / SOL,HTvR8ckL2MDuKoupy5b8ae36HkUBBAErLNMhNpnzuJvQ,2026-11-16T17:30+00:00,0.273,-0.8,stop loss
+2026-11-16T19:20+00:00,trending_new,XRL / SOL,58A2c7uxZbPQaSTTnkdHoG7ancHnuu92ZSgmPrc13Xoq,2026-11-16T04:10+00:00,0.462,-0.621,stop loss
+2026-11-16T19:20+00:00,dex_boosted,XRL,58A2c7uxZbPQaSTTnkdHoG7ancHnuu92ZSgmPrc13Xoq,2026-11-16T14:20+00:00,0.457,-0.626,stop loss
+2026-11-16T19:20+00:00,graduates,中国人牛逼 / SOL,2vhJmh5Kmb8Fr6HDP4KpDaem55KpjchjNtakGtPbbxHE,2026-11-16T19:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T19:20+00:00,moonshot_hold,中国人牛逼 / SOL,2vhJmh5Kmb8Fr6HDP4KpDaem55KpjchjNtakGtPbbxHE,2026-11-16T19:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T19:20+00:00,dex_boosted,EPIC,5c69sobZM2gNdUjUH5mQ5tBM6AMcUkzxvMNGki8P6Ehq,2026-11-16T19:00+00:00,0.058,-1.004,stop loss
