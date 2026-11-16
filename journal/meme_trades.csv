@@ -804,3 +804,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T13:00+00:00,moonshot_hold,AudaCity / SOL,C4sa3y5D69acspWCahQNg2Zi7sudshXazTzn1kwKSHHy,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-16T13:00+00:00,graduates,Marvin / SOL,7dQ98T8SAxwbuppa2ANf2WCXYENYDNwBXtxDaKWqhaXC,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-16T13:00+00:00,moonshot_hold,Marvin / SOL,7dQ98T8SAxwbuppa2ANf2WCXYENYDNwBXtxDaKWqhaXC,2026-11-16T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:18+00:00,dex_boosted,Nyajira,vM9GA1q6LfbjpWx27u9dqZyRNYeyKzCfC86qLHMXfYa,2026-11-15T22:40+00:00,0.257,-0.816,stop loss
+2026-11-16T13:18+00:00,early_momentum,peak / SOL,AEzQxzMm3zgcPwnVvMVjRTLmBdYqyrhWWr3dV478oMvY,2026-11-16T13:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:18+00:00,moonshot_hold,peak / SOL,AEzQxzMm3zgcPwnVvMVjRTLmBdYqyrhWWr3dV478oMvY,2026-11-16T13:00+00:00,0,-1.03,rug/no liquidity
+2026-11-16T13:18+00:00,moonshot_hold,GTA$ / SOL,2UztBss9xFzXr3TtamoobR3Qivi4NxorWNH2PCNSJoXE,2026-11-16T13:00+00:00,0,-1.03,rug/no liquidity
