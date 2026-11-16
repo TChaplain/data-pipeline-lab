@@ -816,3 +816,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-16T14:20+00:00,graduates,USPR / SOL,8Ef2DP3Tzh3zcTYu6zj8zz5X8pGmvzSZiDBcumk4jrcX,2026-11-16T13:40+00:00,0,-1.03,rug/no liquidity
 2026-11-16T14:20+00:00,moonshot_hold,USPR / SOL,8Ef2DP3Tzh3zcTYu6zj8zz5X8pGmvzSZiDBcumk4jrcX,2026-11-16T13:40+00:00,0,-1.03,rug/no liquidity
 2026-11-16T14:20+00:00,smart_follow,USPR / SOL,8Ef2DP3Tzh3zcTYu6zj8zz5X8pGmvzSZiDBcumk4jrcX,2026-11-16T13:40+00:00,0,-1.03,rug/no liquidity
+2026-11-16T15:40+00:00,dex_boosted,Anthropig,4rm7LQ7uDXMmMGV88QJK1ck22xUq3cxg9QqiyMBhKsnq,2026-11-16T01:10+00:00,0.002,-1.058,stop loss
+2026-11-16T15:40+00:00,moonshot_hold,Stumpy / SOL,3Jth2Tn9GSJc1ydm3JwSGXqmH1pMLZYkhWmFtJPBGSdi,2026-11-16T14:20+00:00,0,-1.03,rug/no liquidity
+2026-11-16T15:40+00:00,early_momentum,SuperJense / SOL,3NthXMdQnx9wTaSgCTPcr93tWV4RHTEBsgazk7ZS9QPB,2026-11-16T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T15:40+00:00,graduates,SuperJense / SOL,3NthXMdQnx9wTaSgCTPcr93tWV4RHTEBsgazk7ZS9QPB,2026-11-16T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T15:40+00:00,moonshot_hold,SuperJense / SOL,3NthXMdQnx9wTaSgCTPcr93tWV4RHTEBsgazk7ZS9QPB,2026-11-16T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-16T15:40+00:00,smart_follow,SuperJense / SOL,3NthXMdQnx9wTaSgCTPcr93tWV4RHTEBsgazk7ZS9QPB,2026-11-16T14:30+00:00,0,-1.03,rug/no liquidity
