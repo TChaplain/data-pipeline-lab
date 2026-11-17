@@ -1255,3 +1255,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T21:50+00:00,graduates,GEKKO / SOL,5Q2YebWkykT5wS2pcSvN6DXmEMKgNSepyq5Zdmxqj4Ac,2026-11-17T21:20+00:00,0,-1.03,rug/no liquidity
 2026-11-17T21:50+00:00,moonshot_hold,GEKKO / SOL,5Q2YebWkykT5wS2pcSvN6DXmEMKgNSepyq5Zdmxqj4Ac,2026-11-17T21:20+00:00,0,-1.03,rug/no liquidity
 2026-11-17T21:50+00:00,moonshot_hold,mihao / SOL,6CwWcf6iWf1xp6YQGixYwz1qL764NCiNtfQz1MDtAxc8,2026-11-17T21:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T22:00+00:00,dex_boosted,LUCIA,35kmRQyNDeHbxdZN2t9hLyAr537UXwwbRYH5xH7VAm9f,2026-11-17T20:20+00:00,0.013,-1.047,stop loss
+2026-11-17T22:00+00:00,moonshot_hold,NI / SOL,4aLCrA25eyHfEPYGGUdwPwzwBfL8Uyz9AvoWYnwGDGZP,2026-11-17T21:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T22:00+00:00,graduates,ELON / SOL,6EE8iJRXSG3RhfktgzQYf91AX3jE4Xdj1aymze4NGquB,2026-11-17T21:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T22:00+00:00,moonshot_hold,ELON / SOL,6EE8iJRXSG3RhfktgzQYf91AX3jE4Xdj1aymze4NGquB,2026-11-17T21:30+00:00,0,-1.03,rug/no liquidity
