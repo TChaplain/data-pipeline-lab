@@ -1299,3 +1299,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T23:10+00:00,ape_everything,Toly / BP,9bCaBguVZwPCWVRFXuZsShfGJaVJ3DmYCXx9gTtPmxni,2026-11-16T23:01+00:00,0.952,-0.155,time exit
 2026-11-17T23:10+00:00,graduates,NVIDIANS / SOL,5rPUGXE5TL4ZQiyXcRouhBQ8Gckci2hbhjGzhEd9k2xK,2026-11-17T22:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T23:10+00:00,smart_follow,NVIDIANS / SOL,5rPUGXE5TL4ZQiyXcRouhBQ8Gckci2hbhjGzhEd9k2xK,2026-11-17T22:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T23:20+00:00,ape_everything,GNB / SOL,BbkTTGviW4eoKm7YYeR4xQHsd1PUDAKPAaq2RcBszCpu,2026-11-16T23:01+00:00,0.952,-0.155,time exit
+2026-11-17T23:20+00:00,ape_everything,ballon / SOL,BH29s62fSnkmSYdh1PcdDXS5tyYDk8tYEEBQZGv6NonF,2026-11-16T23:01+00:00,0.952,-0.155,time exit
+2026-11-17T23:20+00:00,dex_boosted,LUNO,sVVcu9n1FbKwYS39gWw76NAE2jWBckCBdbC6jquaWC6,2026-11-17T21:20+00:00,0.279,-0.795,stop loss
+2026-11-17T23:20+00:00,moonshot_hold,wof / SOL,8saFgfCt4kL9JaRMQV3XryakRzUhrHcD8ocpcmc2kim3,2026-11-17T22:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T23:20+00:00,moonshot_hold,11/19 / SOL,4jCrAKeCUqmmMy7Fj9G7beHvWABP9GEoim9bvfEixsQU,2026-11-17T23:10+00:00,0,-1.03,rug/no liquidity
