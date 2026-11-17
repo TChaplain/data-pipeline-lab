@@ -1005,3 +1005,27 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T00:30+00:00,graduates,Zelleinu / SOL,8ey5jqxDA97LCDobW6XeETHfhMMw3vo8vitYqqZR6HaM,2026-11-16T22:50+00:00,0,-1.03,rug/no liquidity
 2026-11-17T00:30+00:00,ape_everything,MOON / SOL,EHr33FwEY4uc6WctueMqfDw5otMx8Gr5MCBcprjhLRb9,2026-11-16T23:01+00:00,0,-1.03,rug/no liquidity
 2026-11-17T00:30+00:00,ape_everything,JENSEN / SOL,869Vp5Zt97vEDjkPnrS2Nt9GnjHDo3E4kc8nefL931ab,2026-11-16T23:01+00:00,0,-1.03,rug/no liquidity
+2026-11-17T00:50+00:00,ape_everything,Stories / RBLX,F4F1qbUivbgJUig5UeYevixgmaqHqYKF4T9MMS53HMPf,2026-11-15T23:10+00:00,0.952,-0.155,time exit
+2026-11-17T00:50+00:00,ape_everything,Stories / RBLX,En5mYpZbkZ7KHdTMrgAyfR16VfffLuYC2Pua1FLLdK9g,2026-11-15T23:10+00:00,0.952,-0.155,time exit
+2026-11-17T00:50+00:00,ape_everything,BI / SPCX,8s6duqyb6qUUTjm1gjhopgMqRCG2ym2h6N56zNBFcrsk,2026-11-15T23:10+00:00,0.926,-0.18,time exit
+2026-11-17T00:50+00:00,ape_everything,Luffy / SOL,91bAnUTTLQ2AwoWRoLQZZT9xMT9LXyXFyfqMw2AHdMXU,2026-11-15T23:20+00:00,0.952,-0.155,time exit
+2026-11-17T00:50+00:00,ape_everything,LEAKED / RBLX,49PLuouaBN6NZHV9kP3yLtnhTT911h4mVNj7Uo4HzEvT,2026-11-15T23:20+00:00,0.952,-0.155,time exit
+2026-11-17T00:50+00:00,ape_everything,Meme Coin / SOL,F2m4C2xRN3M7dx2QhRTx65N12q9Pmuhg1c7472cPZvfb,2026-11-15T23:30+00:00,0.937,-0.17,time exit
+2026-11-17T00:50+00:00,ape_everything,AVON / TTWO,FLzWvMbwtFxLA9bqxtxBP7gGUzQsvPQh96imMuEpSKL4,2026-11-15T23:40+00:00,0.952,-0.155,time exit
+2026-11-17T00:50+00:00,ape_everything,FREEZE / SOL,3uHQyWFNsRDNgAnCi9rPV8y3DULYcKn7HXHV9MooFE8n,2026-11-15T23:40+00:00,0.528,-0.559,time exit
+2026-11-17T00:50+00:00,ape_everything,LOUI / TTWO,3hiUNgUbtoKkzhNNzHj5hqMqRHxEx12MR7dezRCjALpr,2026-11-15T23:40+00:00,0.903,-0.203,time exit
+2026-11-17T00:50+00:00,ape_everything,hc / SOL,9n6Cmq5tCuNZeyUTrb1FcuJcgCYJ9iNLUVZpEnFhPJC2,2026-11-15T23:56+00:00,0.932,-0.175,time exit
+2026-11-17T00:50+00:00,ape_everything,SHAW / SOL,FP6XuQEvTeEsV8MrMaxhHD3ePG8hctBkhSuQRwVweumQ,2026-11-16T00:00+00:00,0.95,-0.158,time exit
+2026-11-17T00:50+00:00,tg_call,gtacoin,9ZTc73Qq2p77gRMHZzsFP4TEZMiSvkxBpVjvonnZevBe,2026-11-16T00:00+00:00,0.967,-0.142,time exit
+2026-11-17T00:50+00:00,ape_everything,CallInu / PUMP,FFJDhNcxup7g1ozi7R3Ms8AaP9cn9NFn2k9JMCpcVWE7,2026-11-16T00:10+00:00,0.973,-0.136,time exit
+2026-11-17T00:50+00:00,ape_everything,catcall / PUMP,9Z6njZGSQsHhtUiZyLk549dXtFUpf9TWEt7MZrGpMxey,2026-11-16T00:10+00:00,1.059,-0.054,time exit
+2026-11-17T00:50+00:00,ape_everything,Save Kevin / SOL,ExDtUudNzRvgMmsXVAow7mP3xxWtsXZxoKdvmwJdkVhx,2026-11-16T00:10+00:00,0.907,-0.198,time exit
+2026-11-17T00:50+00:00,ape_everything,Callcat / PUMP,9oqAyVbE9C5taRhP88DDycz4BiYcav5QV3NVsaNtmW1r,2026-11-16T00:10+00:00,0.936,-0.171,time exit
+2026-11-17T00:50+00:00,ape_everything,ANSEM / SOL,3cfNAjysn2BxxE7uqcSgtpyzvtLpQri46zTZpnYh3VMd,2026-11-16T00:40+00:00,0.855,-0.248,time exit
+2026-11-17T00:50+00:00,ape_everything,BAGHOLDER / SOL,BW3w5tLfTVhgnE1uSCMU3CMnsNJZrfUEXuhXLmrNy69Q,2026-11-16T00:40+00:00,0.998,-0.112,time exit
+2026-11-17T00:50+00:00,ape_everything,Soul / SOL,HM9V3gWbPuNo7tyoiCQ4qwkrjroNicrAimXzFPvPGyT2,2026-11-16T00:40+00:00,0.911,-0.195,time exit
+2026-11-17T00:50+00:00,ape_everything,sent / SOL,9uzKFsUrEaqma4KLjLMrKGn4dALE3nRa1vUfdLctvbDX,2026-11-17T00:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T00:50+00:00,ape_everything,AGC / SOL,6pkr6WA8iqQKi9r2tSCPL33mnYhivmJj3rBw73cQUJbQ,2026-11-17T00:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T00:50+00:00,moonshot_hold,sent / SOL,9uzKFsUrEaqma4KLjLMrKGn4dALE3nRa1vUfdLctvbDX,2026-11-17T00:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T00:50+00:00,moonshot_hold,SENT / SOL,BYMnMZt152kVkMo2u6BbgZszPeaY5RGP3cYP7Nxxfr3v,2026-11-17T00:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T00:50+00:00,graduates,VOYDAY / SOL,BJ1B1Q5Xajq5UmHRbGXxAgccn7JGj1EPK3MFaPZLSUj7,2026-11-17T00:30+00:00,0,-1.03,rug/no liquidity
