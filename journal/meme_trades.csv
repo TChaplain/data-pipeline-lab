@@ -1138,3 +1138,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T16:20+00:00,smart_follow,BAWSAQ / SOL,8hPs3gpVu4KdjAKWdyTEoHv3NgG4HXsbQ4tRaNM8PVfm,2026-11-17T16:10+00:00,0,-1.03,rug/no liquidity
 2026-11-17T16:20+00:00,moonshot_hold,GEKKO / SOL,FWSgeCz9QU6vWpRBYsY1GHERhgqobqUHuy9jNyi4tKMj,2026-11-17T16:10+00:00,0,-1.03,rug/no liquidity
 2026-11-17T16:20+00:00,moonshot_hold,NSA / SOL,3CwUkw3e9hCYAM12V6n4reMfRvGs3MMdung1hWhCoE22,2026-11-17T16:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T16:30+00:00,trending_new,GEKKO / SOL,8fn8y2pcEVtMPyXuKtUmTPTFnDu1yTugDzpM1bDdcATy,2026-11-17T14:50+00:00,0.443,-0.639,stop loss
+2026-11-17T16:30+00:00,graduates,GEKKO / SOL,Fd6QzPMxPRA9d3fEzvooq4JJJs46mxt91vzuZkoXWJbw,2026-11-17T15:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T16:30+00:00,early_momentum,Simpsons / SOL,7P8vH3b12V23aDW9ASttffL22nGDaL1ViTkLFzh1fGhK,2026-11-17T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T16:30+00:00,moonshot_hold,Simpsons / SOL,7P8vH3b12V23aDW9ASttffL22nGDaL1ViTkLFzh1fGhK,2026-11-17T16:00+00:00,0,-1.03,rug/no liquidity
