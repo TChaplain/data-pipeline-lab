@@ -1218,3 +1218,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T19:50+00:00,graduates,GTAVI / SOL,8RjcQWRto6s8hkDQbdtWGhTAj5XKVLmLAD1BPF85y6uS,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
 2026-11-17T19:50+00:00,moonshot_hold,GTAVI / SOL,8RjcQWRto6s8hkDQbdtWGhTAj5XKVLmLAD1BPF85y6uS,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
 2026-11-17T19:50+00:00,smart_follow,GTAVI / SOL,8RjcQWRto6s8hkDQbdtWGhTAj5XKVLmLAD1BPF85y6uS,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:00+00:00,early_momentum,AUDACITY / SOL,8N2qgmGSgnUr4U5R9KUku8WyNhCXqZ6PHBfZMQkraRE6,2026-11-17T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:00+00:00,moonshot_hold,AUDACITY / SOL,8N2qgmGSgnUr4U5R9KUku8WyNhCXqZ6PHBfZMQkraRE6,2026-11-17T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:00+00:00,smart_follow,AUDACITY / SOL,8N2qgmGSgnUr4U5R9KUku8WyNhCXqZ6PHBfZMQkraRE6,2026-11-17T19:50+00:00,0,-1.03,rug/no liquidity
