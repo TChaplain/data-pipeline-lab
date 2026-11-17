@@ -1246,3 +1246,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T21:20+00:00,moonshot_hold,PS5 / SOL,6xffgmYRnCeejBCfj7r1GhSiVuf9AvzzFdLYQAX71WFN,2026-11-17T21:00+00:00,0,-1.03,rug/no liquidity
 2026-11-17T21:20+00:00,smart_follow,elf / SOL,EbpPkG9RRMJ7CidNkAgFHq7ZDbfnoJXJJkgJzA8DA59m,2026-11-17T21:10+00:00,0,-1.03,rug/no liquidity
 2026-11-17T21:30+00:00,moonshot_hold,PIKA / SOL,8SLXRRbVErwiuuJq9PHtfuU6Qt1NTmbAHFnyVio5FAoR,2026-11-17T21:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:40+00:00,moonshot_hold,NEGRO / SOL,nRj6k6hN9QfH8JBxYgGH4uDK57vTwJvvsFPW8rq2JoP,2026-11-17T21:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:40+00:00,moonshot_hold,ASAMI / SOL,GrY1NCRFz15bPami85ZtanDzuy2YV9Qn8U1Ti98hNgMX,2026-11-17T21:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:40+00:00,moonshot_hold,ASAMI / SOL,5iK5SUauFWHoVscXduyQoN3nEFSwK17MnaiFQydm8FP5,2026-11-17T21:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:40+00:00,trending_new,PS5 / SOL,ATC6PJd9erfuzs4giV6DNW8dHeVRBUEuRFPcQBLQFTC7,2026-11-17T21:30+00:00,0.452,-0.631,stop loss
