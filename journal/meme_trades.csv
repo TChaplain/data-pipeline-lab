@@ -1094,3 +1094,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T14:40+00:00,ape_everything,VEYRA / SOL,4gr55iC8691eYgaVbML34Jxcb7Y5hJgWq9wuFeJneNVN,2026-11-17T14:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T14:40+00:00,graduates,VEYRA / SOL,4gr55iC8691eYgaVbML34Jxcb7Y5hJgWq9wuFeJneNVN,2026-11-17T14:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T14:40+00:00,moonshot_hold,VEYRA / SOL,4gr55iC8691eYgaVbML34Jxcb7Y5hJgWq9wuFeJneNVN,2026-11-17T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:50+00:00,dex_boosted,BLOB,Hr9qopJXCuak38rxDpZduUFhdAK2BfjtoXbfQZVn2EwU,2026-11-16T13:00+00:00,0.469,-0.614,stop loss
+2026-11-17T14:50+00:00,dex_boosted,COGE,AQMZyR924xnhXjp8otFyUqTGQafuxJdLiBBeXmfAuWJS,2026-11-16T19:00+00:00,0.485,-0.599,stop loss
+2026-11-17T14:50+00:00,ape_everything,GEKKO / SOL,3NjJdgz3qh8KVQa8khuCSifaKXkfcLKVqTs6R9nxcyEm,2026-11-17T14:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:50+00:00,ape_everything,REX / SOL,7Qd3dK2Rdp6TTTZAavPAgArM7uBUkBpFC57QVA2kPCh5,2026-11-17T14:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:50+00:00,moonshot_hold,REX / SOL,7Qd3dK2Rdp6TTTZAavPAgArM7uBUkBpFC57QVA2kPCh5,2026-11-17T14:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:50+00:00,ape_everything,KIM / SOL,95KHUFzdEMcJBUBYCbSCwxkkDBqhzibgmGSJ548U8DSS,2026-11-17T14:40+00:00,0,-1.03,rug/no liquidity
