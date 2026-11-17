@@ -1227,3 +1227,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T20:20+00:00,smart_follow,BAH / SOL,4t4LjrCMF5JifMXHpSwJnQWoVaGSTcNUejWkGcdAy2MT,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
 2026-11-17T20:30+00:00,graduates,中国人牛逼 / SOL,Eb1bukBS8WhnsWg3xmtpQb7Gc1qL2HokU81das4cGLrJ,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
 2026-11-17T20:30+00:00,smart_follow,中国人牛逼 / SOL,Eb1bukBS8WhnsWg3xmtpQb7Gc1qL2HokU81das4cGLrJ,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:40+00:00,dex_boosted,GTA,7TiCdhJE5YHWgrAs8v1EXxxvAJy9eTbzVq97nFgqDhYt,2026-11-17T01:20+00:00,0.002,-1.059,stop loss
+2026-11-17T20:40+00:00,trending_new,GTA / SOL,7TiCdhJE5YHWgrAs8v1EXxxvAJy9eTbzVq97nFgqDhYt,2026-11-17T14:14+00:00,0.001,-1.059,stop loss
+2026-11-17T20:40+00:00,graduates,MORNING / SOL,9FrB4bxJrzpqgdFaCbRpt9EByeUfRZVggeKbS9PwB3EE,2026-11-17T19:30+00:00,2.062,0.899,trailing stop
+2026-11-17T20:40+00:00,smart_follow,MORNING / SOL,9FrB4bxJrzpqgdFaCbRpt9EByeUfRZVggeKbS9PwB3EE,2026-11-17T19:30+00:00,2.062,0.899,trailing stop
+2026-11-17T20:40+00:00,graduates,JENSEN / SOL,HLdoALaxDteSfb6NkHfsqvpSdeJuKkdxHHy9EpHwiKW1,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:40+00:00,smart_follow,JENSEN / SOL,HLdoALaxDteSfb6NkHfsqvpSdeJuKkdxHHy9EpHwiKW1,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
