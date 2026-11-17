@@ -1086,3 +1086,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T14:14+00:00,early_momentum,bul / SOL,FNyAZjNUjwmaS1v2eThAH1Nbuc7sfFSG8Be9U6RQEubF,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T14:14+00:00,moonshot_hold,bul / SOL,FNyAZjNUjwmaS1v2eThAH1Nbuc7sfFSG8Be9U6RQEubF,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T14:14+00:00,trending_new,Jojo / SOL,9RBi9qMDvwu5MznPmHUr5yKhzVJzveoM1jeULnKoUFo8,2026-11-17T02:40+00:00,0.086,-0.978,stop loss
+2026-11-17T14:30+00:00,ape_everything,RWA / MOON,C46Qw7k5BthbvwU1RrCcru6M45BMLvHsXpaVJTGe7xH4,2026-11-16T23:01+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:30+00:00,ape_everything,BAWSAQ / SOL,2Qq1JsKZePEPJVPEdfjztpdSQkFqYCxe3atBZ2yPXMR6,2026-11-17T14:14+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:30+00:00,ape_everything,NTOR / SOL,FufSsTpMvjHgShEsXbwZo8svvYKvPBTSycFSZwcWsvPE,2026-11-17T14:14+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:30+00:00,moonshot_hold,NTOR / SOL,FufSsTpMvjHgShEsXbwZo8svvYKvPBTSycFSZwcWsvPE,2026-11-17T14:14+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:30+00:00,ape_everything,mihao / SOL,AgmFfYykMwzuSJuU7mzS6ciMpTtBQEC76jB8htfYGUCX,2026-11-17T14:14+00:00,0,-1.03,rug/no liquidity
