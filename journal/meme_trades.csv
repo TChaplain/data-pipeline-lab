@@ -1204,3 +1204,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T19:10+00:00,trending_new,TPBF / SOL,AGeshPX4JyLmB9poQTbr1E43yXUJcM6Vs5nPi2dWNw5z,2026-11-17T18:50+00:00,0.494,-0.59,stop loss
 2026-11-17T19:20+00:00,graduates,BAWSAQ / SOL,8DarFXEZ7zQxgv6PeSVpcW9boXQvuG8kADRKMvJR7e5X,2026-11-17T19:00+00:00,0,-1.03,rug/no liquidity
 2026-11-17T19:20+00:00,moonshot_hold,BAWSAQ / SOL,8DarFXEZ7zQxgv6PeSVpcW9boXQvuG8kADRKMvJR7e5X,2026-11-17T19:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:30+00:00,dex_boosted,BUTTHOLE,GEc5NcEhDr85aUvjESEvz22jWj6kkMQsgtd6aNJPdDGf,2026-11-15T22:40+00:00,0.478,-0.606,stop loss
+2026-11-17T19:30+00:00,graduates,APEC / SOL,6TYjPb7TGmRYu3jR1GuEnTDQPHd6ubqUPAqeaZQGiQw4,2026-11-17T19:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:30+00:00,moonshot_hold,APEC / SOL,6TYjPb7TGmRYu3jR1GuEnTDQPHd6ubqUPAqeaZQGiQw4,2026-11-17T19:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:30+00:00,smart_follow,APEC / SOL,6TYjPb7TGmRYu3jR1GuEnTDQPHd6ubqUPAqeaZQGiQw4,2026-11-17T19:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:30+00:00,graduates,Nvgob / SOL,7hNiwLT1N8jpkqTkpbvuZ2Kw7mnR7Fe9zD932X8WZumZ,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:30+00:00,smart_follow,Nvgob / SOL,7hNiwLT1N8jpkqTkpbvuZ2Kw7mnR7Fe9zD932X8WZumZ,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
