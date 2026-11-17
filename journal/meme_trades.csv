@@ -1233,3 +1233,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T20:40+00:00,smart_follow,MORNING / SOL,9FrB4bxJrzpqgdFaCbRpt9EByeUfRZVggeKbS9PwB3EE,2026-11-17T19:30+00:00,2.062,0.899,trailing stop
 2026-11-17T20:40+00:00,graduates,JENSEN / SOL,HLdoALaxDteSfb6NkHfsqvpSdeJuKkdxHHy9EpHwiKW1,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
 2026-11-17T20:40+00:00,smart_follow,JENSEN / SOL,HLdoALaxDteSfb6NkHfsqvpSdeJuKkdxHHy9EpHwiKW1,2026-11-17T20:10+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:50+00:00,moonshot_hold,GTAVI / SOL,2N9edQ18Rvy4rmHp3oDktAoQNZZEduYCSoABc1kfn6ye,2026-11-17T20:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:50+00:00,smart_follow,Bank / SOL,HU2w2hmaaUfGZP8MhBfSNXriZtUsdXyJEFEPYfPoFfSg,2026-11-17T20:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T20:50+00:00,moonshot_hold,DRAGON / SOL,Fv6hdJbtbZgZQkHMEGrYWRwcxqYx6PVFi6ZYziygTXzT,2026-11-17T20:40+00:00,0,-1.03,rug/no liquidity
