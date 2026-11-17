@@ -1061,3 +1061,28 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T02:40+00:00,graduates,AMDWIZ / SOL,4BQJ2SdcHXyFnHSChs3vxrZR24dQpbMNbJFCUcZ5ShWf,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T02:40+00:00,smart_follow,AMDWIZ / SOL,4BQJ2SdcHXyFnHSChs3vxrZR24dQpbMNbJFCUcZ5ShWf,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T02:40+00:00,trending_new,BAWSAQ / SOL,9R9Vtgo3qRwazQubBeK8Hy8Ykn1are1roqtmmVVuj6jZ,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,early_momentum,UODF / SOL,CcFDfTdwchHopTsxLbT38rjWCzZiwkrg3k9xhRBVggVH,2026-11-16T01:10+00:00,0.0,-1.06,stop loss
+2026-11-17T14:14+00:00,graduates,UODF / SOL,CcFDfTdwchHopTsxLbT38rjWCzZiwkrg3k9xhRBVggVH,2026-11-16T01:10+00:00,0.0,-1.06,stop loss
+2026-11-17T14:14+00:00,trending_new,MARVIN / SOL,5g5VFKPbaBCg7886t3GfY73sMU3fpBhYTKgKVJmZhN4y,2026-11-16T04:10+00:00,0.968,-0.141,time exit
+2026-11-17T14:14+00:00,trending_new,UODF / USDC,GSTjU4zwW2txRJAmuWQwYa9VN1cTCmmnpcdtPyP6F9Vd,2026-11-16T04:20+00:00,0.949,-0.158,time exit
+2026-11-17T14:14+00:00,ape_everything,plumb / USDC,7cdSppX7oqswCF9s91Y7RJrkdHGToCUrJ7kqHwiWEFJp,2026-11-16T04:50+00:00,0.952,-0.155,time exit
+2026-11-17T14:14+00:00,trending_new,Marvin / SPCX,5dEBrzrm8F8aXNGkDR4qXEwXm11h62sJgPuPJMXHxCta,2026-11-16T13:00+00:00,0.302,-0.773,stop loss
+2026-11-17T14:14+00:00,ape_everything,WCHEWS / SOL,9Wk7AVbqmbkRaY99pMDdHFVvErDr8Ty8PuqpMd6MEUPg,2026-11-16T13:18+00:00,0.174,-0.895,time exit
+2026-11-17T14:14+00:00,dex_boosted,VI,9JtizU4ZYak4jsGv5NJpo4qVnEpmTDhLbMVkv3NWP1WS,2026-11-16T16:10+00:00,0.111,-0.955,stop loss
+2026-11-17T14:14+00:00,trending_new,BAWSAQ / SOL,B8a1mw1vfm5pnm4RgUd8zhbtBnkPB2fBMdikU33Z1jqv,2026-11-16T20:40+00:00,0.06,-1.003,stop loss
+2026-11-17T14:14+00:00,dex_boosted,BAWSAQ,B8a1mw1vfm5pnm4RgUd8zhbtBnkPB2fBMdikU33Z1jqv,2026-11-16T20:50+00:00,0.047,-1.015,stop loss
+2026-11-17T14:14+00:00,dex_boosted,Lemon,HTvR8ckL2MDuKoupy5b8ae36HkUBBAErLNMhNpnzuJvQ,2026-11-16T22:50+00:00,0.452,-0.631,stop loss
+2026-11-17T14:14+00:00,dex_boosted,ETF,F6mmrJcbtVcwSZrufYUiyJAKucYzGS6dJNUcxSF2caPa,2026-11-17T00:30+00:00,0.402,-0.678,stop loss
+2026-11-17T14:14+00:00,dex_boosted,LEOSTAR,Hm7Nvb4bxSDYZhtbm2yHEMHCMC6Lq4XTedY4q1we9r7Q,2026-11-17T00:30+00:00,0.003,-1.057,stop loss
+2026-11-17T14:14+00:00,trending_new,LEOSTAR / SOL,Hm7Nvb4bxSDYZhtbm2yHEMHCMC6Lq4XTedY4q1we9r7Q,2026-11-17T00:30+00:00,0.003,-1.057,stop loss
+2026-11-17T14:14+00:00,ape_everything,SpaceXJak / SOL,8bryuDxRUwThmt6nsfREJ4HWWA4ZJ3VfdbAgJ2HHfckm,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,ape_everything,Claws / SOL,8ThZpoeP33WVU3BTgGxkxACo4bVGyCdN3J9suv6Mqy5b,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,ape_everything,Rockstar / SOL,93CVBsRc9CRVRWaZiHi5ys1auRua4iumAEUZ1gVzhFWV,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,moonshot_hold,SpaceXJak / SOL,8bryuDxRUwThmt6nsfREJ4HWWA4ZJ3VfdbAgJ2HHfckm,2026-11-17T01:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,ape_everything,BAWSAQ / SOL,AHysZ5JekhKTMGYdrvGZs4qp4wYxMmbnLUtqzGfdyMvJ,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,ape_everything,bul / SOL,GV9P1dzpzg8DNE78SoLpfh9teh7eWJHf8dJaEpwYE8oy,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,moonshot_hold,bul / SOL,GV9P1dzpzg8DNE78SoLpfh9teh7eWJHf8dJaEpwYE8oy,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,ape_everything,bul / SOL,FNyAZjNUjwmaS1v2eThAH1Nbuc7sfFSG8Be9U6RQEubF,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,early_momentum,bul / SOL,FNyAZjNUjwmaS1v2eThAH1Nbuc7sfFSG8Be9U6RQEubF,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,moonshot_hold,bul / SOL,FNyAZjNUjwmaS1v2eThAH1Nbuc7sfFSG8Be9U6RQEubF,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T14:14+00:00,trending_new,Jojo / SOL,9RBi9qMDvwu5MznPmHUr5yKhzVJzveoM1jeULnKoUFo8,2026-11-17T02:40+00:00,0.086,-0.978,stop loss
