@@ -1215,3 +1215,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T19:40+00:00,smart_follow,CAT / SOL,4qXPJNPStirbxG12dqVxCH6aECr64Kf5jQ7sZDemqQpw,2026-11-17T18:50+00:00,0,-1.03,rug/no liquidity
 2026-11-17T19:40+00:00,smart_follow,FOMOCoin / SOL,7YXVuer8BSsvCpADdnbaVQLphHEQsTcV67AZ1WB435id,2026-11-17T19:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T19:40+00:00,moonshot_hold,KEEPD / SOL,5RK9cfFtyWkWF8jwtHq4WbZFF5No7D6twD8HAVN9a4Zt,2026-11-17T19:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:50+00:00,graduates,GTAVI / SOL,8RjcQWRto6s8hkDQbdtWGhTAj5XKVLmLAD1BPF85y6uS,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:50+00:00,moonshot_hold,GTAVI / SOL,8RjcQWRto6s8hkDQbdtWGhTAj5XKVLmLAD1BPF85y6uS,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:50+00:00,smart_follow,GTAVI / SOL,8RjcQWRto6s8hkDQbdtWGhTAj5XKVLmLAD1BPF85y6uS,2026-11-17T19:20+00:00,0,-1.03,rug/no liquidity
