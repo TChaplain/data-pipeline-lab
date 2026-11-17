@@ -1148,3 +1148,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T16:50+00:00,smart_follow,AI / SOL,3rug4mQfczHjZ2rWDQ6Dbg5PHj2jmpqRrYHGoLGJzQw5,2026-11-17T16:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T16:50+00:00,moonshot_hold,Cyber / SOL,HEktPqp5SwY91xk4FtJ3FwEurTSPcSaZTGTzX5qd61yr,2026-11-17T16:30+00:00,0,-1.03,rug/no liquidity
 2026-11-17T16:50+00:00,moonshot_hold,fofo / SOL,5Q9hyqM6uvDMnHAgE9PqhUQRaXQhFxiozZwVWusgBYiT,2026-11-17T16:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T17:00+00:00,dex_boosted,GROKIA,4gy24R4fRDMBHNY2LxhwGoUCHpz6maqvWyVnKp2kyuP1,2026-11-17T14:14+00:00,0.493,-0.592,stop loss
+2026-11-17T17:00+00:00,trending_new,GROKIA / SPCXx,4gy24R4fRDMBHNY2LxhwGoUCHpz6maqvWyVnKp2kyuP1,2026-11-17T14:30+00:00,0.496,-0.589,stop loss
+2026-11-17T17:00+00:00,smart_follow,fofo / SOL,Bt6qYuY77uBK2RrixvSQdnMWhmC2CSfvgVEZmwaSn8eG,2026-11-17T16:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T17:00+00:00,graduates,OILCRAB / SOL,J28GaifFicowE8yY6DtJvmna1K14ikyPrZvi4wHsb5r2,2026-11-17T16:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T17:00+00:00,smart_follow,OILCRAB / SOL,J28GaifFicowE8yY6DtJvmna1K14ikyPrZvi4wHsb5r2,2026-11-17T16:50+00:00,0,-1.03,rug/no liquidity
