@@ -1175,3 +1175,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T18:10+00:00,graduates,GEKKO / SOL,DoJYSTDbfKRSBhgnoSA9zGxycE43h2BZTYHLx7DFtXbc,2026-11-17T17:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T18:10+00:00,moonshot_hold,SP500 / SOL,4Wjdn2NPENfjvpaoi1UnKVgGCeZghAZQfqS3kgec7c1N,2026-11-17T18:00+00:00,0,-1.03,rug/no liquidity
 2026-11-17T18:10+00:00,moonshot_hold,Secur / SOL,2AXYPwLPeec1vsN81GbiDvywVqLbJEr8vMBKgY42YRkp,2026-11-17T18:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:20+00:00,moonshot_hold,GTA6 / SOL,2a7mRRN2NfcksjBcZfkhzDUbdqfJ2ijmoGANoedTb7Ca,2026-11-17T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:20+00:00,graduates,GTA6 / SOL,6CLXpwVv44RAkWuoJPBG6VZfVoEDzngoUcKMNZf61tyo,2026-11-17T17:50+00:00,0.001,-1.059,stop loss
+2026-11-17T18:20+00:00,smart_follow,GTA6 / SOL,6CLXpwVv44RAkWuoJPBG6VZfVoEDzngoUcKMNZf61tyo,2026-11-17T17:50+00:00,0.001,-1.059,stop loss
