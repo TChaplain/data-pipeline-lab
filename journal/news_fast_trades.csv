@@ -5,3 +5,12 @@ opened,rule,symbol,news_lag_s,return_%,spy_%,excess_%,headline
 2026-11-13T19:02:21+00:00,fast_5m,CRWD,25.2,-0.107,0.039,-0.146,Morgan Stanley Projects CrowdStrike to Exceed Annual Recurring Revenue Estimates
 2026-11-13T19:02:21+00:00,fast_30m,CRWD,25.2,0.062,-0.04,0.102,Morgan Stanley Projects CrowdStrike to Exceed Annual Recurring Revenue Estimates
 2026-11-13T19:02:21+00:00,fast_eod,CRWD,25.2,-0.323,0.147,-0.47,Morgan Stanley Projects CrowdStrike to Exceed Annual Recurring Revenue Estimates
+2026-11-17T14:02:35+00:00,fast_5m,MFP,61.1,-0.2,0.0,-0.2,Midera Food Processing Reports Third Quarter 2026 Results and Raises Full-Year Guidance
+2026-11-17T14:02:35+00:00,fast_30m,MFP,61.1,-0.2,-0.07,-0.129,Midera Food Processing Reports Third Quarter 2026 Results and Raises Full-Year Guidance
+2026-11-17T16:02:35+00:00,fast_5m,AS,54.2,0.024,-0.035,0.06,Amer Sports Reports Third Quarter 2026 Financial Results and Raises Full-Year Guidance
+2026-11-17T16:02:35+00:00,fast_30m,AS,54.2,0.536,-0.251,0.788,Amer Sports Reports Third Quarter 2026 Financial Results and Raises Full-Year Guidance
+2026-11-17T16:32:35+00:00,fast_5m,LUXE,58.6,0.061,0.03,0.031,LuxExperience Reports Q1 FY27 Financial Results and Raises Full-Year Guidance
+2026-11-17T16:32:35+00:00,fast_30m,LUXE,58.6,1.932,-0.037,1.969,LuxExperience Reports Q1 FY27 Financial Results and Raises Full-Year Guidance
+2026-11-17T14:02:35+00:00,fast_eod,MFP,61.1,2.019,-1.031,3.05,Midera Food Processing Reports Third Quarter 2026 Results and Raises Full-Year Guidance
+2026-11-17T16:32:35+00:00,fast_eod,LUXE,58.6,0.453,0.081,0.371,LuxExperience Reports Q1 FY27 Financial Results and Raises Full-Year Guidance
+2026-11-17T16:02:35+00:00,fast_eod,AS,54.2,-0.2,-0.17,-0.03,Amer Sports Reports Third Quarter 2026 Financial Results and Raises Full-Year Guidance
