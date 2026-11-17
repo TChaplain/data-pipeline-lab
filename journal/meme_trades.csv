@@ -1190,3 +1190,13 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T18:50+00:00,moonshot_hold,GEKKO / SOL,5kWVjSaQrRfGGnVhf1YRt3NxF3ZKjK4jz66zJvQLp2aP,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T18:50+00:00,smart_follow,GEKKO / SOL,5kWVjSaQrRfGGnVhf1YRt3NxF3ZKjK4jz66zJvQLp2aP,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T18:50+00:00,moonshot_hold,BASEINU / SOL,HocPFy1VKgDkMcFGv3cqaSqhATg4fGxhzaSBaQ1jiKEK,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,trending_new,DSP / SOL,8b79cMtRTCS7NxJ3zLnHxaq156GygzeDxVmWJDN2idsX,2026-11-16T19:00+00:00,0.739,-0.358,time exit
+2026-11-17T19:00+00:00,graduates,麻辣香鍋 / SOL,BQKxvUn4au2Ce8UUw41h79JFeJ6atjr9Zy3zuYqPxap6,2026-11-17T17:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,smart_follow,麻辣香鍋 / SOL,BQKxvUn4au2Ce8UUw41h79JFeJ6atjr9Zy3zuYqPxap6,2026-11-17T17:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,graduates,mihao / SOL,4XGGvQbdzNRsW8w5tENyN1v3qGD5foEhdobe3qkqrrHS,2026-11-17T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,moonshot_hold,mihao / SOL,4XGGvQbdzNRsW8w5tENyN1v3qGD5foEhdobe3qkqrrHS,2026-11-17T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,graduates,APEC / SOL,339QucDmibw9xMkA1QJCkJV7kPzP8Cw3sx6xSwXNRHqZ,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,smart_follow,APEC / SOL,339QucDmibw9xMkA1QJCkJV7kPzP8Cw3sx6xSwXNRHqZ,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,moonshot_hold,APEC / SOL,339QucDmibw9xMkA1QJCkJV7kPzP8Cw3sx6xSwXNRHqZ,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:00+00:00,dex_boosted,Rex,59hiLL7Vz8QZdNvDpoYsE6FSrUWKzcp8chLJ3EcTeh3L,2026-11-17T18:40+00:00,0.394,-0.685,stop loss
+2026-11-17T19:00+00:00,trending_new,Rex / SOL,59hiLL7Vz8QZdNvDpoYsE6FSrUWKzcp8chLJ3EcTeh3L,2026-11-17T18:50+00:00,0.394,-0.685,stop loss
