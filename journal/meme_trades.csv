@@ -1202,3 +1202,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T19:00+00:00,trending_new,Rex / SOL,59hiLL7Vz8QZdNvDpoYsE6FSrUWKzcp8chLJ3EcTeh3L,2026-11-17T18:50+00:00,0.394,-0.685,stop loss
 2026-11-17T19:10+00:00,graduates,JENSEN / SOL,C53HFukftZSMGZsv4SGyv1XrEpB2JnBMpwQk2b2k6njg,2026-11-17T18:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T19:10+00:00,trending_new,TPBF / SOL,AGeshPX4JyLmB9poQTbr1E43yXUJcM6Vs5nPi2dWNw5z,2026-11-17T18:50+00:00,0.494,-0.59,stop loss
+2026-11-17T19:20+00:00,graduates,BAWSAQ / SOL,8DarFXEZ7zQxgv6PeSVpcW9boXQvuG8kADRKMvJR7e5X,2026-11-17T19:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T19:20+00:00,moonshot_hold,BAWSAQ / SOL,8DarFXEZ7zQxgv6PeSVpcW9boXQvuG8kADRKMvJR7e5X,2026-11-17T19:00+00:00,0,-1.03,rug/no liquidity
