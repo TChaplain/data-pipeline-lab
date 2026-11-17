@@ -1240,3 +1240,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T21:10+00:00,moonshot_hold,CATE / SOL,HUdSDyGkBADDmKABeLerhJNvqouj7WSBdUZLBCSR5CoT,2026-11-17T21:00+00:00,0,-1.03,rug/no liquidity
 2026-11-17T21:10+00:00,early_momentum,DIH / SOL,27Q4w96Yuvykoym22Xd27syJnNGgdKuuyTe5kVsKP1Zd,2026-11-17T21:00+00:00,0,-1.03,rug/no liquidity
 2026-11-17T21:10+00:00,moonshot_hold,DIH / SOL,27Q4w96Yuvykoym22Xd27syJnNGgdKuuyTe5kVsKP1Zd,2026-11-17T21:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:20+00:00,trending_new,GTAVI / GTA6,9YbrZx4ytWsuhsbfM75r4RfPW25MGaos4CVcuXM6qBNY,2026-11-17T19:40+00:00,0.95,-0.157,trailing stop
+2026-11-17T21:20+00:00,moonshot_hold,PS5 / SOL,GG4iwFBvvSfZS35ZPzW4VHPLofmMgNkaj4uNKEzLJbLj,2026-11-17T20:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:20+00:00,graduates,vensa / SOL,HVHXdyKjcaoEJhJ1XoLBkE85HZVA8oCUEueVtZgHxBZW,2026-11-17T21:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:20+00:00,moonshot_hold,PS5 / SOL,6xffgmYRnCeejBCfj7r1GhSiVuf9AvzzFdLYQAX71WFN,2026-11-17T21:00+00:00,0,-1.03,rug/no liquidity
+2026-11-17T21:20+00:00,smart_follow,elf / SOL,EbpPkG9RRMJ7CidNkAgFHq7ZDbfnoJXJJkgJzA8DA59m,2026-11-17T21:10+00:00,0,-1.03,rug/no liquidity
