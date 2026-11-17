@@ -1144,3 +1144,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T16:30+00:00,moonshot_hold,Simpsons / SOL,7P8vH3b12V23aDW9ASttffL22nGDaL1ViTkLFzh1fGhK,2026-11-17T16:00+00:00,0,-1.03,rug/no liquidity
 2026-11-17T16:40+00:00,moonshot_hold,CYBER / SOL,77QiFa51iLnAx5ZRTVdhG7qVWuLVp6Qj9zzR4BqLL57A,2026-11-17T16:20+00:00,0,-1.03,rug/no liquidity
 2026-11-17T16:40+00:00,graduates,APEC / SOL,61nLmeC6PeHk6ur4PoGiyhQGh2uwUTWxwjPHLwPzwkKu,2026-11-17T16:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T16:50+00:00,trending_new,BAWSAQ / SOL,DQnoiJies9KrPJUiuCLExiCWh8jCrofL3zzUhgdL55kR,2026-11-16T22:50+00:00,1.0,-0.11,trailing stop
+2026-11-17T16:50+00:00,smart_follow,AI / SOL,3rug4mQfczHjZ2rWDQ6Dbg5PHj2jmpqRrYHGoLGJzQw5,2026-11-17T16:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T16:50+00:00,moonshot_hold,Cyber / SOL,HEktPqp5SwY91xk4FtJ3FwEurTSPcSaZTGTzX5qd61yr,2026-11-17T16:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T16:50+00:00,moonshot_hold,fofo / SOL,5Q9hyqM6uvDMnHAgE9PqhUQRaXQhFxiozZwVWusgBYiT,2026-11-17T16:40+00:00,0,-1.03,rug/no liquidity
