@@ -1165,3 +1165,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T17:30+00:00,smart_follow,BLG / SOL,4A7UbaErdkGFw9yCm3wEs5txkxBqX6tsBE1X3ZkazCZi,2026-11-17T16:50+00:00,0,-1.03,rug/no liquidity
 2026-11-17T17:40+00:00,smart_follow,CAT / SOL,ARXn56Ykfn2ytnUnPh3nJKzG68dNp6vu5yGs6pCU1M7G,2026-11-17T17:20+00:00,0,-1.03,rug/no liquidity
 2026-11-17T17:40+00:00,graduates,CAT / SOL,ARXn56Ykfn2ytnUnPh3nJKzG68dNp6vu5yGs6pCU1M7G,2026-11-17T17:20+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:00+00:00,graduates,NEX Ai / SOL,G2EMNa86jTRZnScKpwA6C8V7efcY2kP5xQw2Lys9e7qU,2026-11-17T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:00+00:00,moonshot_hold,NEX Ai / SOL,G2EMNa86jTRZnScKpwA6C8V7efcY2kP5xQw2Lys9e7qU,2026-11-17T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:00+00:00,moonshot_hold,SP500 / SOL,EfyhAuG3LKdyrZ414dKBptsduVD9a8JXoJ3TQ71Jk9g9,2026-11-17T17:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:00+00:00,smart_follow,SP500 / SOL,EfyhAuG3LKdyrZ414dKBptsduVD9a8JXoJ3TQ71Jk9g9,2026-11-17T17:50+00:00,0,-1.03,rug/no liquidity
+2026-11-17T18:00+00:00,moonshot_hold,offline / SOL,6vUF7javSWk8x7v6JuUg8rXz73ML5XHmNNTLJJNz2iZV,2026-11-17T17:50+00:00,0,-1.03,rug/no liquidity
