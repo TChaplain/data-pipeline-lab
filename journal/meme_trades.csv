@@ -1500,3 +1500,13 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T05:20+00:00,graduates,Cool Cat🐱 / SOL,8KXiTm6y3NKsYn6UqmkAG8nLH1sPK2FgcnWeqrW5GKgG,2026-11-18T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T05:20+00:00,moonshot_hold,Cool Cat🐱 / SOL,8KXiTm6y3NKsYn6UqmkAG8nLH1sPK2FgcnWeqrW5GKgG,2026-11-18T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T05:30+00:00,moonshot_hold,Elmo / SOL,3Hu1rWAKuBMtCwyeJvLz55k6h1yrQN8X7AeTHrXpgZjf,2026-11-18T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,smart_follow,Nozomi / SOL,3g7oW9nuVhoxZE64Y4KUFT3SuumbByvVCmXtFkdWmbN6,2026-11-17T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,graduates,GTA / SOL,4baXZmd9biH6pB7HpzGko6DDoSLGQ843qjenWd8XRPv4,2026-11-18T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,smart_follow,GTA / SOL,4baXZmd9biH6pB7HpzGko6DDoSLGQ843qjenWd8XRPv4,2026-11-18T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,graduates,JALU / SOL,4VVnajHz5TUtvAALSUX3LgoM5fz1mDUE6nCja6KkxZ3L,2026-11-18T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,moonshot_hold,JALU / SOL,4VVnajHz5TUtvAALSUX3LgoM5fz1mDUE6nCja6KkxZ3L,2026-11-18T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,graduates,Green Cat / SOL,3y48PthnE9ipM44LzYjo2kstw8u5e7BeMBpk2CFmtMXZ,2026-11-18T05:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,moonshot_hold,Green Cat / SOL,3y48PthnE9ipM44LzYjo2kstw8u5e7BeMBpk2CFmtMXZ,2026-11-18T05:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,graduates,Intel AI / SOL,5usPARDQM2gLAZYpdEJLAGPicExGqgB4s2p1dTmx8Uw5,2026-11-18T05:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,moonshot_hold,Intel AI / SOL,5usPARDQM2gLAZYpdEJLAGPicExGqgB4s2p1dTmx8Uw5,2026-11-18T05:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T05:40+00:00,smart_follow,ANT / SOL,2EVjkp35NJRLGjMZw11gvywzeMYBt55iCpVfGbtR6vCY,2026-11-18T05:30+00:00,0.053,-1.01,stop loss
