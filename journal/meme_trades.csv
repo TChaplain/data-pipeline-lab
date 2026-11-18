@@ -1803,3 +1803,13 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T17:50+00:00,smart_follow,APEC / SOL,GwhBhTKncWZn7CZaCuwE3TELnmDjpvWL78pJ9WDFfF2N,2026-11-18T17:30+00:00,0,-1.03,rug/no liquidity
 2026-11-18T18:00+00:00,graduates,DCTY / SOL,DA6vFbNRCeFF8GW7GwsNfe6EsngmZ81epQKFK9mnb1we,2026-11-18T17:30+00:00,0,-1.03,rug/no liquidity
 2026-11-18T18:20+00:00,moonshot_hold,FOUNDER / SOL,6QY1Gufn3jjcr6yQmV1pLXPhE8sUy7ch2HVNPLJ62KW8,2026-11-18T17:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,dex_boosted,JOB,HAUVBmNthCFmG9SRXMvZ1GAXNpU955hkPdSAsC2cx4C8,2026-11-16T19:00+00:00,0.995,-0.114,time exit
+2026-11-18T19:20+00:00,dex_boosted,twert,GigzDwmU4Hfr9Ppb4xGqfYZGvuoUHLfipqsuevkMBLtF,2026-11-17T01:10+00:00,1.186,0.067,trailing stop
+2026-11-18T19:20+00:00,tg_call,duh,3iGr3kuNGVheD9HAdx4hc4y9PhhJuNCi2GawTpT2jra6,2026-11-17T18:50+00:00,1.417,0.286,time exit
+2026-11-18T19:20+00:00,moonshot_hold,DCTY / SOL,6Y64fYnKeBy5bpZC1meBJqNLUu7UMSCZ87ddF4AwWube,2026-11-18T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,smart_follow,DCTY / SOL,6Y64fYnKeBy5bpZC1meBJqNLUu7UMSCZ87ddF4AwWube,2026-11-18T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,graduates,FISH / SOL,DP8h6AEqrDdWas43m45hvaopxfD1KPjriW6j7XtNZe1a,2026-11-18T18:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,smart_follow,FISH / SOL,DP8h6AEqrDdWas43m45hvaopxfD1KPjriW6j7XtNZe1a,2026-11-18T18:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,graduates,vensa / SOL,5eNo2hk3NkVio2dd6RTkWtqANJekgrUf5TLAGCdjJ2Sg,2026-11-18T18:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,moonshot_hold,Skidog / SOL,58AoL5hssNHrSd59EUi5eXoifPtLagyWTLFz4Uxg7BJr,2026-11-18T18:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T19:20+00:00,graduates,Cowboy Cat / SOL,eYHxRsCAKKWaiKFNnBaMA4iyDESr8Jbzy7y23HNJmQH,2026-11-18T18:20+00:00,0,-1.03,rug/no liquidity
