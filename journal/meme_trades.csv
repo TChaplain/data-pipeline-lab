@@ -1528,3 +1528,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T06:10+00:00,smart_follow,ANT / SOL,GnajE5u8f19CywHUL87U7sS59x79pFuH43cJEjzEbNH1,2026-11-18T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T06:10+00:00,graduates,JALU / SOL,GEjfuuDS2iiWTy3fkTH38rRXHQ9PZMdwe7rRqHc59UmC,2026-11-18T05:40+00:00,0,-1.03,rug/no liquidity
 2026-11-18T06:10+00:00,moonshot_hold,JALU / SOL,GEjfuuDS2iiWTy3fkTH38rRXHQ9PZMdwe7rRqHc59UmC,2026-11-18T05:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T06:20+00:00,graduates,GTAVI / SOL,7okMDEFgajoFzkkQK7sVBvMVct5D7MkTCVBfVYJWP82m,2026-11-18T05:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T06:20+00:00,graduates,GTAVI / SOL,5vus5N9uCF6tmCPEGEDyyzqZ1YHgTiD5rQ1tzMnQxh5M,2026-11-18T05:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T06:20+00:00,moonshot_hold,GTAVI / SOL,5vus5N9uCF6tmCPEGEDyyzqZ1YHgTiD5rQ1tzMnQxh5M,2026-11-18T05:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T06:20+00:00,smart_follow,GTAVI / SOL,5vus5N9uCF6tmCPEGEDyyzqZ1YHgTiD5rQ1tzMnQxh5M,2026-11-18T05:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T06:20+00:00,early_momentum,ANTHROPIC / SOL,DjYVzuMgB1JqTPMj6uWpmTsjpihbUXfctJvCRUoLkQ4v,2026-11-18T06:00+00:00,0.0,-1.06,stop loss
+2026-11-18T06:20+00:00,graduates,ANTHROPIC / SOL,DjYVzuMgB1JqTPMj6uWpmTsjpihbUXfctJvCRUoLkQ4v,2026-11-18T06:00+00:00,0.0,-1.06,stop loss
