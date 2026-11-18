@@ -1628,3 +1628,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T10:20+00:00,moonshot_hold,花 / SOL,Bm78gsW42qVR8NZ5UrUdT5YSZZTodLMfVGxwaVGyxFke,2026-11-18T09:10+00:00,0,-1.03,rug/no liquidity
 2026-11-18T10:20+00:00,moonshot_hold,ACI / SOL,86QKNz6Up4oQnupx3ahQVBTYFaGXryaYWA3URQrX7dQE,2026-11-18T10:10+00:00,0,-1.03,rug/no liquidity
 2026-11-18T10:20+00:00,moonshot_hold,BOAR / SOL,CQLPUH2JW9yE57Mv9tVGGfgBNC4hLNF4sJiMJm4TC5Df,2026-11-18T10:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T10:40+00:00,trending_new,ANT / ANTHRP,CtbK3gTAFki1BfKQRbEa35MQ5TShnLC3G5DTBPMnWU7R,2026-11-18T05:50+00:00,1.03,-0.081,trailing stop
+2026-11-18T10:40+00:00,moonshot_hold,CHUD / SOL,BJoL6fKQUnMEuqmGyvqsnEUj3Uh7m8xPnasUo8yfFDDQ,2026-11-18T09:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T10:40+00:00,smart_follow,GTA6 / SOL,HN8GFzGnm4y7iLRAzKZD84A4229nPdLxXfj3VKutwJZ9,2026-11-18T10:20+00:00,0.053,-1.01,stop loss
