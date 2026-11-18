@@ -1367,3 +1367,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T01:10+00:00,graduates,GrokChan / SOL,J9tjfqUCEgyPufdAckMUEnUHP51fmSWWcDrMBbLJ2n8H,2026-11-18T00:50+00:00,0,-1.03,rug/no liquidity
 2026-11-18T01:10+00:00,early_momentum,bye / SOL,BzNi8DbjPX8SXZLCJpFxXwUvw5a1NzhqqEakndVETDa8,2026-11-18T01:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T01:10+00:00,moonshot_hold,bye / SOL,BzNi8DbjPX8SXZLCJpFxXwUvw5a1NzhqqEakndVETDa8,2026-11-18T01:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T01:20+00:00,ape_everything,OMNISZERO / WBTC,ARdRZn743w7KVfjfNcJatdD6UPpGv6BSkf8KHvM1tvXz,2026-11-17T01:20+00:00,0.952,-0.155,time exit
+2026-11-18T01:20+00:00,ape_everything,BAWSAQ6900 / TTWO,CqFBLWSZLdvBE4WW7dEVBsuHBGCg1BJ2MCuCvrMrGfDH,2026-11-17T01:20+00:00,0.251,-0.822,time exit
+2026-11-18T01:20+00:00,ape_everything,SPAX10R / SOL,2f4pSzv5p93C32n8WCgA8SjDBpGC6hgJx8HKi1m8VcTT,2026-11-17T01:20+00:00,1.434,0.302,time exit
+2026-11-18T01:20+00:00,ape_everything,QNPC / SOL,AQKz41rUx98rdNv7h5tqoRj3dwnfdgbmkfGx7Ub4xNC6,2026-11-17T01:20+00:00,0.952,-0.155,time exit
+2026-11-18T01:20+00:00,ape_everything,DOOROC / SOL,B7JSUnCqsoWPVM6AAnVMojouQ92paJNrELxq2bdXAJtT,2026-11-17T01:20+00:00,0.952,-0.155,time exit
+2026-11-18T01:20+00:00,graduates,Musk / SOL,4bPau8TiVCkrgVv3FcdncbKCLuCYnKhbzQ3xpt24zd5A,2026-11-18T01:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T01:20+00:00,moonshot_hold,Musk / SOL,4bPau8TiVCkrgVv3FcdncbKCLuCYnKhbzQ3xpt24zd5A,2026-11-18T01:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T01:20+00:00,early_momentum,BANDANA / SOL,4i9voEAcD4oxbQdmThYQks6fZHCHBfX4s1dCbC8iqr8q,2026-11-18T01:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T01:20+00:00,moonshot_hold,BANDANA / SOL,4i9voEAcD4oxbQdmThYQks6fZHCHBfX4s1dCbC8iqr8q,2026-11-18T01:10+00:00,0,-1.03,rug/no liquidity
