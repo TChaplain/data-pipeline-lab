@@ -1784,3 +1784,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T16:00+00:00,ape_everything,CSI / SOL,CrPp3qMVSfJQSuRZboq3RrZLfM7f364NU6oTEVyfzDy1,2026-11-17T16:00+00:00,0.937,-0.17,time exit
 2026-11-18T16:00+00:00,ape_everything,Apocry / SOL,82RgDNmHAFcK6ZiA4SKJMbBEPqZYaewFHUL3gJqYyHaP,2026-11-18T15:50+00:00,0,-1.03,rug/no liquidity
 2026-11-18T16:00+00:00,smart_follow,Apocry / SOL,82RgDNmHAFcK6ZiA4SKJMbBEPqZYaewFHUL3gJqYyHaP,2026-11-18T15:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T16:50+00:00,ape_everything,BRISK / SOL,FEftLSHtfzapy4xFtcm48fua3Ahqo2Tg4RwEK8THfbvP,2026-11-17T16:10+00:00,0.947,-0.16,time exit
+2026-11-18T16:50+00:00,dex_boosted,GTAVI,2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ,2026-11-18T00:30+00:00,0.969,-0.139,trailing stop
+2026-11-18T16:50+00:00,trending_new,GTAVI / SOL,2YP3Bw83YQHdnd9H2TqX77ZW6zVFqUjta9CHbBsvRJAJ,2026-11-18T00:30+00:00,0.969,-0.139,trailing stop
+2026-11-18T16:50+00:00,ape_everything,DRP / SOL,HvDv8SMHQgMwZk8rmTzP3YEExNS5MupeaZ8kuEFC1Nod,2026-11-18T15:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T16:50+00:00,smart_follow,DRP / SOL,HvDv8SMHQgMwZk8rmTzP3YEExNS5MupeaZ8kuEFC1Nod,2026-11-18T15:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T16:50+00:00,ape_everything,Apocrycoin / SOL,D7Nx78gq3Tcf41bVV6nG9GTSMoH1fP9SH54uGSGzzdiW,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T16:50+00:00,moonshot_hold,Apocrycoin / SOL,D7Nx78gq3Tcf41bVV6nG9GTSMoH1fP9SH54uGSGzzdiW,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T16:50+00:00,smart_follow,Apocrycoin / SOL,D7Nx78gq3Tcf41bVV6nG9GTSMoH1fP9SH54uGSGzzdiW,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T16:50+00:00,graduates,Christmas / SOL,4DXmEHp9LkgX3gnyoLz6gx3xPxF4QbG67QzokAQ7yhMF,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
