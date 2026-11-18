@@ -1793,3 +1793,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T16:50+00:00,moonshot_hold,Apocrycoin / SOL,D7Nx78gq3Tcf41bVV6nG9GTSMoH1fP9SH54uGSGzzdiW,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T16:50+00:00,smart_follow,Apocrycoin / SOL,D7Nx78gq3Tcf41bVV6nG9GTSMoH1fP9SH54uGSGzzdiW,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T16:50+00:00,graduates,Christmas / SOL,4DXmEHp9LkgX3gnyoLz6gx3xPxF4QbG67QzokAQ7yhMF,2026-11-18T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T17:20+00:00,graduates,USPR / SOL,B4eg89RGGgaeejCsUSSYRA1P1xcUVBrRDAXnN4ceXQPd,2026-11-17T18:50+00:00,0.001,-1.059,stop loss
+2026-11-18T17:20+00:00,smart_follow,USPR / SOL,B4eg89RGGgaeejCsUSSYRA1P1xcUVBrRDAXnN4ceXQPd,2026-11-17T18:50+00:00,0.001,-1.059,stop loss
+2026-11-18T17:20+00:00,graduates,GTAVI / SOL,4HMAL1HZnSMrPKCaQJFc5Bcvov7EoELak8bwfQCgjjke,2026-11-18T08:30+00:00,0.17,-0.898,stop loss
