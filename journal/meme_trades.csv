@@ -1481,3 +1481,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T04:40+00:00,moonshot_hold,DARIO / SOL,AGND9vdK6VTPj1rV39KHtBtJzuKhh28MLDvVSDonRJAZ,2026-11-18T04:20+00:00,0,-1.03,rug/no liquidity
 2026-11-18T04:40+00:00,early_momentum,ADDITIVE / SOL,GU6DbvDvMNWnDQoKSXmLXkU8ADdTadLujLNytw5M69io,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
 2026-11-18T04:40+00:00,moonshot_hold,ADDITIVE / SOL,GU6DbvDvMNWnDQoKSXmLXkU8ADdTadLujLNytw5M69io,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,smart_follow,WIGGLES / SOL,GbUwokpxEAnnZqmioGfzDJJaWUJWKr3YtccQvMWThiuy,2026-11-16T04:50+00:00,0.833,-0.269,time exit
+2026-11-18T04:50+00:00,smart_follow,ANT / SOL,4hbnLbUG5pDQkc7GFhxauKzwt692SzUAXCDEeR3EwExN,2026-11-18T04:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,smart_follow,DARIO / SOL,4J8n56zv1GRCCzbdYbBWsGwusdPihVvvKz1Y94aqAj45,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,smart_follow,DARIO / SOL,Fyt3VG8Xgt6fUNDNe6cV8F2Ta5DKtYVmhZd2PEKiBZSk,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,early_momentum,GTA / SOL,EPmqHZ7AXQ5wBJAiGdoVB44NFpXMFq5bxsE7uHvsqHkW,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,graduates,GTA / SOL,EPmqHZ7AXQ5wBJAiGdoVB44NFpXMFq5bxsE7uHvsqHkW,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,moonshot_hold,GTA / SOL,EPmqHZ7AXQ5wBJAiGdoVB44NFpXMFq5bxsE7uHvsqHkW,2026-11-18T04:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:50+00:00,moonshot_hold,MrBeast / SOL,Gfb6Fga3GQx664njY6kRMHtvnCyAs9eF5r1xhphrbsbk,2026-11-18T04:40+00:00,0,-1.03,rug/no liquidity
