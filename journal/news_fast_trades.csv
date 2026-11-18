@@ -14,3 +14,6 @@ opened,rule,symbol,news_lag_s,return_%,spy_%,excess_%,headline
 2026-11-17T14:02:35+00:00,fast_eod,MFP,61.1,2.019,-1.031,3.05,Midera Food Processing Reports Third Quarter 2026 Results and Raises Full-Year Guidance
 2026-11-17T16:32:35+00:00,fast_eod,LUXE,58.6,0.453,0.081,0.371,LuxExperience Reports Q1 FY27 Financial Results and Raises Full-Year Guidance
 2026-11-17T16:02:35+00:00,fast_eod,AS,54.2,-0.2,-0.17,-0.03,Amer Sports Reports Third Quarter 2026 Financial Results and Raises Full-Year Guidance
+2026-11-17T23:03:35+00:00,fast_5m,ZS,75.2,-0.2,0.0,-0.2,Oppenheimer Projects Zscaler Fiscal Q1 Revenue to Exceed Guidance and Consensus
+2026-11-17T23:03:35+00:00,fast_30m,ZS,75.2,-0.2,0.0,-0.2,Oppenheimer Projects Zscaler Fiscal Q1 Revenue to Exceed Guidance and Consensus
+2026-11-17T23:03:35+00:00,fast_eod,ZS,75.2,-0.2,0.0,-0.2,Oppenheimer Projects Zscaler Fiscal Q1 Revenue to Exceed Guidance and Consensus
