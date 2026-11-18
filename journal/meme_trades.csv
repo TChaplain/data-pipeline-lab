@@ -1322,3 +1322,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T00:20+00:00,graduates,vensa / SOL,AgGGbtYZpveWugbjAvY93H8v9ryPz4Q7KLy1JbbsdUWF,2026-11-18T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T00:20+00:00,moonshot_hold,Lucia / SOL,D2XsCAH7BTTQrUx1Ak5R8pedX6FXz6MrgqMe2WgjPCbS,2026-11-18T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T00:20+00:00,moonshot_hold,Securitty / SOL,3xut14ZsWL56VgtcvDfa1iYxTCfmkUUimSamy4Wbv4t5,2026-11-18T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T00:30+00:00,dex_boosted,SPUD,DBWk94gvuN2Hj6nHhJMHWSfuSyicaueXw2f9FHcLxTCd,2026-11-16T00:30+00:00,1.564,0.426,time exit
+2026-11-18T00:30+00:00,ape_everything,SDFSDF / SOL,GQ7L89Fa8tGtr4gtfB63ekxsBHsQ2JNgpfxKzAzhTVAi,2026-11-17T00:30+00:00,0.952,-0.155,time exit
+2026-11-18T00:30+00:00,ape_everything,MC / SOL,Ciwtxr1kdCkMBb3C2jXhP2AHLH4XMcu38jADyMaUGGvM,2026-11-17T00:30+00:00,0.877,-0.227,time exit
+2026-11-18T00:30+00:00,ape_everything,BEPE / BP,EhuuXUHPx357kpgDZ1thmMYcrDhBWy7wTREioy9khgXz,2026-11-17T00:30+00:00,0.378,-0.701,time exit
+2026-11-18T00:30+00:00,ape_everything,Macca / SOL,86zdReXoHdHuL8mv4QxBdKgJQzJKXgtnhXQ5Jkxhmxqm,2026-11-17T00:30+00:00,0.956,-0.152,time exit
+2026-11-18T00:30+00:00,ape_everything,GETPAID / SOL,HVuzDbokDGXNZjtZBJ5wpfmYKPfrrCYuQrmH21t7CW3j,2026-11-17T00:30+00:00,0.952,-0.155,time exit
+2026-11-18T00:30+00:00,ape_everything,Snitch.fun / SOL,Gtvp9mt9o423vMRenmrXVBfY7uZan5wgrJQDEHUc1GsM,2026-11-17T00:30+00:00,0.952,-0.155,time exit
+2026-11-18T00:30+00:00,graduates,Leonida / SOL,2RNKECRKeEguFDcC9RL8eZpVetYd7mV7YPKUju3BWjiT,2026-11-18T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T00:30+00:00,moonshot_hold,HODL / SOL,5bpVN5mHpKeTdEvCouEQ58STqgqZQhvnk855H9QpSCmw,2026-11-18T00:20+00:00,0,-1.03,rug/no liquidity
