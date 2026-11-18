@@ -1543,3 +1543,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T07:00+00:00,smart_follow,GODF / SOL,2u3G2ubZaySVWANCSWo7DMpGUC2Nkqj3WJxHwaQ2w7tb,2026-11-18T06:40+00:00,0.0,-1.06,stop loss
 2026-11-18T07:00+00:00,early_momentum,GODF / SOL,2u3G2ubZaySVWANCSWo7DMpGUC2Nkqj3WJxHwaQ2w7tb,2026-11-18T06:40+00:00,0.0,-1.06,stop loss
 2026-11-18T07:00+00:00,moonshot_hold,紫うさぎ / SOL,Hf3aU95wzJEQdm5w6DtxPTXHmdPXG247yivXgrUgXqA2,2026-11-18T06:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T07:10+00:00,graduates,SPAX10R / SOL,2f4pSzv5p93C32n8WCgA8SjDBpGC6hgJx8HKi1m8VcTT,2026-11-17T01:20+00:00,0.001,-1.059,stop loss
+2026-11-18T07:10+00:00,graduates,vensa / SOL,8pc7g1Wzzu4j7p7NyD6Und5mHb8BnbwSCCS5h5UX2Asq,2026-11-18T06:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T07:10+00:00,smart_follow,vensa / SOL,8pc7g1Wzzu4j7p7NyD6Und5mHb8BnbwSCCS5h5UX2Asq,2026-11-18T06:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T07:10+00:00,moonshot_hold,SpaceChip / SOL,8VvWHn3sesvSfcmXsDedxzs63ZjDgRaRC3uq8Uc9YqSA,2026-11-18T07:00+00:00,0,-1.03,rug/no liquidity
