@@ -1579,3 +1579,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T08:10+00:00,moonshot_hold,OTC / SOL,6hAPB8NmYq851NyraXcTBhFRSEfYh2DteqQ9uLX61r84,2026-11-18T07:50+00:00,0,-1.03,rug/no liquidity
 2026-11-18T08:20+00:00,dex_boosted,HOGE,7CNC9gGegzEfFK8fLXiYUhdtMEeFPQZoND56U1Mxhnor,2026-11-17T02:40+00:00,0.48,-0.604,stop loss
 2026-11-18T08:20+00:00,smart_follow,otc / SOL,3XK43SUMLPXPC78q4JMc8tC6EZHgU2atsuikymXRKzBQ,2026-11-18T08:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T08:30+00:00,moonshot_hold,Christmas / SOL,2B5JuRnWHvDhqs5TFGNbC2if2esApbrWgHrceGqRuKBP,2026-11-18T07:50+00:00,1647131.674,1564774.03,take profit 10.0x
+2026-11-18T08:30+00:00,early_momentum,DIH / SOL,D8UMnrNyfWjLRBDyeGRmfUyS1r5ALosQ6QtzsxMy8KXb,2026-11-18T08:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T08:30+00:00,moonshot_hold,DIH / SOL,D8UMnrNyfWjLRBDyeGRmfUyS1r5ALosQ6QtzsxMy8KXb,2026-11-18T08:10+00:00,0,-1.03,rug/no liquidity
