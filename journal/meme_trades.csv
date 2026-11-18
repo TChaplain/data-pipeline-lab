@@ -1590,3 +1590,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T08:50+00:00,moonshot_hold,Tipped / SOL,gzsnWyG3ZW91iV9ZjyijdnAUgxsEWjxeDfmZSMh9GdM,2026-11-18T08:40+00:00,0,-1.03,rug/no liquidity
 2026-11-18T08:50+00:00,smart_follow,Tipped / SOL,gzsnWyG3ZW91iV9ZjyijdnAUgxsEWjxeDfmZSMh9GdM,2026-11-18T08:40+00:00,0,-1.03,rug/no liquidity
 2026-11-18T09:00+00:00,graduates,ANT / SOL,3mYQEKeQyg57Rukx47DA5geatpJMPyFEVTd51n2F2tov,2026-11-18T07:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:10+00:00,moonshot_hold,SHARK / SOL,78thRoy2jVRBtA7JSipsLw1NfbNrVNTT6fDYsnCVtQHs,2026-11-18T08:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:10+00:00,early_momentum,SHARK / SOL,2g12xyFhT5TPQHC6JChYkAKrf7k6VF62SD6EDrB31Ggr,2026-11-18T09:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:10+00:00,moonshot_hold,SHARK / SOL,2g12xyFhT5TPQHC6JChYkAKrf7k6VF62SD6EDrB31Ggr,2026-11-18T09:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:10+00:00,smart_follow,DCI / SOL,4afggZB7yPkwAi1zKadVqHRUDucAwzKQekaQojKtHsr8,2026-11-18T09:00+00:00,0.062,-1.001,stop loss
