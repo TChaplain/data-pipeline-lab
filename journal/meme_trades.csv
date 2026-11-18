@@ -1656,3 +1656,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T11:50+00:00,smart_follow,DOLORES / SOL,8JqVQP1gMz5YxSSggFA6hVvgyjdbyD7MZphiqsrPxuA7,2026-11-18T11:40+00:00,0,-1.03,rug/no liquidity
 2026-11-18T11:50+00:00,moonshot_hold,RIGHTWING / SOL,1MC2wgaSAStDusctATKQAHBXgtR44copxvp5YRyPYcT,2026-11-18T11:40+00:00,0,-1.03,rug/no liquidity
 2026-11-18T12:00+00:00,dex_boosted,Rocco,3jW1ykKqUTNgNUDGbrwXpvZKtMFf4pWytoTP3TeXhKBQ,2026-11-16T16:00+00:00,0.401,-0.679,stop loss
+2026-11-18T12:10+00:00,graduates,TTWO / SOL,8JZCrUUgNUgmQaM59P4v9CzTvpJNW1qt3vo4hnerDN95,2026-11-16T01:40+00:00,0.003,-1.057,stop loss
+2026-11-18T12:10+00:00,smart_follow,b / SOL,281WBp6i6NqfeE1gKHNMx7Bjm1hyqDdZC462wpoMJ47C,2026-11-18T12:00+00:00,0,-1.03,rug/no liquidity
