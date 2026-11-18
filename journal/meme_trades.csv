@@ -1332,3 +1332,15 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T00:30+00:00,graduates,Leonida / SOL,2RNKECRKeEguFDcC9RL8eZpVetYd7mV7YPKUju3BWjiT,2026-11-18T00:10+00:00,0,-1.03,rug/no liquidity
 2026-11-18T00:30+00:00,moonshot_hold,HODL / SOL,5bpVN5mHpKeTdEvCouEQ58STqgqZQhvnk855H9QpSCmw,2026-11-18T00:20+00:00,0,-1.03,rug/no liquidity
 2026-11-18T00:40+00:00,graduates,Leonida / SOL,8qNGcJfEpVcZ9jYvowhzHX3yuGrfQbQ8mftEgdmfFitE,2026-11-18T00:30+00:00,0.008,-1.052,stop loss
+2026-11-18T00:50+00:00,ape_everything,pruple / SOL,2t8up4K4yxARjNUdxfzdvec6iHh2nbwKzf9LsGnzPEDi,2026-11-17T00:50+00:00,0.952,-0.155,time exit
+2026-11-18T00:50+00:00,ape_everything,GTA / TTWO,9etbq3qGJw4XFvDQS3ZKNzWAcwwkVMcxW9u48KVTVQQM,2026-11-17T00:50+00:00,0.93,-0.177,time exit
+2026-11-18T00:50+00:00,ape_everything,FEAR / SOL,GauYMD2nEjJvxn9vv32u42HUJ7oPTzZjK2FfG6wSwL2E,2026-11-17T00:50+00:00,0.923,-0.183,time exit
+2026-11-18T00:50+00:00,ape_everything,c4cat / SOL,9jFdDfHcVii2k3Z5W7cNhJHBJRdh3HqiPZYW8fWLGuU7,2026-11-17T00:50+00:00,0.955,-0.153,time exit
+2026-11-18T00:50+00:00,ape_everything,GrenCAT / SOL,9N7FKhGcE7bJdqUgsFDhpGMuPb6U4DteEKLV3FDuzUFV,2026-11-17T00:50+00:00,0.952,-0.155,time exit
+2026-11-18T00:50+00:00,ape_everything,HI / SOL,EZ35Fxw5vw7xenkvw6E9WQwe9P6hKFkbtqt9hB6yMKpb,2026-11-17T00:50+00:00,1.002,-0.108,time exit
+2026-11-18T00:50+00:00,ape_everything,Criminu / TTWO,B8gP4rAsiHtvsZmP7K1v4Dvd28g2ACZqijWCCxAxhtiK,2026-11-17T00:50+00:00,0.867,-0.236,time exit
+2026-11-18T00:50+00:00,ape_everything,ANSEM / mihao,97zWUoTtddQ9vkJdgnBiaNFJHh8NDt1dezDo9YgE1d7s,2026-11-17T00:50+00:00,0.952,-0.155,time exit
+2026-11-18T00:50+00:00,ape_everything,DOGE / DOGE,9CUBKtoh5ErboAdY8vTaxJF4hcS1H5e2Fsg99XDsSGPY,2026-11-17T00:50+00:00,0.952,-0.155,time exit
+2026-11-18T00:50+00:00,tg_call,Rings,8fSUYVnTy4r5fZUksjzKexLq2Tx96K3UPdYRvW5XWJ9t,2026-11-17T00:50+00:00,0.943,-0.164,time exit
+2026-11-18T00:50+00:00,graduates,NVIDIANS / SOL,irZakwGmb7nmr99cwrLG3d4ycn4njpL1RgskGhLtVPg,2026-11-18T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T00:50+00:00,moonshot_hold,PENCIL / SOL,8EdTPH6Dvy3Z4CAf4LvJtpm3Dd5kWLS6KQsihAxFcULS,2026-11-18T00:40+00:00,0,-1.03,rug/no liquidity
