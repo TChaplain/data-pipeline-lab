@@ -1659,9 +1659,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T12:10+00:00,graduates,TTWO / SOL,8JZCrUUgNUgmQaM59P4v9CzTvpJNW1qt3vo4hnerDN95,2026-11-16T01:40+00:00,0.003,-1.057,stop loss
 2026-11-18T12:10+00:00,smart_follow,b / SOL,281WBp6i6NqfeE1gKHNMx7Bjm1hyqDdZC462wpoMJ47C,2026-11-18T12:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T12:28+00:00,dex_boosted,BOOBIE,AADBrg3PDVDEuQgY58n8Tm3Prk8ywq26xx64jkQBGMjM,2026-11-18T04:40+00:00,0.277,-0.797,stop loss
-2026-11-18T13:13+00:00,dex_boosted,gtacoin,9ZTc73Qq2p77gRMHZzsFP4TEZMiSvkxBpVjvonnZevBe,2026-11-16T13:00+00:00,0.981,-0.128,time exit
-2026-11-18T13:13+00:00,graduates,JUMP COIN / SOL,Heit4qQNF2F6tRU8XZADgcUKaTdKrUJXAKL9Bwbz2jSy,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
-2026-11-18T13:13+00:00,moonshot_hold,JUMP COIN / SOL,Heit4qQNF2F6tRU8XZADgcUKaTdKrUJXAKL9Bwbz2jSy,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
-2026-11-18T13:13+00:00,smart_follow,JUMP COIN / SOL,Heit4qQNF2F6tRU8XZADgcUKaTdKrUJXAKL9Bwbz2jSy,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
-2026-11-18T13:13+00:00,graduates,Democat / SOL,55ekoaZu5wdtWgBoXRjwbRUhmgan7qcWVWjMzeQE2mZh,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
-2026-11-18T13:13+00:00,moonshot_hold,Democat / SOL,55ekoaZu5wdtWgBoXRjwbRUhmgan7qcWVWjMzeQE2mZh,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T13:21+00:00,dex_boosted,gtacoin,9ZTc73Qq2p77gRMHZzsFP4TEZMiSvkxBpVjvonnZevBe,2026-11-16T13:00+00:00,0.981,-0.128,time exit
+2026-11-18T13:21+00:00,dex_boosted,Lucia,9LP64XgWXb7Q8qzmLfRinGjYCfUTxe4KNMXWwZSwuKjF,2026-11-16T22:50+00:00,0.417,-0.664,stop loss
+2026-11-18T13:21+00:00,dex_boosted,REFU,6S5Gz32QqcSzU9pDLFhrKodEfxeiBKmCmz57WF4CtBVC,2026-11-17T19:10+00:00,0.119,-0.947,stop loss
+2026-11-18T13:21+00:00,graduates,JUMP COIN / SOL,Heit4qQNF2F6tRU8XZADgcUKaTdKrUJXAKL9Bwbz2jSy,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T13:21+00:00,moonshot_hold,JUMP COIN / SOL,Heit4qQNF2F6tRU8XZADgcUKaTdKrUJXAKL9Bwbz2jSy,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T13:21+00:00,smart_follow,JUMP COIN / SOL,Heit4qQNF2F6tRU8XZADgcUKaTdKrUJXAKL9Bwbz2jSy,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T13:21+00:00,graduates,Democat / SOL,55ekoaZu5wdtWgBoXRjwbRUhmgan7qcWVWjMzeQE2mZh,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T13:21+00:00,moonshot_hold,Democat / SOL,55ekoaZu5wdtWgBoXRjwbRUhmgan7qcWVWjMzeQE2mZh,2026-11-18T12:10+00:00,0,-1.03,rug/no liquidity
