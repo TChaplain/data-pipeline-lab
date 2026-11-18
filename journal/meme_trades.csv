@@ -1461,9 +1461,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T03:20+00:00,moonshot_hold,PATTINSON / SOL,CFvxqG1tcNyz8wAutMuywmFTdpmmuEM2GxvZmQBw6AtN,2026-11-18T03:10+00:00,0,-1.03,rug/no liquidity
 2026-11-18T03:30+00:00,smart_follow,GEKKO / SOL,AtDSauindXsSGRQFPBUVyYyDeWJgV6tiP9xiBLVQ8w1J,2026-11-18T02:30+00:00,0,-1.03,rug/no liquidity
 2026-11-18T03:30+00:00,smart_follow,DCI / SOL,FpL3jYW7rDPkFLL3NL1iNyXntRHDMFMWLTbpfgJ867b1,2026-11-18T03:10+00:00,0,-1.03,rug/no liquidity
-2026-11-18T03:40+00:00,moonshot_hold,BUFO / SOL,A1KiGAXJgUuDZttsJhgnGEUNoMMKKY9nupVzvoT4fcGv,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
-2026-11-18T03:40+00:00,moonshot_hold,VCN / SOL,FMdBpps8AWW3ezefRC7q6kUFoMPzZzhBvE4xUXDxegsL,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
-2026-11-18T03:56+00:00,trending_new,NVIDIANS / NVDAx,AWUHBaqvxzdnn2vC6SgpzK5SzhqLGTxBhsSiMy4ZYZpb,2026-11-18T00:20+00:00,0.408,-0.673,stop loss
-2026-11-18T03:56+00:00,graduates,USPR / SOL,GbGaWufTaNY7fVHzWKXmAWu4dpfeFAnmSbYqfocwE4iv,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
-2026-11-18T03:56+00:00,moonshot_hold,ANT / SOL,5geYpHSFnJkgXsUDAhrJ7dK58c9qNAbFqy8MhvHQ8aQe,2026-11-18T03:40+00:00,0,-1.03,rug/no liquidity
-2026-11-18T03:56+00:00,smart_follow,ANT / SOL,5geYpHSFnJkgXsUDAhrJ7dK58c9qNAbFqy8MhvHQ8aQe,2026-11-18T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T03:48+00:00,trending_new,NVIDIANS / NVDAx,AWUHBaqvxzdnn2vC6SgpzK5SzhqLGTxBhsSiMy4ZYZpb,2026-11-18T00:20+00:00,0.467,-0.617,stop loss
+2026-11-18T03:48+00:00,moonshot_hold,BUFO / SOL,A1KiGAXJgUuDZttsJhgnGEUNoMMKKY9nupVzvoT4fcGv,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T03:48+00:00,moonshot_hold,VCN / SOL,FMdBpps8AWW3ezefRC7q6kUFoMPzZzhBvE4xUXDxegsL,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:03+00:00,graduates,USPR / SOL,GbGaWufTaNY7fVHzWKXmAWu4dpfeFAnmSbYqfocwE4iv,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
