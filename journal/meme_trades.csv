@@ -1467,3 +1467,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T04:03+00:00,graduates,USPR / SOL,GbGaWufTaNY7fVHzWKXmAWu4dpfeFAnmSbYqfocwE4iv,2026-11-18T03:30+00:00,0,-1.03,rug/no liquidity
 2026-11-18T04:10+00:00,graduates,GTAVI / SOL,HCMPghsQfBQ6vBPgnZ5iCKwik3M3qXw8o9YHt1wYzHQX,2026-11-18T01:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T04:10+00:00,smart_follow,GTAVI / SOL,HCMPghsQfBQ6vBPgnZ5iCKwik3M3qXw8o9YHt1wYzHQX,2026-11-18T01:00+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:20+00:00,smart_follow,GEKKO / SOL,5hts8B6PmznQtEBxdbFv35eLnQZARVrXn2PehoAJw1WQ,2026-11-17T22:17+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:20+00:00,moonshot_hold,NADJA / SOL,8fDjjoJ7ZTrqfu5AxnfUjAY18YLxya1VRiLM2K4C5iUr,2026-11-18T02:20+00:00,0,-1.03,rug/no liquidity
+2026-11-18T04:20+00:00,trending_new,GTAVI / WASTED,HM6q9iDBMcsQkBFnxaZtGGjTiJo5ocQTiHGwqnnuTToB,2026-11-18T04:10+00:00,0.496,-0.589,stop loss
