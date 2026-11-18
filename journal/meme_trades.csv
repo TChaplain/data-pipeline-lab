@@ -1535,3 +1535,4 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T06:20+00:00,early_momentum,ANTHROPIC / SOL,DjYVzuMgB1JqTPMj6uWpmTsjpihbUXfctJvCRUoLkQ4v,2026-11-18T06:00+00:00,0.0,-1.06,stop loss
 2026-11-18T06:20+00:00,graduates,ANTHROPIC / SOL,DjYVzuMgB1JqTPMj6uWpmTsjpihbUXfctJvCRUoLkQ4v,2026-11-18T06:00+00:00,0.0,-1.06,stop loss
 2026-11-18T06:40+00:00,smart_follow,RENTN / SOL,4L9JYysPTG7jHXi5Vz3JopzpwZuNiNUQMDcbyGFND2SQ,2026-11-18T06:20+00:00,0.038,-1.024,stop loss
+2026-11-18T06:50+00:00,graduates,SESAMECOIN / SOL,9o5Woe9wU6hZuU1jsdrt9JcK1L9jTYqZzs3fPxzjvusE,2026-11-18T05:50+00:00,0,-1.03,rug/no liquidity
