@@ -1315,3 +1315,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-17T23:50+00:00,moonshot_hold,PIKA / SOL,Dqw3cawUNVpMdwwu2DV22mfnbPmfXUAUx7wT3vtDReJu,2026-11-17T23:40+00:00,0,-1.03,rug/no liquidity
 2026-11-17T23:50+00:00,smart_follow,PIKA / SOL,Dqw3cawUNVpMdwwu2DV22mfnbPmfXUAUx7wT3vtDReJu,2026-11-17T23:40+00:00,0,-1.03,rug/no liquidity
 2026-11-18T00:00+00:00,moonshot_hold,SIACoin / SOL,9m3oJNB3CCma5PUrEi1LPWmuF3jRNJUrteMgmhZ6mWCz,2026-11-17T23:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T00:10+00:00,dex_boosted,GTA,5NopLqBDdWXeWCmZrHctgvFboozrjHJzSLwfkyTg2rqw,2026-11-16T13:00+00:00,0.496,-0.589,stop loss
+2026-11-18T00:10+00:00,graduates,NVIDIANS / SOL,4ey4B9upTxGHL47sn5VdrzNU5tEKxJbTvzJE9YooRnP6,2026-11-17T22:30+00:00,0,-1.03,rug/no liquidity
