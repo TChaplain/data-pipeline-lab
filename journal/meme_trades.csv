@@ -1594,3 +1594,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T09:10+00:00,early_momentum,SHARK / SOL,2g12xyFhT5TPQHC6JChYkAKrf7k6VF62SD6EDrB31Ggr,2026-11-18T09:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T09:10+00:00,moonshot_hold,SHARK / SOL,2g12xyFhT5TPQHC6JChYkAKrf7k6VF62SD6EDrB31Ggr,2026-11-18T09:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T09:10+00:00,smart_follow,DCI / SOL,4afggZB7yPkwAi1zKadVqHRUDucAwzKQekaQojKtHsr8,2026-11-18T09:00+00:00,0.062,-1.001,stop loss
+2026-11-18T09:20+00:00,graduates,Intel / SOL,D8MD4aVLdGXhVJmae4EZDxHU6JoeRHkCyPrCF1NWEHQd,2026-11-18T09:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:20+00:00,moonshot_hold,Intel / SOL,D8MD4aVLdGXhVJmae4EZDxHU6JoeRHkCyPrCF1NWEHQd,2026-11-18T09:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:20+00:00,smart_follow,P1 / SOL,GESe1hKqD7mFPKPiv1R5JD359jb1rrgWS9Nyp9K3tWDU,2026-11-18T09:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:20+00:00,early_momentum,TTWO / SOL,6SAroWCmbhK9hy4a3DYuVqpWhd5Xkmij7X4gB7XFasou,2026-11-18T09:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:20+00:00,moonshot_hold,TTWO / SOL,6SAroWCmbhK9hy4a3DYuVqpWhd5Xkmij7X4gB7XFasou,2026-11-18T09:10+00:00,0,-1.03,rug/no liquidity
