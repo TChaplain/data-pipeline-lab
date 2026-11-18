@@ -1674,3 +1674,22 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T14:10+00:00,moonshot_hold,GTI6 / SOL,9zXgB2aghiSLbXPHaahDeyXTfSTRTJz9ZztyYbu4832Y,2026-11-18T13:50+00:00,0,-1.03,rug/no liquidity
 2026-11-18T14:10+00:00,smart_follow,GTI6 / SOL,9zXgB2aghiSLbXPHaahDeyXTfSTRTJz9ZztyYbu4832Y,2026-11-18T13:50+00:00,0,-1.03,rug/no liquidity
 2026-11-18T14:10+00:00,graduates,Jshll / SOL,AEcEUsFKa4oPjG8m8PfpwxDVhtNzcuvzwuwfgRiEy3NQ,2026-11-18T13:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T14:20+00:00,ape_everything,Jack / GRND,Fi5qG1EmMMGJxz13xdMYzyqoTdJudDf9uZjAeSAEo6rX,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,Jack / PUMP,9mBMaEGDZRfqApbNfo9Tzpn82of3JiVFoCkGEqf75f3,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,Speed / SOL,8Ys4wyM6q5RvNsJuzMrbjxhLHhHrSbzAeWM7rZqxLUmj,2026-11-17T14:14+00:00,0.929,-0.178,time exit
+2026-11-18T14:20+00:00,ape_everything,BENJIEZ / SOL,2m9pQwWwnVBhiNXETpsbRxraYRpduCFxsbg8PzC6xUrJ,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,ASDFASD / SOL,AGnNHydEr6S6noNaMiSV9uj3eosxDBsKTZxr8f245Ren,2026-11-17T14:14+00:00,0.95,-0.158,time exit
+2026-11-18T14:20+00:00,ape_everything,JACK / PUMP,Dd3Vuu4e5TkgJs7uW9ibcFUkS9SgNx2g9uUUzkciEDnz,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,GTA6 / SOL,3PcPHNu2vpr1qxAWtTYiuS6Bhyu59iktNrjQTcyjTRD9,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,Jack / ANTHRP,9EuTwfyAKfchvffB38Lj7HZxr9qkgyUV2EJXR6t2Nd2t,2026-11-17T14:14+00:00,0.945,-0.163,time exit
+2026-11-18T14:20+00:00,ape_everything,$Marly / SOL,EntoZCCGfKcmNQHfrV5rov1C2Y1t4md9Y88ukq4yfeBV,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,Rockstar / SOL,4GQQ9HVRmvvx2KanidQi6HrPNYxzfYzrFCUbNVJtmZ4D,2026-11-17T14:14+00:00,0.934,-0.172,time exit
+2026-11-18T14:20+00:00,ape_everything,kittylick / SOL,DgYJ8DcZ7ipMURv8TYDnHNc2EHetHXgWgboLpP49ZNWC,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,ASD / SOL,4WLmaYkxbf6HvW5qFPxsy34e3iRabe8EYgT4HwRiuYun,2026-11-17T14:14+00:00,0.949,-0.158,time exit
+2026-11-18T14:20+00:00,ape_everything,OYDT / USDT,BENwWbiQVsMXpST4KKzwdBqhYC9pQxiakKXFLDLEQa66,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,BetOnBlak / SOL,Y3bpzXeep3fVva5KzxLo4bf6QB3dQoXsrtZUsoBQeHV,2026-11-17T14:14+00:00,0.952,-0.155,time exit
+2026-11-18T14:20+00:00,ape_everything,HOOD / SOL,G1igu8zSiGQugYvc5jyrs92pnCB2AFvJPGLa98cnX44j,2026-11-17T14:14+00:00,0.926,-0.18,time exit
+2026-11-18T14:20+00:00,trending_new,JVOLT / SOL,5vFQQm98tuKBiaRAH7y9ecy9GSmBogMH8zpNtbjsMAuJ,2026-11-17T14:14+00:00,0.803,-0.297,time exit
+2026-11-18T14:20+00:00,graduates,DACT / SOL,6N8DBJM19nmSkkjL1LjZqyec3LNVyBgMBv5Vwp6VoXgT,2026-11-18T13:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T14:20+00:00,smart_follow,DACT / SOL,6N8DBJM19nmSkkjL1LjZqyec3LNVyBgMBv5Vwp6VoXgT,2026-11-18T13:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T14:20+00:00,graduates,NEX Ai / SOL,2nYVkLgodjizHzrro5omPnAcRVf6Xv55w29BejZs99Pm,2026-11-18T14:10+00:00,0.064,-0.999,stop loss
