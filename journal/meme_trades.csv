@@ -1727,3 +1727,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T14:50+00:00,smart_follow,FAILED / SOL,CD5fRXMNZBdZ3xco89vN5A2uEsGbkuGiWxA6y7q2YCEA,2026-11-18T14:20+00:00,0,-1.03,rug/no liquidity
 2026-11-18T14:50+00:00,early_momentum,VTC / SOL,8FStA1QB2girYDStjRnMrprDwZRvx9tZqxQGfmA3fmHk,2026-11-18T14:40+00:00,0.0,-1.06,stop loss
 2026-11-18T14:50+00:00,graduates,VTC / SOL,8FStA1QB2girYDStjRnMrprDwZRvx9tZqxQGfmA3fmHk,2026-11-18T14:40+00:00,0.0,-1.06,stop loss
+2026-11-18T15:00+00:00,dex_boosted,GTAVI,DaQf915PiasWKagPN8ZjvyvU5ZVzras2Bq2bM3aMaBwz,2026-11-17T14:14+00:00,0.457,-0.626,stop loss
+2026-11-18T15:00+00:00,ape_everything,KIM / SOL,7UdjJ3cJ9Ty932wi7apvaZrgmtvFC1CnQXoxwenStD2x,2026-11-17T15:00+00:00,0.033,-1.028,time exit
+2026-11-18T15:00+00:00,ape_everything,AURA / SOL,EqmnKf5NDCVpSxs3ShBiJacFxzfrM8YuPHfxvcaQZsJ5,2026-11-17T15:00+00:00,0.952,-0.155,time exit
+2026-11-18T15:00+00:00,ape_everything,FXVCFXVBFX / SOL,Dq24XgPj3NcPcfm77hfeYxRGfF5dWUHz5EepPfW3rzvN,2026-11-17T15:00+00:00,0.952,-0.155,time exit
+2026-11-18T15:00+00:00,ape_everything,Makenzi / SOL,DvEzzMP2hruiD3QQKmntgGhpktthaUR2tEkueep1ziwh,2026-11-18T14:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T15:00+00:00,moonshot_hold,Makenzi / SOL,DvEzzMP2hruiD3QQKmntgGhpktthaUR2tEkueep1ziwh,2026-11-18T14:40+00:00,0,-1.03,rug/no liquidity
+2026-11-18T15:00+00:00,ape_everything,Tradercat / SOL,B1Uhs45nfFjG5hSQJf9h4yqDdAZX1CN2BNs5u8AM5Nti,2026-11-18T14:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T15:00+00:00,graduates,Tradercat / SOL,B1Uhs45nfFjG5hSQJf9h4yqDdAZX1CN2BNs5u8AM5Nti,2026-11-18T14:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T15:00+00:00,moonshot_hold,Tradercat / SOL,B1Uhs45nfFjG5hSQJf9h4yqDdAZX1CN2BNs5u8AM5Nti,2026-11-18T14:50+00:00,0,-1.03,rug/no liquidity
