@@ -1771,3 +1771,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T15:30+00:00,graduates,VTC / SOL,CKJPKVM4k3tYVHEUC2tZms7do45RQDSjKm4gxD7crDYy,2026-11-18T15:10+00:00,0.0,-1.06,stop loss
 2026-11-18T15:30+00:00,smart_follow,VTC / SOL,CKJPKVM4k3tYVHEUC2tZms7do45RQDSjKm4gxD7crDYy,2026-11-18T15:10+00:00,0.0,-1.06,stop loss
 2026-11-18T15:30+00:00,smart_follow,CC / SOL,CHtZFcVGxLmoiCfDprbbH1nFiDShWexkqqwLnpoj45tZ,2026-11-18T15:10+00:00,0,-1.03,rug/no liquidity
+2026-11-18T15:40+00:00,ape_everything,Gib / SOL,6BqdzgRUcGmJR4uHJVSyg1axHsNq9GFTwfaarj5748Yc,2026-11-17T15:40+00:00,0.952,-0.155,time exit
+2026-11-18T15:40+00:00,smart_follow,HOGE / SOL,E5bdBntgyMebJq1KQwKPPUB3Wn5f3RPDaycYvcHHomqi,2026-11-18T13:40+00:00,3.496,2.262,trailing stop
+2026-11-18T15:40+00:00,ape_everything,RYDEME / SOL,4PTQFPRSevvWBNAJDSptDVW7Nt6ydaHtjuVhjEXBvtpm,2026-11-18T15:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T15:40+00:00,moonshot_hold,RYDEME / SOL,4PTQFPRSevvWBNAJDSptDVW7Nt6ydaHtjuVhjEXBvtpm,2026-11-18T15:30+00:00,0,-1.03,rug/no liquidity
