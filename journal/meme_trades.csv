@@ -1608,3 +1608,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T09:30+00:00,moonshot_hold,ANT / SOL,GsUmXTweyshct2MU2Euf7LqArMyRV52W1AEuKNEJ5tsW,2026-11-18T09:00+00:00,0,-1.03,rug/no liquidity
 2026-11-18T09:30+00:00,smart_follow,CHUD / SOL,CGFoDdfiDh3SbPsTKGUgDPkbDjRaAHw4d18fgMCr1CgT,2026-11-18T09:20+00:00,0,-1.03,rug/no liquidity
 2026-11-18T09:30+00:00,smart_follow,DCI / SOL,3q53vh89Wma8ioBp4G6rvA6aysECc1UEiA2zg52QsDfV,2026-11-18T09:20+00:00,0.065,-0.998,stop loss
+2026-11-18T09:40+00:00,moonshot_hold,IDRENT / SOL,ADA3eeEmjmrQbEEMUE8YjkSUBY9T6D1DpagnU2jNVy3G,2026-11-18T08:50+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:40+00:00,moonshot_hold,CHUD / SOL,ARGFneUboRKRjvDT4K8EfsKQ1thyTVPgfrUkhi8uJiS7,2026-11-18T09:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:40+00:00,moonshot_hold,Jason / SOL,4mqTiTn1Q5UaM1QZi9nNZfBo6Bvw58cVRKNxeQvSMdGq,2026-11-18T09:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:40+00:00,smart_follow,Jason / SOL,4mqTiTn1Q5UaM1QZi9nNZfBo6Bvw58cVRKNxeQvSMdGq,2026-11-18T09:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:40+00:00,early_momentum,Jason / SOL,EMg7WrrJHyyP4PrNooet5SgRjHMfo5i81eioNwFfhtzz,2026-11-18T09:30+00:00,0,-1.03,rug/no liquidity
+2026-11-18T09:40+00:00,moonshot_hold,Jason / SOL,EMg7WrrJHyyP4PrNooet5SgRjHMfo5i81eioNwFfhtzz,2026-11-18T09:30+00:00,0,-1.03,rug/no liquidity
