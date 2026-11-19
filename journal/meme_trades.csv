@@ -1938,3 +1938,19 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T03:50+00:00,trending_new,FNDR / SOL,E228rR6v99NTkHW19DoTdPCmrcL8rnnzTBVwz2VNkwww,2026-11-19T02:20+00:00,0.482,-0.602,stop loss
 2026-11-19T03:50+00:00,ape_everything,CRIME / SOL,CkXkJeFRGZjzeJDdpngfiZ4zVcViQsA49cXntbae6TwL,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
 2026-11-19T03:50+00:00,ape_everything,Leonida / SOL,HtNUiMeYRnn2s2Y7Hj2QPxLfrwbXBmhSoqQ5H5h6fSHn,2026-11-19T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,dex_boosted,MOONVALE,3ECm2QMjjyTik9Txr3fmaF7WdKC2Apx2FCRgMqCvkAAm,2026-11-17T19:10+00:00,0.285,-0.79,stop loss
+2026-11-19T13:20+00:00,graduates,SHIT / SOL,D1LXpkFpbQr1YwVgWYQsed93czdz8hA7s9g7yb8LMFfe,2026-11-17T23:40+00:00,2.97,1.761,trailing stop
+2026-11-19T13:20+00:00,smart_follow,SHIT / SOL,D1LXpkFpbQr1YwVgWYQsed93czdz8hA7s9g7yb8LMFfe,2026-11-17T23:40+00:00,2.97,1.761,trailing stop
+2026-11-19T13:20+00:00,trending_new,SHIT / SOL,D1LXpkFpbQr1YwVgWYQsed93czdz8hA7s9g7yb8LMFfe,2026-11-18T04:03+00:00,1.504,0.368,trailing stop
+2026-11-19T13:20+00:00,ape_everything,COW / SOL,5eKzuQP9vvV8vib3vBMJetEZTwK2DnpZ6zB11GmnEC97,2026-11-18T05:30+00:00,0.957,-0.15,time exit
+2026-11-19T13:20+00:00,trending_new,TTWO / VI,Ghooj5bdSAuZQzUYq6BSn763Sp9dkUrHdbdrNyZTWQPN,2026-11-18T13:13+00:00,0.972,-0.137,time exit
+2026-11-19T13:20+00:00,dex_boosted,GTASZN,C3ai5bk7q9jTtVcbWQeEXSta99BMmLCNVyasDD7mnQBt,2026-11-19T00:00+00:00,0.449,-0.634,stop loss
+2026-11-19T13:20+00:00,trending_new,DCTY / TTWO,Bk8BnW4ev3gKcJhFUzSPjyXCsiJ1aYCz485p5QpQj5be,2026-11-19T01:10+00:00,0.438,-0.644,stop loss
+2026-11-19T13:20+00:00,trending_new,GTASZN / SOL,C3ai5bk7q9jTtVcbWQeEXSta99BMmLCNVyasDD7mnQBt,2026-11-19T01:10+00:00,0.449,-0.634,stop loss
+2026-11-19T13:20+00:00,ape_everything,GTA6 / SOL,7LcQmn4tN3wVFnxocZmtEmGa6SyiYbFePKsazKEXKdWk,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,graduates,GTA6 / SOL,7LcQmn4tN3wVFnxocZmtEmGa6SyiYbFePKsazKEXKdWk,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,ape_everything,BUNC / SOL,HsTB8qu1L4F2Tvzxb2X8vWxMuLZhDXJgagUvvE5cpZqS,2026-11-19T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,graduates,BUNC / SOL,HsTB8qu1L4F2Tvzxb2X8vWxMuLZhDXJgagUvvE5cpZqS,2026-11-19T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,ape_everything,CDOG / SOL,DWHPi2Vih2QjAQ5MsDYsoHfzeQ6vXSchDvvL9oNfvUBW,2026-11-19T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,ape_everything,😭 / SOL,2UTAKKM6UzyW9k2FcM97heK29ho7irDCGt1cEWWr4ycr,2026-11-19T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-19T13:20+00:00,moonshot_hold,😭 / SOL,2UTAKKM6UzyW9k2FcM97heK29ho7irDCGt1cEWWr4ycr,2026-11-19T03:50+00:00,0,-1.03,rug/no liquidity
