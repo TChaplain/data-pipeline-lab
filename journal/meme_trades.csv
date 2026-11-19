@@ -2131,3 +2131,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T22:20+00:00,graduates,PIPI / SOL,EotuvkMheejgeEUuiJyQZJydqyH3MAvk3swHhqyBpPVr,2026-11-19T21:50+00:00,0,-1.03,rug/no liquidity
 2026-11-19T22:20+00:00,trending_new,FIONA / SOL,DLxUmNSQArWSegkberb1Hu531tseqWfNE5ixuESJCREN,2026-11-19T22:00+00:00,0.485,-0.599,stop loss
 2026-11-19T22:30+00:00,moonshot_hold,Player / SOL,9AMmbG7pzkMuR5QDyyGEz5rWXpfrLZfGXS1Sw9FT22i9,2026-11-19T22:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:40+00:00,moonshot_hold,Movember / SOL,9hgMmKVzhGMUqbo8G5jMDcuhWUdFaqJ5N1APB3ZA77g9,2026-11-12T22:40+00:00,0.181,-0.888,time exit
+2026-11-19T22:40+00:00,trending_new,ONI / SOL,FPudvJHq1pLa3HUFpDhueEEFECF6WHRcs2UEeitijPoS,2026-11-19T21:30+00:00,0.492,-0.593,stop loss
+2026-11-19T22:40+00:00,smart_follow,DCTY / SOL,HY36MByeLNxGVNCwA1BfnAY9yKwQ4QcNP4eeASRHc1qe,2026-11-19T22:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:40+00:00,moonshot_hold,AI / AAPLx,DuNrWsxGa63cuNxqznWqhDYNzsqZGiqbAoJwaXBL5Wu2,2026-11-19T22:10+00:00,13.456,11.724,take profit 10.0x
+2026-11-19T22:40+00:00,graduates,FIONA / SOL,8J6RKseaTA8hQPtDmMnYS2jSq5uoT7uoXGUnryDQjvwZ,2026-11-19T22:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:40+00:00,moonshot_hold,FIONA / SOL,8J6RKseaTA8hQPtDmMnYS2jSq5uoT7uoXGUnryDQjvwZ,2026-11-19T22:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:40+00:00,moonshot_hold,hope / SOL,4JRRv3c7BwMfDj8Na7JvGq8TsRYMgmsw3muCkCNSseFZ,2026-11-19T22:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:40+00:00,moonshot_hold,FIONA / SOL,4bun1h2briCV8VEyu9o1C7X1bezC5uE6mLMcXNaAcJJT,2026-11-19T22:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:40+00:00,early_momentum,hope / SOL,4JRRv3c7BwMfDj8Na7JvGq8TsRYMgmsw3muCkCNSseFZ,2026-11-19T22:30+00:00,0,-1.03,rug/no liquidity
