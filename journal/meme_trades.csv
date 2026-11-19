@@ -1881,3 +1881,13 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T01:30+00:00,dex_boosted,Altruists,Hpjzjed5Zi6qodv4NgswZYycNe3bxtda3UFU2ZU5AuxY,2026-11-18T14:40+00:00,0.448,-0.635,stop loss
 2026-11-19T01:30+00:00,ape_everything,DCTY / SOL,7j6KA5k4jEwx11GpB3CULhrFp9wvwrkukb19sgJ2fMXP,2026-11-19T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-19T01:30+00:00,smart_follow,DCTY / SOL,7j6KA5k4jEwx11GpB3CULhrFp9wvwrkukb19sgJ2fMXP,2026-11-19T00:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T01:50+00:00,ape_everything,BAH / SOL,6QEeFJ8AFSsmYF9tYkhsJeLeZYctEKvgLyit7YfxwzqT,2026-11-18T01:40+00:00,0.794,-0.306,time exit
+2026-11-19T01:50+00:00,ape_everything,GTAVI / SOL,EisgaBQgYbVPq8cDwo89YiCUDQ7wvni1tb4a9BsK2V99,2026-11-18T01:40+00:00,0.952,-0.156,time exit
+2026-11-19T01:50+00:00,ape_everything,ANKATA / SOL,CHk6Jv5zRo7woSSwUt1xtVUEUaFZzih9L8DUKF3LasCV,2026-11-18T01:40+00:00,0.792,-0.308,time exit
+2026-11-19T01:50+00:00,ape_everything,:| / :3,DzNAvwTHt5Qab4m7zg5GEUDoto9LoxxhMRwPvVaNzKb9,2026-11-18T01:40+00:00,0.948,-0.159,time exit
+2026-11-19T01:50+00:00,ape_everything,OTTER / SOL,33Hehzc6fU3n6GCKPpUDVKjski8Zz96396AvrK8hNeFA,2026-11-18T01:40+00:00,0.952,-0.155,time exit
+2026-11-19T01:50+00:00,ape_everything,GMS / PUMP,ALfRsZdx3opjtwuLcFwFf475YmtcBFMZN6tZpJ8yyGoS,2026-11-18T01:50+00:00,0.952,-0.155,time exit
+2026-11-19T01:50+00:00,ape_everything,N3ON / COINx,5hqgizm6TvqRM6y13ENc2dSEYEXgq1QD7EZVsX4vZ773,2026-11-18T01:50+00:00,0.945,-0.162,time exit
+2026-11-19T01:50+00:00,ape_everything,GenM / PUMP,6g6nCQkPtDMohXATw5yjfgJyU7SYJ84W18jhCseZiwCo,2026-11-18T01:50+00:00,0.952,-0.155,time exit
+2026-11-19T01:50+00:00,dex_boosted,Founder,HmgMNetyimK7JxxQ4RQt38Pj12BoFuwVKYwnLKUE6ttv,2026-11-18T21:40+00:00,0.225,-0.847,stop loss
+2026-11-19T01:50+00:00,moonshot_hold,FNDR / SOL,3EqaouDnwoc8NG1qV4LaTnjTtHa4z3AnYDsvvejsau9h,2026-11-19T01:30+00:00,0,-1.03,rug/no liquidity
