@@ -2059,3 +2059,10 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T17:40+00:00,ape_everything,MONKEY / SOL,38ZQZG1y8EpG6fJCy4GguNEEgtU2G6RaFJ9rRkE8YQgN,2026-11-19T17:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T17:40+00:00,early_momentum,MONKEY / SOL,38ZQZG1y8EpG6fJCy4GguNEEgtU2G6RaFJ9rRkE8YQgN,2026-11-19T17:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T17:40+00:00,smart_follow,MONKEY / SOL,38ZQZG1y8EpG6fJCy4GguNEEgtU2G6RaFJ9rRkE8YQgN,2026-11-19T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:10+00:00,dex_boosted,1,AQN7UkKYSnaZns61dVW2Q6hQmm7WiFSAyjBon6FVwhGf,2026-11-19T13:20+00:00,0.437,-0.645,stop loss
+2026-11-19T18:10+00:00,ape_everything,NEX Ai / SOL,2zmLsrndJzNT8yzHkCV5qCWYf5UxJ2ZCJsbJ9VkCqqz7,2026-11-19T17:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:10+00:00,graduates,NEX Ai / SOL,2zmLsrndJzNT8yzHkCV5qCWYf5UxJ2ZCJsbJ9VkCqqz7,2026-11-19T17:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:10+00:00,ape_everything,PIPI / SOL,6hSffbSw9nZabmcShYTB3sd8D4ATp3gbuUPbhc1mBq6Z,2026-11-19T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:10+00:00,ape_everything,Chonk / SOL,AtczvKeuVZ5UYMyzBKfsA3Zp8g9iihYibG3z7z58YEFC,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:10+00:00,moonshot_hold,Chonk / SOL,AtczvKeuVZ5UYMyzBKfsA3Zp8g9iihYibG3z7z58YEFC,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:10+00:00,smart_follow,Chonk / SOL,AtczvKeuVZ5UYMyzBKfsA3Zp8g9iihYibG3z7z58YEFC,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
