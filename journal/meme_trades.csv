@@ -1925,3 +1925,13 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T03:00+00:00,ape_everything,PUMP / SOL,5bU8CfQ2bNLKRpzJWYoG6xLKU1XTFKxfD7bgC7FugsaL,2026-11-18T02:50+00:00,0.952,-0.155,time exit
 2026-11-19T03:00+00:00,ape_everything,GTAVI / SOL,CxRUnRV2iiBqcLW1JMexUEFEAzUvh11yFPk376KiTPjc,2026-11-18T03:00+00:00,0.031,-1.031,time exit
 2026-11-19T03:00+00:00,ape_everything,GC / USDC,9zyUa88ZGD8rx6JJez8Xmn5sio5pa5D72n6GCs4bXpme,2026-11-18T03:00+00:00,0.987,-0.122,time exit
+2026-11-19T03:30+00:00,graduates,NEX Ai / SOL,HdqeBMjYkCFJQs9tLTxK7ubwDwpHSh9bdcg7NPKZrTgG,2026-11-16T02:40+00:00,2.824,1.623,time exit
+2026-11-19T03:30+00:00,ape_everything,11/19 / GTAVI,F9h1psoKDioiuA6vDipH9XLs8WrLPkZxcmKX37fpAUeH,2026-11-18T02:50+00:00,0.952,-0.155,time exit
+2026-11-19T03:30+00:00,ape_everything,Rockstar / SOL,8HxaiCr9bcKEXrq6kBKtdbdEdYFW9rV5qfdZ1UQSpJQ1,2026-11-18T03:10+00:00,0.94,-0.167,time exit
+2026-11-19T03:30+00:00,ape_everything,MAMDANI / SOL,JBMxhStWx6KopVexu2mPuKG7wrczQ4ZQ68AU3H9emod4,2026-11-18T03:10+00:00,0.952,-0.155,time exit
+2026-11-19T03:30+00:00,ape_everything,CLUB / TTWO,2LqLYwVBJgf7tsdPNXkJX6a3HFb2rEgzgEtRLTakamTb,2026-11-18T03:20+00:00,0.952,-0.155,time exit
+2026-11-19T03:30+00:00,ape_everything,GMGM / SOL,FH6cj1tSad1hd1PeV6zUBL4YF6F61krLNEhCtgCprRGo,2026-11-19T02:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T03:30+00:00,ape_everything,GTA / SOL,5Pshi6ZjM2PTosdaCYpfrNLYtjDX5wA1iNYypnfXxqgK,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T03:30+00:00,ape_everything,COOLDOG / SOL,G8xPmMYonYgoBLNtCVbjM4qA6rQnHibheyc6Yfv2FnA4,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T03:30+00:00,moonshot_hold,COOLDOG / SOL,G8xPmMYonYgoBLNtCVbjM4qA6rQnHibheyc6Yfv2FnA4,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T03:30+00:00,smart_follow,COOLDOG / SOL,G8xPmMYonYgoBLNtCVbjM4qA6rQnHibheyc6Yfv2FnA4,2026-11-19T03:00+00:00,0,-1.03,rug/no liquidity
