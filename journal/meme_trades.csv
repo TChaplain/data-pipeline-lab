@@ -2156,3 +2156,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T23:30+00:00,graduates,PIPI / SOL,HcJjX7Rh1y2bmvkJSwax9VBkWnMRLCT5g8BsMXJVwd3R,2026-11-19T23:00+00:00,0,-1.03,rug/no liquidity
 2026-11-19T23:30+00:00,moonshot_hold,PIPI / SOL,HcJjX7Rh1y2bmvkJSwax9VBkWnMRLCT5g8BsMXJVwd3R,2026-11-19T23:00+00:00,0,-1.03,rug/no liquidity
 2026-11-19T23:30+00:00,smart_follow,PIPI / SOL,HcJjX7Rh1y2bmvkJSwax9VBkWnMRLCT5g8BsMXJVwd3R,2026-11-19T23:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T23:40+00:00,trending_new,GTAVI / SOL,7F9L5mH1eKLnqqYGc6KRhUsnZrynfg5WCfqnvFTjAUyh,2026-11-18T23:40+00:00,0.952,-0.155,time exit
+2026-11-19T23:40+00:00,graduates,FNDR / SOL,FP2S1LpCzEuwspUL7zupGEtBPNoYHteESCAUWXiUcKoB,2026-11-19T23:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T23:40+00:00,smart_follow,FNDR / SOL,FP2S1LpCzEuwspUL7zupGEtBPNoYHteESCAUWXiUcKoB,2026-11-19T23:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T23:40+00:00,smart_follow,MANDY / SOL,43t96qdjHAn2ScR7dUKsMHyRLB5SaWHCPLXvEd5nTP7Z,2026-11-19T23:30+00:00,0,-1.03,rug/no liquidity
