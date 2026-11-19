@@ -2066,3 +2066,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T18:10+00:00,ape_everything,Chonk / SOL,AtczvKeuVZ5UYMyzBKfsA3Zp8g9iihYibG3z7z58YEFC,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
 2026-11-19T18:10+00:00,moonshot_hold,Chonk / SOL,AtczvKeuVZ5UYMyzBKfsA3Zp8g9iihYibG3z7z58YEFC,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
 2026-11-19T18:10+00:00,smart_follow,Chonk / SOL,AtczvKeuVZ5UYMyzBKfsA3Zp8g9iihYibG3z7z58YEFC,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:30+00:00,dex_boosted,Mandy,CDUUhndBkYXCKsHMJYRUXpVVrCjo6giKB6HP9Z9zYQwk,2026-11-19T13:20+00:00,0.441,-0.641,stop loss
+2026-11-19T18:30+00:00,ape_everything,PIPI / SOL,E5rBaNB11JC53Po9MkHaLK4sRAKR8sGnTVqVcD2K1A3d,2026-11-19T17:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:30+00:00,ape_everything,CHONK / SOL,CBfDu4o9UBqb5H9Ur2MtEDVmyyziUmZJskR7oHnN5oMs,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:30+00:00,moonshot_hold,CHONK / SOL,CBfDu4o9UBqb5H9Ur2MtEDVmyyziUmZJskR7oHnN5oMs,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T18:30+00:00,dex_boosted,GME,5jK7gJLgEqTsSA3fvUsK9UZNU8Y7VmvLTvqMZbP9y797,2026-11-19T18:10+00:00,0.118,-0.948,stop loss
