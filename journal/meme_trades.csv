@@ -2140,3 +2140,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T22:40+00:00,moonshot_hold,hope / SOL,4JRRv3c7BwMfDj8Na7JvGq8TsRYMgmsw3muCkCNSseFZ,2026-11-19T22:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T22:40+00:00,moonshot_hold,FIONA / SOL,4bun1h2briCV8VEyu9o1C7X1bezC5uE6mLMcXNaAcJJT,2026-11-19T22:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T22:40+00:00,early_momentum,hope / SOL,4JRRv3c7BwMfDj8Na7JvGq8TsRYMgmsw3muCkCNSseFZ,2026-11-19T22:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:50+00:00,moonshot_hold,ROCKSTAR / TTWO,6WrZGDNTYJrQEUoN6o1DRDXB4HFs7Ne5txqLRbSwUVLv,2026-11-12T22:50+00:00,0.725,-0.371,time exit
+2026-11-19T22:50+00:00,moonshot_hold,FIONA / SOL,E5rRT4dBM1hFTUhF7ukR9D7TMP6fDFPmn3DkGKE8Wknr,2026-11-19T22:40+00:00,0,-1.03,rug/no liquidity
