@@ -1840,3 +1840,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-18T23:40+00:00,ape_everything,GTAVI / USDC,9tKH3YnpZ5eRqdz2fertPm4xmdf9ocvjB5xmkoguU171,2026-11-17T23:40+00:00,0.953,-0.155,time exit
 2026-11-18T23:40+00:00,trending_new,GTA / SOL,GQHhvHAKQmRmZm8bHK9kscfn93Xa7CBMoWh4duPZs2a,2026-11-18T04:03+00:00,0.399,-0.681,stop loss
 2026-11-18T23:40+00:00,smart_follow,Rockstar / SOL,D7ao2BinsNJPFPLS5eyVmBnMDB2WSQYp2xvkMBJjzqsM,2026-11-18T22:50+00:00,0,-1.03,rug/no liquidity
+2026-11-19T00:00+00:00,ape_everything,GrokChan / SOL,CZdNcpoLW2Wzrj5HkzQv9q3uK3dJ6FY43nvy7rAU7v87,2026-11-17T23:20+00:00,0.952,-0.155,time exit
+2026-11-19T00:00+00:00,ape_everything,Lucia / SOL,2FdDtSo5bRu76AV32Km5UZfxx871eUWyrewvK5yoBTHo,2026-11-17T23:50+00:00,0.952,-0.155,time exit
+2026-11-19T00:00+00:00,ape_everything,Lucia / GTA6,6a9L9hhC9C9sgtaa4f4GpC3i3sF4VGqk7c756kGhoo2q,2026-11-17T23:50+00:00,0.819,-0.282,time exit
+2026-11-19T00:00+00:00,moonshot_hold,GTAB / SOL,5zUGYpKNc95fkWC2BEdqRZx4BYDiAYkwW19hywq613CX,2026-11-18T23:40+00:00,0,-1.03,rug/no liquidity
