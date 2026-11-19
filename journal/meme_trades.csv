@@ -2144,3 +2144,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T22:50+00:00,moonshot_hold,FIONA / SOL,E5rRT4dBM1hFTUhF7ukR9D7TMP6fDFPmn3DkGKE8Wknr,2026-11-19T22:40+00:00,0,-1.03,rug/no liquidity
 2026-11-19T23:00+00:00,smart_follow,JENSEN / SOL,JDs4V51q1H5KytunYTHQnCMXdunPPa5w4ujZe1AfTmcU,2026-11-17T23:00+00:00,1.072,-0.041,time exit
 2026-11-19T23:00+00:00,graduates,\nu / SOL,6oBnqxQnzohL6JoascLU95X4Yows1TDbHt6As3STUEVD,2026-11-19T22:50+00:00,0.01,-1.051,stop loss
+2026-11-19T23:10+00:00,moonshot_hold,GTA / TTWO,55VSCBcmXiHXqUzqBEj8yEpvioxzf7DCJmAQ811Yt9WK,2026-11-12T23:10+00:00,0.465,-0.618,time exit
+2026-11-19T23:10+00:00,trending_new,\nu / ANT,6iDiQdKvj9fCHZFC9EpemQBQQfssVAHf6uUxLhiYw4Nh,2026-11-19T21:40+00:00,0.468,-0.616,stop loss
+2026-11-19T23:10+00:00,trending_new,DAINU / SOL,3qNtWA3x9yRiDqLUZ7fLA1oFqeQ3wPthegCrGVkfcarU,2026-11-19T22:10+00:00,0.415,-0.665,stop loss
+2026-11-19T23:10+00:00,moonshot_hold,PRISM / SOL,CE5xuu7z9rruSZohW3rEYqrGcYnK59EFpwCDkAjF8WdP,2026-11-19T22:50+00:00,0,-1.03,rug/no liquidity
+2026-11-19T23:10+00:00,graduates,LUCIA / SOL,E5UhERSEynfftKrxhzDQVFnMfegdiT45TvXHKYS75oGq,2026-11-19T23:00+00:00,0.363,-0.715,stop loss
+2026-11-19T23:10+00:00,graduates,Cowboy Cat / SOL,sd9h4PbuhgBjNdHBksKhuFV7H9DxtGS8Kw1mvcixNAR,2026-11-19T23:00+00:00,0,-1.03,rug/no liquidity
