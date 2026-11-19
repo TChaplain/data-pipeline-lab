@@ -2106,3 +2106,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T21:00+00:00,graduates,LOOSY / SOL,B9m9VXjNfwaj9oNjxyfbNY8gcFnctXzVJKqtdmuxvJZ3,2026-11-19T20:20+00:00,0,-1.03,rug/no liquidity
 2026-11-19T21:00+00:00,moonshot_hold,Rockstar / SOL,7kNJcNsnzjow4yyuLrsMNmEm8gir8JUZ1JAM5DsaoDT9,2026-11-19T20:50+00:00,0,-1.03,rug/no liquidity
 2026-11-19T21:10+00:00,moonshot_hold,SI / NVDAx,CxqhCgGbPRmnUZxPVWGddBkCHmnSoFinQfEVZDU3GwLF,2026-11-12T21:10+00:00,0.575,-0.514,time exit
+2026-11-19T21:20+00:00,moonshot_hold,DJT / SOL,9SQaybGwqooguP6Xq3CgGhPXcS38kbAntHw8Kj32xLH2,2026-11-12T21:20+00:00,0.828,-0.274,time exit
+2026-11-19T21:20+00:00,moonshot_hold,SI / BABA,HDzLGDe7j7CSGNFb8Vsbom44FJNRadyR2whUC5RSHS7m,2026-11-12T21:20+00:00,0.679,-0.415,time exit
+2026-11-19T21:20+00:00,moonshot_hold,JUNIOR / SOL,CituH8WKM26UGWPqPi8Wuz8DmNVz9Uim1TAztq5riQvS,2026-11-19T21:10+00:00,0,-1.03,rug/no liquidity
+2026-11-19T21:20+00:00,moonshot_hold,BOBO / SOL,A6KcRPvgyJJHjjMm8aNB9FSaW3bweFAMkofopTAa7wFE,2026-11-19T21:10+00:00,0,-1.03,rug/no liquidity
