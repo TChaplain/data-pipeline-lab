@@ -2150,3 +2150,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T23:10+00:00,moonshot_hold,PRISM / SOL,CE5xuu7z9rruSZohW3rEYqrGcYnK59EFpwCDkAjF8WdP,2026-11-19T22:50+00:00,0,-1.03,rug/no liquidity
 2026-11-19T23:10+00:00,graduates,LUCIA / SOL,E5UhERSEynfftKrxhzDQVFnMfegdiT45TvXHKYS75oGq,2026-11-19T23:00+00:00,0.363,-0.715,stop loss
 2026-11-19T23:10+00:00,graduates,Cowboy Cat / SOL,sd9h4PbuhgBjNdHBksKhuFV7H9DxtGS8Kw1mvcixNAR,2026-11-19T23:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T23:20+00:00,trending_new,BUNCOIN / SOL,ELyCEcDXqeHy93nFuR1iuvECppobyFLkMvVJLx9xVaRP,2026-11-19T22:50+00:00,0.017,-1.044,stop loss
+2026-11-19T23:20+00:00,smart_follow,我的刀盾 / SOL,89MvUNG9eBoZDpnoJ3PDmRFJmLdrgo21WUWGeFKKbHWC,2026-11-19T23:10+00:00,0,-1.03,rug/no liquidity
