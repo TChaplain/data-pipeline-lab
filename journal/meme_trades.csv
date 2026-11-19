@@ -2125,3 +2125,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T22:10+00:00,graduates,GTAVI / SOL,4zGUMkas4He8Xqrib6cHrPmUzxijviie4Egip4UxF3B5,2026-11-19T21:10+00:00,0,-1.03,rug/no liquidity
 2026-11-19T22:10+00:00,moonshot_hold,GTAVI / SOL,4zGUMkas4He8Xqrib6cHrPmUzxijviie4Egip4UxF3B5,2026-11-19T21:10+00:00,0,-1.03,rug/no liquidity
 2026-11-19T22:10+00:00,moonshot_hold,FIONA / SOL,6W5bFVw9s8g37r8eubo8XLbH4UaYtKFs65SsjfYxLSGR,2026-11-19T22:00+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:20+00:00,moonshot_hold,LGUY / SOL,BfePUvgm8Q9hJEXstMX7CPSRZvYAxE4cxRAacjd6xiMs,2026-11-12T22:20+00:00,0.974,-0.134,time exit
+2026-11-19T22:20+00:00,moonshot_hold,DOX / SOL,5YG8ALwGBaZBosmnyZSpksRBmt4XLnpEb9tuujfXGBus,2026-11-12T22:20+00:00,0.117,-0.949,time exit
+2026-11-19T22:20+00:00,smart_follow,XBOXSX / SOL,39oATZEY4Gy54XbG5GKcHCaiaXRtxCHJG1y2VLT2Bacj,2026-11-17T22:17+00:00,2.446,1.264,time exit
+2026-11-19T22:20+00:00,graduates,PIPI / SOL,EotuvkMheejgeEUuiJyQZJydqyH3MAvk3swHhqyBpPVr,2026-11-19T21:50+00:00,0,-1.03,rug/no liquidity
+2026-11-19T22:20+00:00,trending_new,FIONA / SOL,DLxUmNSQArWSegkberb1Hu531tseqWfNE5ixuESJCREN,2026-11-19T22:00+00:00,0.485,-0.599,stop loss
