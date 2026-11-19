@@ -2081,3 +2081,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T18:40+00:00,early_momentum,ELTER / SOL,2ZkNSU4w96t9s241wGpbdiftcp9FkG64huYMaVwKFX6g,2026-11-19T18:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T18:40+00:00,moonshot_hold,ELTER / SOL,2ZkNSU4w96t9s241wGpbdiftcp9FkG64huYMaVwKFX6g,2026-11-19T18:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T18:40+00:00,graduates,Brian / SOL,92bvPzbtgPboPVYds7564juvfmXb4SuWytrsniqY3C3n,2026-11-19T18:30+00:00,0.478,-0.606,stop loss
+2026-11-19T19:00+00:00,dex_boosted,FARMCATS,BwtQtfL5o8RkukGwxyiW6fGYUYiiSCR1sTHiVAjs5ZPA,2026-11-17T18:50+00:00,0.956,-0.151,time exit
+2026-11-19T19:00+00:00,dex_boosted,GREENDILDO,GFktaGWuMHKwpZLWJVyFpRBFktnrwJGjwfBMbxUeFdhh,2026-11-17T19:00+00:00,1.001,-0.109,time exit
+2026-11-19T19:00+00:00,ape_everything,Cowboy Cat / SOL,42PE7M22CzC9gVUVvupoGtHaYCE893Z9gsuHgx1M2Bmw,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T19:00+00:00,graduates,Cowboy Cat / SOL,42PE7M22CzC9gVUVvupoGtHaYCE893Z9gsuHgx1M2Bmw,2026-11-19T17:40+00:00,0,-1.03,rug/no liquidity
+2026-11-19T19:00+00:00,ape_everything,Mandy / SOL,Hj4uzxRdapDU8x9An7WHsdrRh94kBhb3yKv2uceChzSN,2026-11-19T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T19:00+00:00,smart_follow,Mandy / SOL,Hj4uzxRdapDU8x9An7WHsdrRh94kBhb3yKv2uceChzSN,2026-11-19T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T19:00+00:00,smart_follow,DCTY / SOL,4CSLzDV4j8io3xu2aKHq9k1xnLmaurUEjeAMHd9gEjv7,2026-11-19T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-19T19:00+00:00,moonshot_hold,RT / SOL,2ffse9wM2avQamdAt4JRL8g4QPKTZ3ek2ZsmZCo6jjNW,2026-11-19T18:40+00:00,0,-1.03,rug/no liquidity
