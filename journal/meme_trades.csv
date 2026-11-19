@@ -2100,3 +2100,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T20:40+00:00,smart_follow,LOOSY / SOL,CLjrWUbFJ1FXfqiwfZnB4kZ4zzkPiVPjKMFfGZgysJEy,2026-11-19T20:10+00:00,0,-1.03,rug/no liquidity
 2026-11-19T20:40+00:00,trending_new,CATMARIO / SOL,DNkjsEwUJSwfqdfUCzatpJ8r6w4MJMBqDeo22YNx2SB5,2026-11-19T20:10+00:00,0.478,-0.606,stop loss
 2026-11-19T20:40+00:00,ape_everything,Leonida / SOL,9fvvJMVU6gCA6HGrSRHjmMgt9vBrmi12tbLnzgSphRwZ,2026-11-19T20:20+00:00,0,-1.03,rug/no liquidity
+2026-11-19T20:50+00:00,moonshot_hold,CHEESE / SOL,GhgkaKE759HkK7BDxyLy2wTaxrFfpB8MinQZfduGqNft,2026-11-12T20:50+00:00,0.288,-0.787,time exit
+2026-11-19T20:50+00:00,dex_boosted,$SG,At7CGEhPp22tHBecYVxEiTQsjULDGDX3bDm3V3ZywdTE,2026-11-17T20:50+00:00,1.073,-0.041,time exit
+2026-11-19T20:50+00:00,graduates,Christmas / SOL,7pnY8MpjkUhg77b9MTi44Lu9RjdPZ1DhUGHxQ422e2GW,2026-11-19T20:30+00:00,0,-1.03,rug/no liquidity
