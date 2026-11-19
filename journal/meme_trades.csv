@@ -2090,3 +2090,10 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-19T19:00+00:00,smart_follow,DCTY / SOL,4CSLzDV4j8io3xu2aKHq9k1xnLmaurUEjeAMHd9gEjv7,2026-11-19T18:30+00:00,0,-1.03,rug/no liquidity
 2026-11-19T19:00+00:00,moonshot_hold,RT / SOL,2ffse9wM2avQamdAt4JRL8g4QPKTZ3ek2ZsmZCo6jjNW,2026-11-19T18:40+00:00,0,-1.03,rug/no liquidity
 2026-11-19T20:20+00:00,trending_new,PIPI / TTWO,2EgUTKMqkeFQK3922TnSQbXMZZC6GnYUQAZBECmfK4eg,2026-11-19T14:20+00:00,0.493,-0.592,stop loss
+2026-11-19T20:30+00:00,moonshot_hold,NVIDIUSSY / NVDAx,69YzrsFVP2QCnoJjf3WT5WycdRw5hoyLFdrA2SKJyRtS,2026-11-12T20:30+00:00,0.877,-0.227,time exit
+2026-11-19T20:30+00:00,moonshot_hold,NVIDIUSSY / NVDAx,BDQwRaUoXxXfMPcTgdhtDMtbrRWFq4FfAwawPYtQtqHF,2026-11-12T20:30+00:00,0.736,-0.361,time exit
+2026-11-19T20:30+00:00,moonshot_hold,AI / SPCX,EAj5QmiyAubgVyLvPDWGN6p5TsLc3SZQ42Dno5X29n48,2026-11-12T20:30+00:00,0.34,-0.737,time exit
+2026-11-19T20:30+00:00,moonshot_hold,INU² / SOL,3ahRNn293UFMU5YY31WBuqGb4FwHoujm4KsEx1g1MAfU,2026-11-12T20:30+00:00,0.104,-0.961,time exit
+2026-11-19T20:30+00:00,graduates,Christmas / SOL,5pgRqinqmcPwCTKPGCC5BVuq7uesjipqvAkCbTRUkUau,2026-11-19T20:10+00:00,0,-1.03,rug/no liquidity
+2026-11-19T20:30+00:00,moonshot_hold,Christmas / SOL,5pgRqinqmcPwCTKPGCC5BVuq7uesjipqvAkCbTRUkUau,2026-11-19T20:10+00:00,0,-1.03,rug/no liquidity
+2026-11-19T20:30+00:00,smart_follow,Christmas / SOL,5pgRqinqmcPwCTKPGCC5BVuq7uesjipqvAkCbTRUkUau,2026-11-19T20:10+00:00,0,-1.03,rug/no liquidity
