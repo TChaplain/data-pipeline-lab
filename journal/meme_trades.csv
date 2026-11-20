@@ -2652,3 +2652,15 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T19:40+00:00,graduates,Singularity / SOL,54GSj1A2Es1QjmWHYPf19FRo6JuW28hZyYqi9hNKmT5v,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
 2026-11-20T19:40+00:00,smart_follow,Singularity / SOL,54GSj1A2Es1QjmWHYPf19FRo6JuW28hZyYqi9hNKmT5v,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
 2026-11-20T19:50+00:00,moonshot_hold,shorts / SOL,9HBxRY5kB9xQA92JF8cQcdvXUWpb48Se8qBr8MuUKdDd,2026-11-20T19:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,ape_everything,BirdwatcherVI / TTWO,GEgP5UJLTJneDzRYPVkwAMEUQ1mftJeHFm3yyvAYAAxf,2026-11-19T20:10+00:00,0.812,-0.289,time exit
+2026-11-20T20:40+00:00,ape_everything,MEME / SOL,zcLuhS4BuSUEGW1qqCjByvjCCqYKCmyaPdutvNnt41d,2026-11-20T04:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,ape_everything,BIGFOOT / SOL,4Wwz3wMwVXquxCLwiNd3X9G9VYp6BW2ZVBAKpneu6Dak,2026-11-20T18:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,moonshot_hold,BIGFOOT / SOL,4Wwz3wMwVXquxCLwiNd3X9G9VYp6BW2ZVBAKpneu6Dak,2026-11-20T18:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,ape_everything,FIONAWIF / SOL,3yqAAmL8zQ9PAnaqCqB4N9hv5xAJScqeFpp19SF2H4vN,2026-11-20T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,moonshot_hold,FIONAWIF / SOL,3yqAAmL8zQ9PAnaqCqB4N9hv5xAJScqeFpp19SF2H4vN,2026-11-20T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,smart_follow,FIONAWIF / SOL,3yqAAmL8zQ9PAnaqCqB4N9hv5xAJScqeFpp19SF2H4vN,2026-11-20T19:20+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,trending_new,DYSON / SOL,JCAVnFvQPHoFcRWk9ZPtQ69AfajdfPxHLy5e8VtJz4Wf,2026-11-20T19:40+00:00,0.004,-1.056,stop loss
+2026-11-20T20:40+00:00,ape_everything,ZERO / SOL,6nZtTBSZjhh2SH5xau5A85znJd2rGdVs16J8QikK9kMP,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,smart_follow,ZERO / SOL,6nZtTBSZjhh2SH5xau5A85znJd2rGdVs16J8QikK9kMP,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,moonshot_hold,Miki / SOL,EcSYLBYMRQXhka5nf5WT7U558nREHw7FPn8Y2zA76jAB,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:40+00:00,moonshot_hold,Komugi / SOL,BqViAvnFnAS87A84avmUG8rcjN9UG5jeTe7QWYGoU7An,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
