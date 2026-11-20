@@ -2250,3 +2250,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T02:11+00:00,ape_everything,mihao / SOL,6LhnHqDSgKkS5kRUXDHec3BYC3uLv8LJdCwbtabtubdf,2026-11-20T01:53+00:00,0,-1.03,rug/no liquidity
 2026-11-20T02:11+00:00,moonshot_hold,mihao / SOL,6LhnHqDSgKkS5kRUXDHec3BYC3uLv8LJdCwbtabtubdf,2026-11-20T01:53+00:00,0,-1.03,rug/no liquidity
 2026-11-20T02:11+00:00,trending_new,LUCIA / SOL,2ASwzYQwGP3R7X63RsmczpB2DpmXp4Eyjx6FDTWXnMVy,2026-11-20T01:53+00:00,0.186,-0.883,stop loss
+2026-11-20T02:20+00:00,ape_everything,FI / TTWO,5XoYUwdo5rY5jZrJ1KFWAHqSL8etmHjxuDbUJWWeM86A,2026-11-19T02:20+00:00,0.952,-0.155,time exit
+2026-11-20T02:20+00:00,ape_everything,Cowboy / TTWO,93sBdkZzvnodEfMG17s7jagwvtineGzcMx8yRixE47Dk,2026-11-19T02:20+00:00,0.201,-0.869,time exit
+2026-11-20T02:20+00:00,ape_everything,$REXTON / SOL,H2LuzKPGXL3hRdoj4YSuYYeNsCYoq3qcyEtogjKJpG5P,2026-11-19T02:20+00:00,0.952,-0.155,time exit
+2026-11-20T02:20+00:00,ape_everything,flu / TTWO,3H8F82mrek51t5acJ6PQ5V2sewyDi91veL472Y5c3fcP,2026-11-19T02:20+00:00,0.953,-0.155,time exit
+2026-11-20T02:20+00:00,ape_everything,$REXTON / SOL,7KbRDHMm3rVPbuLe1pyyqyfSHw7mkNR4qTYG48dwX3Jo,2026-11-19T02:20+00:00,0.952,-0.155,time exit
+2026-11-20T02:20+00:00,ape_everything,BKCO / SOL,EHi3tWssnLT2qDNk3LEmpZf9qviHoNA5YdqEfnaf1BgN,2026-11-19T02:20+00:00,0.952,-0.155,time exit
+2026-11-20T02:20+00:00,ape_everything,ULTRA / SOL,DSWu8vfcMTq3fEM7o9v5P7fxfZQFaKPuk7neGkn79N6X,2026-11-19T02:20+00:00,0.952,-0.155,time exit
+2026-11-20T02:20+00:00,ape_everything,CARGPT / OPENAI,C8qwmfuXWrS9BGYVGNejNAPCbt5uETM1AysjSnvrgnWu,2026-11-19T02:20+00:00,0.783,-0.316,time exit
+2026-11-20T02:20+00:00,ape_everything,CATMARIO / SOL,6NBNUGKdzm7XQhQyeCYzMpXFV1DBHSK8H6qZ9f4wsB6u,2026-11-20T02:11+00:00,0,-1.03,rug/no liquidity
