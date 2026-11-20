@@ -2403,3 +2403,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T07:10+00:00,trending_new,apocry / SOL,3i7c2K9jwQBzSGNqT9QEoG25dyjw14bMRhFTzwVe2nkJ,2026-11-20T06:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T07:20+00:00,trending_new,Isaac / SOL,7rc5tCxPuwG8NNMF46nySJrsr2uoqrUn2fTBir2781eR,2026-11-20T07:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T07:20+00:00,moonshot_hold,DCTY / SOL,2bha5JZeYzfdZF4o38BjL6VLbHAHj9mCLDeHYZNthgwU,2026-11-20T07:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:30+00:00,trending_new,SWRDXSTFF / SOL,6LHLDdfB54L1XQnGC8MrQNUBYnsmxAHJetXzwZTyFwia,2026-11-20T04:20+00:00,0.961,-0.147,trailing stop
+2026-11-20T07:30+00:00,trending_new,MARK / SOL,5vekK6xipPpNmraCLWZj6goLzZ8hdLq4btcFSeaFcMkj,2026-11-20T07:20+00:00,0,-1.03,rug/no liquidity
