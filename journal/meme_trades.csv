@@ -2174,3 +2174,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T00:00+00:00,ape_everything,BELFILE / TTWO,4vmohKsZnT4dKRfVcyKPD96gKWFJRQatXrSwuxAVTWx4,2026-11-19T00:00+00:00,0.952,-0.155,time exit
 2026-11-20T00:00+00:00,ape_everything,Deputy / TTWO,cLSAxwJKnTkTjHy2XcmbGKhzwVdhW17eKPiuUoDpCri,2026-11-19T00:00+00:00,0.952,-0.155,time exit
 2026-11-20T00:00+00:00,ape_everything,deputy / TTWO,YDpsuHYNKiY2MLa6i5MTSi4R6Gbq8zZ3HhbpQr3UZGq,2026-11-19T00:00+00:00,0.938,-0.169,time exit
+2026-11-20T00:10+00:00,trending_new,AI / AAPLx,DuNrWsxGa63cuNxqznWqhDYNzsqZGiqbAoJwaXBL5Wu2,2026-11-19T23:10+00:00,0.258,-0.815,stop loss
+2026-11-20T00:10+00:00,moonshot_hold,SI / SOL,5RDwb6WED1uDQNbXaShxdpzjZ5k2XPBF3cyScUsr5NNF,2026-11-20T00:00+00:00,0,-1.03,rug/no liquidity
