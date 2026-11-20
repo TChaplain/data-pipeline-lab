@@ -2366,3 +2366,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T05:20+00:00,moonshot_hold,ARTIFICIAL / SOL,ArLweLztfoAFYo4qMoUPFJGcNcVcmPuZNGdho8r8sFgF,2026-11-20T04:10+00:00,0,-1.03,rug/no liquidity
 2026-11-20T05:20+00:00,smart_follow,APEKO / SOL,C3mFbFAGEu5AeCYe91R373kfJg8o6V87B9XFwp5N3wSH,2026-11-20T05:10+00:00,0.062,-1.001,stop loss
 2026-11-20T05:20+00:00,early_momentum,SI / SOL,G6YksZVD1y3TW6MjnmJah1izKzUjobdiYrApWMsgJpEw,2026-11-20T05:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:30+00:00,graduates,ARTIFICIAL / SOL,Ax8MGTJbX6KL21NDnQ9KmFhX3CPcBJwFW715bXM5YZNH,2026-11-20T04:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:30+00:00,moonshot_hold,mihao / SOL,7iWhb31Kzo8dvFCGLAPGbjsGqAzMQkB8EmQhQgnx3ywk,2026-11-20T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:30+00:00,moonshot_hold,AudaCity / TTWO,8K2KRzSkX6jTqBwu1cy2cs1YDLMUubXyU9JzgBVUctVa,2026-11-20T05:20+00:00,0,-1.03,rug/no liquidity
