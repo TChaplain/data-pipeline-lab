@@ -2664,3 +2664,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T20:40+00:00,smart_follow,ZERO / SOL,6nZtTBSZjhh2SH5xau5A85znJd2rGdVs16J8QikK9kMP,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T20:40+00:00,moonshot_hold,Miki / SOL,EcSYLBYMRQXhka5nf5WT7U558nREHw7FPn8Y2zA76jAB,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T20:40+00:00,moonshot_hold,Komugi / SOL,BqViAvnFnAS87A84avmUG8rcjN9UG5jeTe7QWYGoU7An,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T20:50+00:00,ape_everything,A\COIN / ANT,H9WcQue5CtGohcMeVUuc3SJR4LxJmEnWPQmRVbDBc2p5,2026-11-19T20:50+00:00,0.952,-0.155,time exit
+2026-11-20T20:50+00:00,smart_follow,PATRICK / SOL,CUVqBcBR7Y1Udxxv7xbGNof9uBn3jufXDotp6acn2kHp,2026-11-20T20:40+00:00,0,-1.03,rug/no liquidity
