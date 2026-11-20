@@ -2494,3 +2494,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T13:20+00:00,ape_everything,BetOnBlak / SOL,HJREqZuBhFuopL6mADtRgVhYXLpw9LchKntaLE5Yobho,2026-11-19T13:20+00:00,0.952,-0.155,time exit
 2026-11-20T13:20+00:00,dex_boosted,MF,EcvZDFg1kG8pwRNz5hxYPGuBTDcgWWYxdu9YHfThMCPU,2026-11-20T04:00+00:00,0.04,-1.022,stop loss
 2026-11-20T13:20+00:00,graduates,ZINGACOIN / SOL,9xXsFtH5B9So1W2kJHsY6T6F3TR9mh1dZiYvxo4VLwtU,2026-11-20T13:10+00:00,0.012,-1.049,stop loss
+2026-11-20T13:30+00:00,dex_boosted,VI,EsmHygVBvekUdPa9iTWJgnXF9KG1tbXpE6nhvmxsH2xd,2026-11-18T13:30+00:00,0.952,-0.155,time exit
+2026-11-20T13:30+00:00,smart_follow,Catnomics / SOL,64u5si4kwbGNxrGAud5dKGVwmtcNBUPVThgdnuR9y2sw,2026-11-20T12:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T13:30+00:00,smart_follow,PATRICK / SOL,39ipB4oEcnkbNPiCHb6rT9HBL2hniirXMCRngrT1GraF,2026-11-20T13:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T13:30+00:00,smart_follow,ZEN / SOL,DmpmdWPaULKhF7e3roLdCRHGWP96fQYx3deiUeQW9ovr,2026-11-20T13:20+00:00,0.381,-0.698,stop loss
+2026-11-20T13:30+00:00,graduates,zc / SOL,6VU72DhoD3dLRDSuotk9iVkSEvruyJ1VwF4vsjnSHuuy,2026-11-20T13:20+00:00,0.006,-1.055,stop loss
+2026-11-20T13:30+00:00,smart_follow,zc / SOL,6VU72DhoD3dLRDSuotk9iVkSEvruyJ1VwF4vsjnSHuuy,2026-11-20T13:20+00:00,0.006,-1.055,stop loss
