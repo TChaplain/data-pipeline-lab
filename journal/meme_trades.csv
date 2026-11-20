@@ -2535,3 +2535,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T16:00+00:00,moonshot_hold,PICKLE / SOL,2ah9r4HGkX9QkPr3e4KoHzrH4uDZayEEyr31FE6Los9M,2026-11-20T15:20+00:00,0,-1.03,rug/no liquidity
 2026-11-20T16:00+00:00,early_momentum,Millennium / SOL,Da8Ym3RZVN2BX2RnZdHmJZoV6X79vE6HhL9xPXQ3d53P,2026-11-20T15:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T16:00+00:00,smart_follow,Millennium / SOL,Da8Ym3RZVN2BX2RnZdHmJZoV6X79vE6HhL9xPXQ3d53P,2026-11-20T15:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T16:10+00:00,trending_new,FIONA / SOL,DjbLtX1HRGZZrJgJ7CwTX6SN3D7tBLiytkGwomBUwTVB,2026-11-19T21:20+00:00,4.424,3.143,trailing stop
+2026-11-20T16:10+00:00,early_momentum,SI / SOL,CpPbGecgfReS9JqjwA8rtqDfuo7xK2xmB1xhJTgxMVAw,2026-11-20T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T16:10+00:00,trending_new,GAYVENGERS / SOL,5VVruFP14HhaYbazR4c2RAVS6UrTLQ6cN81P5BMX8hZu,2026-11-20T16:00+00:00,0.008,-1.053,stop loss
