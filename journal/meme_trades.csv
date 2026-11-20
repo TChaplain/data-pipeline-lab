@@ -2377,3 +2377,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T05:50+00:00,graduates,Green Cat / SOL,FfkZgBjyKfMuSip3RGbBbkK7eBf6qraVxB6UY7aP8yzz,2026-11-20T05:20+00:00,0,-1.03,rug/no liquidity
 2026-11-20T05:50+00:00,graduates,APCY / SOL,AtsjWDBNjWc3372R9SbgYKxpKWd3swHN7trHXAvpurC9,2026-11-20T05:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T05:50+00:00,trending_new,ANTCAP / SOL,wWaajP6iyE628Yce8WkMEbkQYWQDAvyTNozvuVggytB,2026-11-20T05:30+00:00,0.459,-0.624,stop loss
+2026-11-20T06:00+00:00,graduates,APCY / SOL,C99bWwfM17mHSk36ovXJ6cNJTUU9mFCPWt3wgFrhUE2U,2026-11-20T05:10+00:00,0.382,-0.697,stop loss
+2026-11-20T06:00+00:00,graduates,JENSEN / SOL,2uEsixeNsgWg8vgYPjPirUsZVwYeasQBBATktyv6jUu4,2026-11-20T05:20+00:00,0,-1.03,rug/no liquidity
+2026-11-20T06:00+00:00,smart_follow,DCTY / SOL,DLcqSZDc5EQwHqxdatGk3gNtFt7omparb6stfFi9ooQZ,2026-11-20T05:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T06:00+00:00,early_momentum,Isaac / SOL,2zpwvnMXt4HCGNnPMagxNRRRFePsRsWWb2XfvdXzjzhP,2026-11-20T05:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T06:00+00:00,moonshot_hold,Isaac / SOL,2zpwvnMXt4HCGNnPMagxNRRRFePsRsWWb2XfvdXzjzhP,2026-11-20T05:50+00:00,0,-1.03,rug/no liquidity
