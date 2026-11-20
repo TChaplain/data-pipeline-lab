@@ -2197,3 +2197,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T00:50+00:00,smart_follow,GOOBY / SOL,5jo6mPBaq5gnpesoAaVySHDLFNzi6AkUkxPzbWD8eJW6,2026-11-20T00:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T00:50+00:00,graduates,COOKIE / SOL,8oqXcXjLsWiWbYMqyv57aUzhrp8rxa6nERoWUXzux3aE,2026-11-20T00:40+00:00,0,-1.03,rug/no liquidity
 2026-11-20T00:50+00:00,smart_follow,COOKIE / SOL,8oqXcXjLsWiWbYMqyv57aUzhrp8rxa6nERoWUXzux3aE,2026-11-20T00:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:00+00:00,moonshot_hold,AudaCity / SOL,7KJ9YqtkQ2K3tgh5RJdd9TTosEewD7jWc8fZG9SCKP18,2026-11-20T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:00+00:00,graduates,iAgent / SOL,B2bLbHScAAesHyfWLBP1KA1QeFxPxX3eekwcrNprUZXi,2026-11-20T00:50+00:00,0.004,-1.056,stop loss
+2026-11-20T01:00+00:00,smart_follow,iAgent / SOL,B2bLbHScAAesHyfWLBP1KA1QeFxPxX3eekwcrNprUZXi,2026-11-20T00:50+00:00,0.004,-1.056,stop loss
+2026-11-20T01:00+00:00,moonshot_hold,CI / SOL,65fFQsLMfZDChyn3NpvqsMR1LW2Un9sfJZW5vzwNLzmW,2026-11-20T00:50+00:00,0,-1.03,rug/no liquidity
