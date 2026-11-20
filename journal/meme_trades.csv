@@ -2666,3 +2666,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T20:40+00:00,moonshot_hold,Komugi / SOL,BqViAvnFnAS87A84avmUG8rcjN9UG5jeTe7QWYGoU7An,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T20:50+00:00,ape_everything,A\COIN / ANT,H9WcQue5CtGohcMeVUuc3SJR4LxJmEnWPQmRVbDBc2p5,2026-11-19T20:50+00:00,0.952,-0.155,time exit
 2026-11-20T20:50+00:00,smart_follow,PATRICK / SOL,CUVqBcBR7Y1Udxxv7xbGNof9uBn3jufXDotp6acn2kHp,2026-11-20T20:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T21:10+00:00,trending_new,ANTx / USDC,7EYkZpoiVGHAysnzvgw6UxyjdKvtfDmyXu1nLdARFRT5,2026-11-19T21:10+00:00,0.876,-0.228,time exit
+2026-11-20T21:10+00:00,graduates,Horned cat / SOL,9BWiH6MrNFSPVsokMr4c3oKEfJGrCUcu4ZirfYoRf338,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T21:10+00:00,smart_follow,Horned cat / SOL,9BWiH6MrNFSPVsokMr4c3oKEfJGrCUcu4ZirfYoRf338,2026-11-20T19:50+00:00,0,-1.03,rug/no liquidity
