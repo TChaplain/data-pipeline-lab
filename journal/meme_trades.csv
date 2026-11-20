@@ -2517,3 +2517,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T15:10+00:00,graduates,GTA6 / SOL,2SZecez7cgV6zvvDEFMBgtcwYxTBur5e6ZKELLq9EP5x,2026-11-20T14:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T15:10+00:00,early_momentum,Bobo / SOL,46N6KZzsydexWPDBBuFz8uUAnEwoirmymrv7x9m6n8mx,2026-11-20T15:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T15:20+00:00,early_momentum,Anthropic / SOL,CG8AuT8hSNWbFCp3nQ9vMYfcz6DytAWXWWAEu4VPKLN9,2026-11-20T15:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T15:30+00:00,graduates,Rex / SOL,8cuasgfTctixe4ABB8LsHNSBVVggYMARr1p8dhauegpH,2026-11-17T15:30+00:00,0.948,-0.159,time exit
+2026-11-20T15:30+00:00,ape_everything,GTAMOD / SOL,DBNAQy2rimuhaTTujajvMYLPibfCJgYA6R9NnDTxW4Uq,2026-11-19T15:30+00:00,0.952,-0.155,time exit
+2026-11-20T15:30+00:00,ape_everything,AMD / AMD,5dgucjyYHm1S4CnxjJwK7Hoe9hoMa46FESGS5zZFyXPr,2026-11-19T15:30+00:00,0.952,-0.155,time exit
+2026-11-20T15:30+00:00,ape_everything,B-COIN / TTWO,AHJZZaocrsMvnef5xJBqPyYGxdXKRJEgrTPBshcR5t2G,2026-11-19T15:30+00:00,0.921,-0.185,time exit
+2026-11-20T15:30+00:00,ape_everything,B-COIN / SOL,3bnaMc87uu6AKQEZxdsMf6SQANJuxVF6F5D7YxLAQTfE,2026-11-19T15:30+00:00,0.752,-0.345,time exit
+2026-11-20T15:30+00:00,ape_everything,PAPA / DCTY,8GSnKUx5mr2CzTH8WndrV9xGtFTuBbAoGp2MoUSvS3mM,2026-11-19T15:30+00:00,0.949,-0.158,time exit
+2026-11-20T15:30+00:00,graduates,BC / SOL,3v5qYv9wGQqppvHXk6TcqQXoGS1ZfqmLekuXevLmg5DF,2026-11-20T14:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T15:30+00:00,early_momentum,RIEMANN / SOL,4HpDpYuFmRKFCnhzoB3oydF67xNjKnc9cJtwjDrgkio5,2026-11-20T15:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T15:30+00:00,early_momentum,PICKLE / SOL,2bJghqCMzf84Q6K1qZyftAd7Hrxk2txNKSUbWbyAWFPo,2026-11-20T15:20+00:00,0,-1.03,rug/no liquidity
