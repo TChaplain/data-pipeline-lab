@@ -2185,3 +2185,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T00:20+00:00,graduates,COOKIE / SOL,8i1awNLVYqDybnqz5DoDvwv2aP9JgVtAkgr19uhbWE4c,2026-11-20T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T00:20+00:00,moonshot_hold,COOKIE / SOL,8i1awNLVYqDybnqz5DoDvwv2aP9JgVtAkgr19uhbWE4c,2026-11-20T00:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T00:30+00:00,graduates,中国人牛逼 / SOL,Etnn73q9wQcjRUiDYrqELT1MwxaKRKk8vjJrK6viU5Ni,2026-11-17T00:30+00:00,0.952,-0.155,time exit
+2026-11-20T00:40+00:00,moonshot_hold,Rockstar / SOL,DJ2c2QqMgyGQCXvAW76pRzBzv6T1abDWKy4z4qqtXvTK,2026-11-13T00:40+00:00,0.013,-1.048,time exit
+2026-11-20T00:40+00:00,moonshot_hold,AGI / SOL,SKDQPJp2kT7W1hLb6VRqChqej6TDu1FXctds54trTUo,2026-11-13T00:40+00:00,0.085,-0.98,time exit
+2026-11-20T00:40+00:00,moonshot_hold,mihao / SOL,8G4hiAZPxQvtTKVp1tMn5PNdKVaSbPsF2nKM3qY9KEpG,2026-11-19T23:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T00:40+00:00,graduates,Cowboy Cat / SOL,UhdSGQGxWPvfJKKSkC54FW13R5nG69D7Be2pWJddNQG,2026-11-20T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T00:40+00:00,smart_follow,Cowboy Cat / SOL,UhdSGQGxWPvfJKKSkC54FW13R5nG69D7Be2pWJddNQG,2026-11-20T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T00:40+00:00,early_momentum,LUCIFROG / SOL,GHmQ9jRdiLyfWudDwFzYLuHMievN6Ga4jsF3rs7z3DA9,2026-11-20T00:30+00:00,0.015,-1.046,stop loss
