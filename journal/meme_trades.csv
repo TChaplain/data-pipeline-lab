@@ -2301,3 +2301,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T03:30+00:00,trending_new,RUGGED / SOL,Dt4ELfhqzwhwASV6ZQQwoeZtaYii14A4ftjEAVupRPX2,2026-11-20T01:53+00:00,1.231,0.11,trailing stop
 2026-11-20T03:30+00:00,graduates,Musk / SOL,AcUSYL6QErsb9GLHhr9SCXCf1spTA77BsTSS8GFL5RZ,2026-11-20T02:40+00:00,0,-1.03,rug/no liquidity
 2026-11-20T03:30+00:00,moonshot_hold,Musk / SOL,AcUSYL6QErsb9GLHhr9SCXCf1spTA77BsTSS8GFL5RZ,2026-11-20T02:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:40+00:00,moonshot_hold,fun / SOL,C2dD1baLtH3wa8jsJS3bYuy36A86dijEkfpEJnNXcPWU,2026-11-13T03:40+00:00,0.952,-0.155,time exit
+2026-11-20T03:40+00:00,graduates,Coge / TSLAx,HQfoUBjuySGX2NobxEMuMerpPWnpJPDkE6C78WRsiM9c,2026-11-20T03:30+00:00,0.392,-0.688,stop loss
+2026-11-20T03:40+00:00,early_momentum,ANT / SOL,5edtfmzraNFZ3WgFtWz6oPVxNnp4kNq24L8aVGES8QAg,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:40+00:00,smart_follow,ANT / SOL,5edtfmzraNFZ3WgFtWz6oPVxNnp4kNq24L8aVGES8QAg,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
