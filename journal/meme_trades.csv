@@ -2633,3 +2633,8 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T18:50+00:00,ape_everything,lptp / SOL,3HZQekGEA3E7aiPWWMWFEVFGFVnyi4jQrqRDNpw27469,2026-11-19T18:40+00:00,0.952,-0.155,time exit
 2026-11-20T18:50+00:00,ape_everything,STONKS / GMEx,2RhcZa44ZbpMhdt52nyNZipZbKZaMoFb8VRQqqGpvyH5,2026-11-19T18:40+00:00,0.936,-0.171,time exit
 2026-11-20T18:50+00:00,ape_everything,BIGFOOT / SOL,DTFdHQ7qF4JgVGef5Y4D5E5316Kwpz19XHYPaX9znQxA,2026-11-20T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:10+00:00,moonshot_hold,MINEHOUSE / SOL,DLPfFpaugZ9TJupUfnif6966piAmtPEvYZDZ7KKEZQrG,2026-11-13T19:00+00:00,0.059,-1.004,time exit
+2026-11-20T19:10+00:00,ape_everything,Mogged / SOL,9oQo3tTkWdVp58xMXHQNMDgDE2ZXUHGj1ooDhgsLV8Sr,2026-11-19T19:00+00:00,0.763,-0.335,time exit
+2026-11-20T19:10+00:00,ape_everything,BEAR / SOL,58CL35rBSStjLTyWdGSE9hUnBuGkndn8VRb9qpreamao,2026-11-20T18:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:10+00:00,early_momentum,BEAR / SOL,58CL35rBSStjLTyWdGSE9hUnBuGkndn8VRb9qpreamao,2026-11-20T18:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:10+00:00,moonshot_hold,BEAR / SOL,58CL35rBSStjLTyWdGSE9hUnBuGkndn8VRb9qpreamao,2026-11-20T18:50+00:00,0,-1.03,rug/no liquidity
