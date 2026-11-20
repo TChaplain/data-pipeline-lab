@@ -2676,3 +2676,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T21:50+00:00,moonshot_hold,DCTY / SOL,FsC9ht3xCQRULn7xv69sCXNa8K6LrNS1oR1X5iWGBHc9,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
 2026-11-20T21:50+00:00,early_momentum,GTA / SOL,6a5cCDrDXBxyEDkLh8UWirM5TTPFEB9cLKLmXaHWkxHq,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
 2026-11-20T21:50+00:00,smart_follow,GTA / SOL,6a5cCDrDXBxyEDkLh8UWirM5TTPFEB9cLKLmXaHWkxHq,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T22:10+00:00,trending_new,Singularity / SOL,58XqWPXDGp3GfU9DAFxs8C1GJwTLdHdQhJRofAF5yWTV,2026-11-20T21:10+00:00,0.642,-0.45,trailing stop
+2026-11-20T22:10+00:00,moonshot_hold,WIFPAD / SOL,32BGRTHQzTHv1txYUKegrV29MA1pfWZqvMFTRBnhpn45,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T22:10+00:00,dex_boosted,BTC,5q1eZo7m3NjacXmSuM8BZZ8iqzGt8eqU9FtqTNus7aoJ,2026-11-20T21:40+00:00,0.488,-0.596,stop loss
+2026-11-20T22:10+00:00,trending_new,BTC / SOL,5q1eZo7m3NjacXmSuM8BZZ8iqzGt8eqU9FtqTNus7aoJ,2026-11-20T21:40+00:00,0.488,-0.596,stop loss
