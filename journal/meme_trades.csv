@@ -2541,3 +2541,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T16:20+00:00,moonshot_hold,SHIELD / SOL,Aj2J7MG6MizUmUJRKHhU44wVfBUgymDjbk6BmLFLwi8d,2026-11-13T16:20+00:00,0.952,-0.155,time exit
 2026-11-20T16:20+00:00,dex_boosted,RUDY,8i183K6cZXHN17umKrcr6Zjc9BXgN2nnqdQanYKgvko6,2026-11-20T14:20+00:00,0.362,-0.717,stop loss
 2026-11-20T16:20+00:00,ape_everything,SI / SOL,7Hb5Yryc6oZGrmkovvtuHiYYNtg7Z4gUK8ghdPNLgEeH,2026-11-20T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T16:30+00:00,moonshot_hold,NICEJAR / SOL,9itgqP28M9iVav9rijszRay6i5SxXY8qj5eKmqb1UjHb,2026-11-13T16:30+00:00,0.269,-0.805,time exit
+2026-11-20T16:30+00:00,ape_everything,Anthropic / SOL,EHKBwEbZ4gi4vwrELQ25wXaHJGsyxUUnFLDGNmi1xZVG,2026-11-20T16:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T16:30+00:00,graduates,Anthropic / SOL,EHKBwEbZ4gi4vwrELQ25wXaHJGsyxUUnFLDGNmi1xZVG,2026-11-20T16:00+00:00,0,-1.03,rug/no liquidity
