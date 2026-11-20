@@ -2425,3 +2425,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T08:00+00:00,graduates,4AM / SOL,4FWnirUsKVzx5KSNzNuNhErFrjdunYHVKLPa6hAUi8WT,2026-11-20T07:40+00:00,0.012,-1.049,stop loss
 2026-11-20T08:00+00:00,early_momentum,C&amp;C / SOL,HEDusut8nVzsV5unMyk6k378N6UbnDBD8EUciTtzyc4K,2026-11-20T07:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T08:00+00:00,moonshot_hold,C&amp;C / SOL,HEDusut8nVzsV5unMyk6k378N6UbnDBD8EUciTtzyc4K,2026-11-20T07:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T08:10+00:00,graduates,Christmas / SOL,BPQuhPYRbEe3y6jukP8GFsNZJfPkF5onvnMjRgN8XGPr,2026-11-20T08:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T08:10+00:00,moonshot_hold,FIONA / SOL,Dp52xNvDnCwspeFgTZMaxKYpR6h7JuThunktzGnTG3aD,2026-11-20T08:00+00:00,0,-1.03,rug/no liquidity
