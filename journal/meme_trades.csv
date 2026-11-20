@@ -2201,3 +2201,10 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T01:00+00:00,graduates,iAgent / SOL,B2bLbHScAAesHyfWLBP1KA1QeFxPxX3eekwcrNprUZXi,2026-11-20T00:50+00:00,0.004,-1.056,stop loss
 2026-11-20T01:00+00:00,smart_follow,iAgent / SOL,B2bLbHScAAesHyfWLBP1KA1QeFxPxX3eekwcrNprUZXi,2026-11-20T00:50+00:00,0.004,-1.056,stop loss
 2026-11-20T01:00+00:00,moonshot_hold,CI / SOL,65fFQsLMfZDChyn3NpvqsMR1LW2Un9sfJZW5vzwNLzmW,2026-11-20T00:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:10+00:00,moonshot_hold,SUGAR / SOL,DsbjC3W6jAMWk9iya2aV9rPoLNrmsuGaE9uCb8rZ828D,2026-11-13T01:10+00:00,0.188,-0.881,time exit
+2026-11-20T01:10+00:00,ape_everything,TTWО / ANTHRP,H7a7eseqMfvVuQ5xT6vVFuBrkfzwsT7u7iM1C4BLjpZR,2026-11-19T01:10+00:00,0.943,-0.164,time exit
+2026-11-20T01:10+00:00,graduates,我在中国 / SOL,GfDkhsJ2HXj9oKZS5Vhs1b1iDQauEAsVodBeu23JsLSz,2026-11-20T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:10+00:00,moonshot_hold,我在中国 / SOL,GfDkhsJ2HXj9oKZS5Vhs1b1iDQauEAsVodBeu23JsLSz,2026-11-20T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:10+00:00,smart_follow,我在中国 / SOL,GfDkhsJ2HXj9oKZS5Vhs1b1iDQauEAsVodBeu23JsLSz,2026-11-20T00:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:10+00:00,trending_new,COOKIE / SOL,E9uEmFS6nB3tyfD7jj1xxh2pwv3h3JURnkZexi4bXcW,2026-11-20T00:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T01:10+00:00,smart_follow,PILLCOIN / SOL,Ebkch2JsHin7gtiQN1atvh6zqxrfGtx2GLwHAsJkSPd7,2026-11-20T01:00+00:00,0.029,-1.032,stop loss
