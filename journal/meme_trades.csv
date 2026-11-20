@@ -2334,3 +2334,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T04:10+00:00,ape_everything,‮L1EH / SOL,FMsH4XZ2rC8x1FY8sjKseE3VKpBWF2nRHah5bFkYW3oJ,2026-11-20T04:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T04:20+00:00,dex_boosted,ANTS,AF5Cn9Mu1Y8Coh68xKBYpSjxXdk1LbNxgo76dPpRRoLB,2026-11-19T13:20+00:00,0.473,-0.611,stop loss
 2026-11-20T04:20+00:00,early_momentum,Bumpy / SOL,4a57Hn5YLVkAVQxSzP3Dv3sjJVQ5VgQGMA234f57RjmD,2026-11-20T04:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,ape_everything,RUGGED / SOL,AGhxjAHc2Mo6TLyQimMYKuQLrypS2np4pPcAp9FHvx1t,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,graduates,RUGGED / SOL,AGhxjAHc2Mo6TLyQimMYKuQLrypS2np4pPcAp9FHvx1t,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,smart_follow,RUGGED / SOL,AGhxjAHc2Mo6TLyQimMYKuQLrypS2np4pPcAp9FHvx1t,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,graduates,DCTC / SOL,5C8KE8CNa62HQpC6XcWsoLjavhUVUu7rxEMxrDL8FBBy,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,moonshot_hold,DCTC / SOL,5C8KE8CNa62HQpC6XcWsoLjavhUVUu7rxEMxrDL8FBBy,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,moonshot_hold,mihao / SOL,AwXnMXMg5hS7bFb54FNpDn4GRmwAo6zmHYyyjbZW41Ry,2026-11-20T03:50+00:00,16.363,14.485,take profit 10.0x
+2026-11-20T04:30+00:00,moonshot_hold,enu / SOL,ExMPaatEb8tHamBfiw6z58MXbvmUFocRq4zsbrULvSAN,2026-11-20T04:20+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:30+00:00,moonshot_hold,ANT / SOL,2HycwpccyQeAW9byz2v6ttNBosAtANAzTVJj1w3F3jYS,2026-11-20T04:20+00:00,47.216,43.795,take profit 10.0x
