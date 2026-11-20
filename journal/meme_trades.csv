@@ -2672,3 +2672,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T21:40+00:00,trending_new,PATRICK / SOL,BCgR8mwLDXeg9Sh9HWGzk9kMbuVN6bQ3TjUnUgfbZ6Bz,2026-11-20T20:40+00:00,0.482,-0.602,stop loss
 2026-11-20T21:40+00:00,smart_follow,VICKI / SOL,5yVumr2koNJfe1AJgA9reUqs3iWqLFEXb9EtKnb4Am13,2026-11-20T20:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T21:40+00:00,graduates,NEX Ai / SOL,HxSCuGTAEga81kCLEE4Xjts3q4sGwj9ZACZ38EnK3G1X,2026-11-20T21:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T21:50+00:00,graduates,DCTY / SOL,FsC9ht3xCQRULn7xv69sCXNa8K6LrNS1oR1X5iWGBHc9,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T21:50+00:00,moonshot_hold,DCTY / SOL,FsC9ht3xCQRULn7xv69sCXNa8K6LrNS1oR1X5iWGBHc9,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T21:50+00:00,early_momentum,GTA / SOL,6a5cCDrDXBxyEDkLh8UWirM5TTPFEB9cLKLmXaHWkxHq,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T21:50+00:00,smart_follow,GTA / SOL,6a5cCDrDXBxyEDkLh8UWirM5TTPFEB9cLKLmXaHWkxHq,2026-11-20T21:40+00:00,0,-1.03,rug/no liquidity
