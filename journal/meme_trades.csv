@@ -2382,3 +2382,4 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T06:00+00:00,smart_follow,DCTY / SOL,DLcqSZDc5EQwHqxdatGk3gNtFt7omparb6stfFi9ooQZ,2026-11-20T05:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T06:00+00:00,early_momentum,Isaac / SOL,2zpwvnMXt4HCGNnPMagxNRRRFePsRsWWb2XfvdXzjzhP,2026-11-20T05:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T06:00+00:00,moonshot_hold,Isaac / SOL,2zpwvnMXt4HCGNnPMagxNRRRFePsRsWWb2XfvdXzjzhP,2026-11-20T05:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T06:10+00:00,moonshot_hold,CRIME / SOL,2SgzSGdWhhyotqhb4yLWuemMXfvNCCFHFNKPDjCADq8q,2026-11-20T04:40+00:00,23394.94,22224.133,take profit 10.0x
