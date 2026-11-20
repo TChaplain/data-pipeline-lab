@@ -2305,3 +2305,19 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T03:40+00:00,graduates,Coge / TSLAx,HQfoUBjuySGX2NobxEMuMerpPWnpJPDkE6C78WRsiM9c,2026-11-20T03:30+00:00,0.392,-0.688,stop loss
 2026-11-20T03:40+00:00,early_momentum,ANT / SOL,5edtfmzraNFZ3WgFtWz6oPVxNnp4kNq24L8aVGES8QAg,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T03:40+00:00,smart_follow,ANT / SOL,5edtfmzraNFZ3WgFtWz6oPVxNnp4kNq24L8aVGES8QAg,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:50+00:00,ape_everything,FHC / SOL,EHpNxFjwrVb7wMKnAvJm4dhaqqDXfxHVXg1JMCzhjcvG,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,ape_everything,STENKS / SOL,C2C3FWrTnee7Pc3B8hX2xGCAkpgm4SHWp5wLZQF3eEc8,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,ape_everything,MM / WBTC,Ed77QWknj1nQEPr94KAVrRLC12Ug2BypabpDs49qdZQe,2026-11-19T03:50+00:00,0.963,-0.145,time exit
+2026-11-20T03:50+00:00,ape_everything,PAYPIG / SOL,FFSgdFNaonmnqC2XYqoJQ8mgMWQ16qrUAKoSt4mS6cHn,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,ape_everything,OWL / TTWO,CRD9zBKf2gStNmriP2S5NfK6L8eo7YT5xpvgUXWVUtKz,2026-11-19T03:50+00:00,0.901,-0.204,time exit
+2026-11-20T03:50+00:00,ape_everything,FruitPay / TTWO,EXYov9bpyZ1cSqF8hsNY4YtA6oujCzyB4nmGFsXn6YzL,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,ape_everything,MCH / SOL,66xfDhytqhkVEJ8Ry4nsnAsXDJtddCMKgTq6tDDGQv1z,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,ape_everything,SURF / SOL,5XY7v3spyvz2u7vXkfRQYwWxGduqona1Zf4zRSdEQKu,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,ape_everything,PUMP / SOL,EJU25P2hEY2LAQJsfCzhVdnp7nr3L3gQzMBNJJyR9LqH,2026-11-19T03:50+00:00,0.957,-0.15,time exit
+2026-11-20T03:50+00:00,ape_everything,$MFRG / SOL,4Mb9iwzMvoQMkLRWwmFwpprhG7J2og1PetTe3G64DH5C,2026-11-19T03:50+00:00,0.952,-0.155,time exit
+2026-11-20T03:50+00:00,dex_boosted,OGTA,2RDx58tnDMEmZcQy9qGAfwhq9iCRRMbDuAtruofrjyZU,2026-11-19T20:10+00:00,0.305,-0.77,stop loss
+2026-11-20T03:50+00:00,trending_new,OGTA / SOL,2RDx58tnDMEmZcQy9qGAfwhq9iCRRMbDuAtruofrjyZU,2026-11-20T00:20+00:00,0.428,-0.653,stop loss
+2026-11-20T03:50+00:00,graduates,Cowboy Cat / SOL,DqJqtpBtpLuyTBRE7xXWHH513qz4hP6hsApbdK4oVfT7,2026-11-20T03:00+00:00,1.23,0.109,trailing stop
+2026-11-20T03:50+00:00,ape_everything,ToySoldie / SOL,4C2z1RDU8TzqBe4nc3kCt7KnegH8L6o6YB3bRx647zTQ,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:50+00:00,ape_everything,RUGGED / SOL,Ck3WwyK1SmzA6HUSE7EqJx7jxyyhqYbaDmwVapmyj9ri,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:50+00:00,moonshot_hold,RUGGED / SOL,Ck3WwyK1SmzA6HUSE7EqJx7jxyyhqYbaDmwVapmyj9ri,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
