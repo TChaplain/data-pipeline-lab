@@ -2642,3 +2642,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T19:20+00:00,graduates,BIGFOOT / SOL,FqGx9ZNz4oY1vFBfFtg77nNgfJ4cs5gb7ZdiKqY1BDcd,2026-11-20T18:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T19:20+00:00,ape_everything,InBed / SOL,4iPM5FDV49kGBrHK9ZhCfuwP8dwBHrd1DjAWBA3HhoAq,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
 2026-11-20T19:20+00:00,smart_follow,FIONAWIF / SOL,CJYiuwgoxvZUdZYB5dJRFEbdPTAEpDC3RQN786advnVX,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:40+00:00,moonshot_hold,Doqo / SOL,D22m9zxryntcybw159BRQYkjRpCrHaTsY543pzUv6Zmp,2026-11-13T19:40+00:00,0.809,-0.292,time exit
+2026-11-20T19:40+00:00,graduates,GTAVI / SOL,EkccrNbeTawo3aExBSjg3spULWBAKJRyq7X66jv3bEUg,2026-11-17T19:40+00:00,1.608,0.468,time exit
+2026-11-20T19:40+00:00,smart_follow,APEC / SOL,BEmd6WjU5ys26myLwBj28zMLXcqvfoyzCJKxuojNtG7Q,2026-11-18T19:30+00:00,2.839,1.637,time exit
+2026-11-20T19:40+00:00,ape_everything,BIGFOOT / SOL,5M9gpwbm9YPhZg2PqXDiF1W3kxzY4m7iUgp1Wkqv4PB6,2026-11-20T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:40+00:00,graduates,BIGFOOT / SOL,5M9gpwbm9YPhZg2PqXDiF1W3kxzY4m7iUgp1Wkqv4PB6,2026-11-20T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:40+00:00,moonshot_hold,BIGFOOT / SOL,5M9gpwbm9YPhZg2PqXDiF1W3kxzY4m7iUgp1Wkqv4PB6,2026-11-20T18:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:40+00:00,ape_everything,Singularity / SOL,54GSj1A2Es1QjmWHYPf19FRo6JuW28hZyYqi9hNKmT5v,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:40+00:00,graduates,Singularity / SOL,54GSj1A2Es1QjmWHYPf19FRo6JuW28hZyYqi9hNKmT5v,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T19:40+00:00,smart_follow,Singularity / SOL,54GSj1A2Es1QjmWHYPf19FRo6JuW28hZyYqi9hNKmT5v,2026-11-20T19:10+00:00,0,-1.03,rug/no liquidity
