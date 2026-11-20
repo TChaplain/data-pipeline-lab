@@ -2470,3 +2470,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T10:30+00:00,smart_follow,BABYDOG / SOL,DCrtLCnt5n22JtR7BA5VJ3Mh6Xyy54rokb2VB6cPQZAD,2026-11-20T09:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T10:30+00:00,trending_new,Nova / SOL,4gLF2Qt8xNcdBS8pbYWDqNZ1UQfFEeqUhwhAYs1UDwBh,2026-11-20T10:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T10:30+00:00,early_momentum,GrocerPad / SOL,CDrUKjfrTkqFZhXExbMvdvEH27EDcikyy41dE4aJ9Jb9,2026-11-20T10:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T10:40+00:00,early_momentum,WP / SOL,CvdTRCiKbSqvv14kXM4Z8yk7bpDpqfjyPySCaHPXo88x,2026-11-18T10:40+00:00,0.952,-0.155,time exit
+2026-11-20T10:40+00:00,moonshot_hold,Clawd Pin / SOL,4T3QazWKGfJPEU2UznhhWjtxsHQ1P1gL2KiUFqYHvyMa,2026-11-20T10:30+00:00,0,-1.03,rug/no liquidity
