@@ -2283,3 +2283,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T03:00+00:00,early_momentum,ANT / SOL,3aaNS1H1rdm2SGSXjeoPdG5qLBCLYdmoXq391jGPr5cw,2026-11-20T02:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T03:00+00:00,smart_follow,ANT / SOL,3aaNS1H1rdm2SGSXjeoPdG5qLBCLYdmoXq391jGPr5cw,2026-11-20T02:50+00:00,0,-1.03,rug/no liquidity
 2026-11-20T03:00+00:00,early_momentum,MISU / SOL,CYgk9tabD2shdBJxNubUf43K5Ez2LxYtoPUuuJ9uUkmX,2026-11-20T02:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:20+00:00,dex_boosted,GRAND,AsVSzvh75VV5MqcQsxr3X4rqzVoUHfzdvpahpw61v2du,2026-11-18T22:10+00:00,0.479,-0.605,stop loss
+2026-11-20T03:20+00:00,ape_everything,Friend / SOL,CtBhPqBRR56zcgvmxR84WJs2RJkdf4Wp4Y1j58nEJfjD,2026-11-20T02:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:20+00:00,graduates,Friend / SOL,CtBhPqBRR56zcgvmxR84WJs2RJkdf4Wp4Y1j58nEJfjD,2026-11-20T02:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T03:20+00:00,moonshot_hold,Friend / SOL,CtBhPqBRR56zcgvmxR84WJs2RJkdf4Wp4Y1j58nEJfjD,2026-11-20T02:30+00:00,0,-1.03,rug/no liquidity
