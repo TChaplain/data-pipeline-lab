@@ -2324,3 +2324,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T04:00+00:00,moonshot_hold,http / SOL,G8x4QUSB9Bk1T1xH6GwdXsTH4dD6xf7zgSrm5Awosuak,2026-11-13T04:00+00:00,0.494,-0.591,time exit
 2026-11-20T04:00+00:00,moonshot_hold,GTAVI / SOL,8dNjBjRZexqXxckczmGyM9PbSN9m1ChtTusjmHE5yA9N,2026-11-20T01:18+00:00,747.156,708.738,take profit 10.0x
 2026-11-20T04:00+00:00,moonshot_hold,Cowboy Cat / SOL,DqJqtpBtpLuyTBRE7xXWHH513qz4hP6hsApbdK4oVfT7,2026-11-20T03:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,graduates,GTAVI / SOL,8dNjBjRZexqXxckczmGyM9PbSN9m1ChtTusjmHE5yA9N,2026-11-20T01:18+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,ape_everything,FLOAT / SOL,2t98GnuFbQe46uK4Fd8csiPJvJbAdLwcLcZJeromZhFL,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,graduates,RUGGED / SOL,NLftPXR2muNx2h49mXdLBqm4ZrUTxvAZXw9rmj7EY6o,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,moonshot_hold,FIONA / SOL,Bwg6Zw4fQ4TcUs4JNFGW8XHSeoyXECAmtivtoXNX5VpY,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,smart_follow,nma / SOL,TJg6MZKDNShByhbVJhSNnPbeGNVCv3nBKf231GQbyo8,2026-11-20T03:40+00:00,0.349,-0.728,stop loss
+2026-11-20T04:10+00:00,graduates,红果 / SOL,9mh6DupVMnimrBwDhpCtGXsRHVaQmda4Sea4uQbQsc5T,2026-11-20T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,moonshot_hold,红果 / SOL,9mh6DupVMnimrBwDhpCtGXsRHVaQmda4Sea4uQbQsc5T,2026-11-20T03:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:10+00:00,ape_everything,‮L1EH / SOL,FMsH4XZ2rC8x1FY8sjKseE3VKpBWF2nRHah5bFkYW3oJ,2026-11-20T04:00+00:00,0,-1.03,rug/no liquidity
