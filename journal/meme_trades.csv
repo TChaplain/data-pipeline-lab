@@ -2360,3 +2360,9 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T05:10+00:00,ape_everything,AI / SOL,6PbEroqmJRxXyfFLskyLiXUR3inU1DpwqBDhQRftmPga,2026-11-20T04:40+00:00,0,-1.03,rug/no liquidity
 2026-11-20T05:10+00:00,graduates,DCTY / SOL,AqRaxwr8GeHywYxXdFovpLmqz9yrUv8bMFM9kuhZRWex,2026-11-20T05:00+00:00,0,-1.03,rug/no liquidity
 2026-11-20T05:10+00:00,moonshot_hold,DCTY / SOL,AqRaxwr8GeHywYxXdFovpLmqz9yrUv8bMFM9kuhZRWex,2026-11-20T05:00+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:20+00:00,dex_boosted,Leonida,6Ecx5Lm5dinVma1xWMEumj6ABZL3g1Xx4t5rxQxELzdn,2026-11-18T13:13+00:00,0.48,-0.604,stop loss
+2026-11-20T05:20+00:00,graduates,FLOAT / SOL,BUNL1PhVdTKmjGQELLMhZi6PPHVzogMEJQGsXmCoiPWo,2026-11-20T04:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:20+00:00,graduates,ARTIFICIAL / SOL,ArLweLztfoAFYo4qMoUPFJGcNcVcmPuZNGdho8r8sFgF,2026-11-20T04:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:20+00:00,moonshot_hold,ARTIFICIAL / SOL,ArLweLztfoAFYo4qMoUPFJGcNcVcmPuZNGdho8r8sFgF,2026-11-20T04:10+00:00,0,-1.03,rug/no liquidity
+2026-11-20T05:20+00:00,smart_follow,APEKO / SOL,C3mFbFAGEu5AeCYe91R373kfJg8o6V87B9XFwp5N3wSH,2026-11-20T05:10+00:00,0.062,-1.001,stop loss
+2026-11-20T05:20+00:00,early_momentum,SI / SOL,G6YksZVD1y3TW6MjnmJah1izKzUjobdiYrApWMsgJpEw,2026-11-20T05:10+00:00,0,-1.03,rug/no liquidity
