@@ -2615,3 +2615,12 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T18:02+00:00,ape_everything,CATMARIO / SOL,8rsQueFbCAU2BLdeeLkauU9vL3b146i1CDkZAbvqqvZX,2026-11-20T17:16+00:00,0,-1.03,rug/no liquidity
 2026-11-20T18:02+00:00,graduates,CATMARIO / SOL,8rsQueFbCAU2BLdeeLkauU9vL3b146i1CDkZAbvqqvZX,2026-11-20T17:16+00:00,0,-1.03,rug/no liquidity
 2026-11-20T18:02+00:00,moonshot_hold,CATMARIO / SOL,8rsQueFbCAU2BLdeeLkauU9vL3b146i1CDkZAbvqqvZX,2026-11-20T17:16+00:00,0,-1.03,rug/no liquidity
+2026-11-20T18:20+00:00,moonshot_hold,5MIN / SOL,5LssfouCkMpiLsCwUrbwNbWoxQFTd9t6tjZ3guTdX9Xo,2026-11-13T18:20+00:00,0.952,-0.155,time exit
+2026-11-20T18:20+00:00,ape_everything,PUMP / ANT,CJ7NGpePdvr4pw4vceXFg6ghA2KhUCE5qfrTnM9QB4KQ,2026-11-19T17:40+00:00,0.896,-0.209,time exit
+2026-11-20T18:20+00:00,ape_everything,OMERTA / SOL,86gVxLG6GQiaR9jV1ewYBAKfKJvv2wgYSgq9mQibNvUk,2026-11-19T18:10+00:00,0.925,-0.181,time exit
+2026-11-20T18:20+00:00,ape_everything,GME / NVDAx,B8qx5QD715xYqxXpasDtSX8cyQ6RTXWpzZeugZk8q6Ny,2026-11-19T18:10+00:00,0.934,-0.173,time exit
+2026-11-20T18:20+00:00,ape_everything,scat / RAY,Ew1XLrgcpujNhxGLyhj2D8G84xP96aENa22xv1NxoBbk,2026-11-19T18:10+00:00,0.976,-0.133,time exit
+2026-11-20T18:20+00:00,trending_new,LOOSY / SOL,Bfiq9eaLcMjpEKcgm16GSzzGdedCpcFhRAFvivRP4QkY,2026-11-20T01:36+00:00,0.325,-0.752,stop loss
+2026-11-20T18:20+00:00,dex_boosted,LOOSY,Bfiq9eaLcMjpEKcgm16GSzzGdedCpcFhRAFvivRP4QkY,2026-11-20T01:53+00:00,0.239,-0.833,stop loss
+2026-11-20T18:20+00:00,trending_new,RIEMANN / ANT,89DcpLT4PVGx9aDEFagobFY2bDS7ZFa1RGu7DAmEJG28,2026-11-20T16:10+00:00,0.393,-0.686,stop loss
+2026-11-20T18:20+00:00,trending_new,HUSS / SOL,2nKx3Ve578B4XVLv2hgQdpkECAHLUJzqtjYPsTLSGMuX,2026-11-20T18:02+00:00,0,-1.03,rug/no liquidity
