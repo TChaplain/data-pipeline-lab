@@ -2405,3 +2405,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T07:20+00:00,moonshot_hold,DCTY / SOL,2bha5JZeYzfdZF4o38BjL6VLbHAHj9mCLDeHYZNthgwU,2026-11-20T07:10+00:00,0,-1.03,rug/no liquidity
 2026-11-20T07:30+00:00,trending_new,SWRDXSTFF / SOL,6LHLDdfB54L1XQnGC8MrQNUBYnsmxAHJetXzwZTyFwia,2026-11-20T04:20+00:00,0.961,-0.147,trailing stop
 2026-11-20T07:30+00:00,trending_new,MARK / SOL,5vekK6xipPpNmraCLWZj6goLzZ8hdLq4btcFSeaFcMkj,2026-11-20T07:20+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,early_momentum,나비 / SOL,24yPXpWXiepWnFSRMrfHMX96s5BUzxqZHnWByVqDUUqU,2026-11-18T07:40+00:00,1.247,0.125,time exit
+2026-11-20T07:40+00:00,moonshot_hold,mihao / SOL,35Jp8j6mRNQ6N3Y7F3tytARo8RKMKfz9xrGBniwuVW2M,2026-11-20T06:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,smart_follow,mihao / SOL,35Jp8j6mRNQ6N3Y7F3tytARo8RKMKfz9xrGBniwuVW2M,2026-11-20T06:50+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,graduates,PATRICK / SOL,ER3684LmqByRVotyPy4K82bs5rJ1gPKjcRW859gMyFvj,2026-11-20T07:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,moonshot_hold,WPM / SOL,6sRwF51CNwywV2qr5nPtiTVw17QPkE2y4eeTuXCtX3GC,2026-11-20T07:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,early_momentum,PATRICK / SOL,ER3684LmqByRVotyPy4K82bs5rJ1gPKjcRW859gMyFvj,2026-11-20T07:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,smart_follow,PATRICK / SOL,ER3684LmqByRVotyPy4K82bs5rJ1gPKjcRW859gMyFvj,2026-11-20T07:30+00:00,0,-1.03,rug/no liquidity
+2026-11-20T07:40+00:00,trending_new,mihao / SOL,35Jp8j6mRNQ6N3Y7F3tytARo8RKMKfz9xrGBniwuVW2M,2026-11-20T07:30+00:00,0,-1.03,rug/no liquidity
