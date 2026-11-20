@@ -2321,3 +2321,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T03:50+00:00,ape_everything,ToySoldie / SOL,4C2z1RDU8TzqBe4nc3kCt7KnegH8L6o6YB3bRx647zTQ,2026-11-20T03:30+00:00,0,-1.03,rug/no liquidity
 2026-11-20T03:50+00:00,ape_everything,RUGGED / SOL,Ck3WwyK1SmzA6HUSE7EqJx7jxyyhqYbaDmwVapmyj9ri,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
 2026-11-20T03:50+00:00,moonshot_hold,RUGGED / SOL,Ck3WwyK1SmzA6HUSE7EqJx7jxyyhqYbaDmwVapmyj9ri,2026-11-20T03:40+00:00,0,-1.03,rug/no liquidity
+2026-11-20T04:00+00:00,moonshot_hold,http / SOL,G8x4QUSB9Bk1T1xH6GwdXsTH4dD6xf7zgSrm5Awosuak,2026-11-13T04:00+00:00,0.494,-0.591,time exit
+2026-11-20T04:00+00:00,moonshot_hold,GTAVI / SOL,8dNjBjRZexqXxckczmGyM9PbSN9m1ChtTusjmHE5yA9N,2026-11-20T01:18+00:00,747.156,708.738,take profit 10.0x
+2026-11-20T04:00+00:00,moonshot_hold,Cowboy Cat / SOL,DqJqtpBtpLuyTBRE7xXWHH513qz4hP6hsApbdK4oVfT7,2026-11-20T03:00+00:00,0,-1.03,rug/no liquidity
