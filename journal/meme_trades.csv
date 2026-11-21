@@ -2769,3 +2769,11 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-21T04:44+00:00,ape_everything,OVER / SOL,B5GAqm1vb7RxxUqj8Q6mqK7PcMng5YJBGsGYZWp51Tn8,2026-11-21T04:26+00:00,0,-1.03,rug/no liquidity
 2026-11-21T04:44+00:00,smart_follow,OVER / SOL,B5GAqm1vb7RxxUqj8Q6mqK7PcMng5YJBGsGYZWp51Tn8,2026-11-21T04:26+00:00,0,-1.03,rug/no liquidity
 2026-11-21T04:44+00:00,ape_everything,NFA / SOL,7DSNuiNABmjpnnarPfbyhwt94hFH2fT3EEARXpLhEWY3,2026-11-21T04:26+00:00,0,-1.03,rug/no liquidity
+2026-11-21T05:02+00:00,ape_everything,NEKOCOIN / SOL,5avm2W9WKEdPYJBvGLbzfMvZGGpX17QznKVGxFXGP5d,2026-11-20T04:50+00:00,0.952,-0.155,time exit
+2026-11-21T05:02+00:00,graduates,OnlyCats / SOL,ALBkQs4sr8rXwQi6PtTj8Go8Z8gp7FeToqgNsZomNq9V,2026-11-21T04:26+00:00,0.002,-1.058,stop loss
+2026-11-21T05:02+00:00,ape_everything,Gestalt / SOL,zSbF8r7LfLBeL95o5Fi77C9R4W2THaWQYiEUkKsvrnn,2026-11-21T04:44+00:00,0,-1.03,rug/no liquidity
+2026-11-21T05:02+00:00,smart_follow,Gestalt / SOL,zSbF8r7LfLBeL95o5Fi77C9R4W2THaWQYiEUkKsvrnn,2026-11-21T04:44+00:00,0,-1.03,rug/no liquidity
+2026-11-21T05:02+00:00,ape_everything,rape / SOL,5LQxs8hUZCzAiRqa6aNB8zcA3zycJrtUBergQvRGFDf5,2026-11-21T04:44+00:00,0,-1.03,rug/no liquidity
+2026-11-21T05:02+00:00,smart_follow,rape / SOL,5LQxs8hUZCzAiRqa6aNB8zcA3zycJrtUBergQvRGFDf5,2026-11-21T04:44+00:00,0,-1.03,rug/no liquidity
+2026-11-21T05:02+00:00,early_momentum,rape / SOL,5LQxs8hUZCzAiRqa6aNB8zcA3zycJrtUBergQvRGFDf5,2026-11-21T04:44+00:00,0,-1.03,rug/no liquidity
+2026-11-21T05:02+00:00,trending_new,OnlyCats / SOL,ALBkQs4sr8rXwQi6PtTj8Go8Z8gp7FeToqgNsZomNq9V,2026-11-21T04:44+00:00,0.002,-1.058,stop loss
