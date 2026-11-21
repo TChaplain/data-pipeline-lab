@@ -2793,3 +2793,5 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-21T08:00+00:00,ape_everything,win / SOL,8vgGzZYSYzF4Dy5ssMyhR5LbQCCM7Y22Bu3735RQqjvD,2026-11-21T07:30+00:00,0,-1.03,rug/no liquidity
 2026-11-21T08:00+00:00,ape_everything,OWLTO / SOL,Bi3491DHSF5D84bvihkLiZtqVmQxDsCVEXe9R5aBFmMb,2026-11-21T07:30+00:00,0,-1.03,rug/no liquidity
 2026-11-21T08:30+00:00,ape_everything,DIME / PENNY,DEr6wRCdvBXW1WvEBkhnjJW2MyYK2zTMuKDjCYGFeFM7,2026-11-21T04:08+00:00,0,-1.03,rug/no liquidity
+2026-11-21T08:40+00:00,dex_boosted,RAMBO,Gz15vwSPY9KFYNkrMPkoKp2h9yygVBovoXJsGwSJcvFk,2026-11-21T08:00+00:00,0.288,-0.786,stop loss
+2026-11-21T08:40+00:00,ape_everything,VAREXON / SOL,49tda4u184RVRwuv3i4ygcDhw1ChZxWU3aExCmSCG2TN,2026-11-21T08:30+00:00,0,-1.03,rug/no liquidity
