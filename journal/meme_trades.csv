@@ -2795,3 +2795,14 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-21T08:30+00:00,ape_everything,DIME / PENNY,DEr6wRCdvBXW1WvEBkhnjJW2MyYK2zTMuKDjCYGFeFM7,2026-11-21T04:08+00:00,0,-1.03,rug/no liquidity
 2026-11-21T08:40+00:00,dex_boosted,RAMBO,Gz15vwSPY9KFYNkrMPkoKp2h9yygVBovoXJsGwSJcvFk,2026-11-21T08:00+00:00,0.288,-0.786,stop loss
 2026-11-21T08:40+00:00,ape_everything,VAREXON / SOL,49tda4u184RVRwuv3i4ygcDhw1ChZxWU3aExCmSCG2TN,2026-11-21T08:30+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,graduates,Christmas / SOL,j2zavH8uHETpaphpV6iJVvayedXnmFPF7vcigJUSk3Q,2026-11-18T08:50+00:00,3.133,1.917,time exit
+2026-11-21T10:00+00:00,trending_new,TCG Gacha / SOL,5nGzWBFv2VwVUkLw5bFmidkkFrsjkeqy7HE3awfUZBy,2026-11-20T10:00+00:00,0.952,-0.155,time exit
+2026-11-21T10:00+00:00,dex_boosted,JENSEN,7fy71w6jdYias1W66SQscXvuUtYH2N29BKcGGALn4kXT,2026-11-21T01:20+00:00,0.478,-0.606,stop loss
+2026-11-21T10:00+00:00,trending_new,JENSEN / SOL,7fy71w6jdYias1W66SQscXvuUtYH2N29BKcGGALn4kXT,2026-11-21T01:20+00:00,0.478,-0.606,stop loss
+2026-11-21T10:00+00:00,ape_everything,win / SOL,7nUmgYVqYsd8CwZbgSCoqwPsbK4NhSKnAiFTudeoLMxr,2026-11-21T08:30+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,graduates,win / SOL,7nUmgYVqYsd8CwZbgSCoqwPsbK4NhSKnAiFTudeoLMxr,2026-11-21T08:30+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,smart_follow,win / SOL,7nUmgYVqYsd8CwZbgSCoqwPsbK4NhSKnAiFTudeoLMxr,2026-11-21T08:30+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,smart_follow,GTAVI / SOL,9yp18G4TH4XAWd6DXkLJoRAB1jU33UgUZ9AT3FVNMnTT,2026-11-21T08:30+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,ape_everything,PAGER / SOL,81tT3jCJKe7VxvwHzR1Ddr6h2p4xF3yJ7fHxoYmN3cuC,2026-11-21T08:40+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,smart_follow,PAGER / SOL,81tT3jCJKe7VxvwHzR1Ddr6h2p4xF3yJ7fHxoYmN3cuC,2026-11-21T08:40+00:00,0,-1.03,rug/no liquidity
+2026-11-21T10:00+00:00,ape_everything,memeployed / SOL,Bo5Q2mqrJU841pYmNWZdbMrhmyiq7GncFVW5dT53RZVo,2026-11-21T08:40+00:00,0,-1.03,rug/no liquidity
