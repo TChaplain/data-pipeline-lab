@@ -2785,3 +2785,7 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-21T05:30+00:00,ape_everything,PENNY / SOL,ARDdfNfr2jQT3kiiYoNb9SexCyrBb5oZ2ZwUqPrzy6NF,2026-11-21T05:11+00:00,0,-1.03,rug/no liquidity
 2026-11-21T05:30+00:00,ape_everything,crapto / SOL,BwQbEb33hChfxd4QjLwadXuhHP2y4rrgMYBbrwCZNVZK,2026-11-21T05:11+00:00,0,-1.03,rug/no liquidity
 2026-11-21T05:30+00:00,early_momentum,crapto / SOL,BwQbEb33hChfxd4QjLwadXuhHP2y4rrgMYBbrwCZNVZK,2026-11-21T05:11+00:00,0,-1.03,rug/no liquidity
+2026-11-21T07:30+00:00,graduates,USOI / SOL,CVhcPHtPkTimJ9yVboGtj4RxzqGvr4tqpuYQvirnThQh,2026-11-18T07:00+00:00,1.142,0.025,time exit
+2026-11-21T07:30+00:00,ape_everything,APCY / SOL,CtAng64iYXhrtSMnGWkYz1yzdJhv1u6UvH5MWnUTZrVH,2026-11-20T06:10+00:00,0.952,-0.155,time exit
+2026-11-21T07:30+00:00,trending_new,ANT / USDC,AzFmLSSVabxCpcZBL94KDr6EUcCNhS2KYHtwFbWHi3f8,2026-11-20T06:10+00:00,0.912,-0.194,time exit
+2026-11-21T07:30+00:00,ape_everything,MARS / SOL,2mpoE5Br8jPhGvS3QaUzeArw1kA7jvVWjd1itUfxb7aA,2026-11-21T05:30+00:00,0,-1.03,rug/no liquidity
