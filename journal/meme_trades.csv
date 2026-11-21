@@ -2682,4 +2682,6 @@ closed,strategy,token,pool,opened,multiple,pnl_usd,reason
 2026-11-20T22:10+00:00,trending_new,BTC / SOL,5q1eZo7m3NjacXmSuM8BZZ8iqzGt8eqU9FtqTNus7aoJ,2026-11-20T21:40+00:00,0.488,-0.596,stop loss
 2026-11-20T23:09+00:00,graduates,JENSEN / SOL,JDs4V51q1H5KytunYTHQnCMXdunPPa5w4ujZe1AfTmcU,2026-11-17T23:00+00:00,1.072,-0.041,time exit
 2026-11-20T23:27+00:00,moonshot_hold,GOSLING / SOL,g4EHcFMJrXGTga9VM3gCjjPyTChpVTbD4GFDuyvmA8D,2026-11-20T23:09+00:00,0,-1.03,rug/no liquidity
-2026-11-20T23:45+00:00,moonshot_hold,CI / SOL,32i6jXzwWeqRY8BxV54o4RVwK8VUQs18pg4EUARvWVXu,2026-11-20T23:27+00:00,0,-1.03,rug/no liquidity
+2026-11-20T23:54+00:00,smart_follow,Trader / SOL,Emskdk5GrExQnWftyvjnoks8e7ppBNtpGbA2v6DpryCd,2026-11-20T23:27+00:00,0.0,-1.06,stop loss
+2026-11-20T23:54+00:00,smart_follow,GTA6 / SOL,5soPGGNEdsAvVXE6iw4aD4wVyHVydWsrcFZLmJBFHHuf,2026-11-20T23:27+00:00,0,-1.03,rug/no liquidity
+2026-11-20T23:54+00:00,moonshot_hold,CI / SOL,32i6jXzwWeqRY8BxV54o4RVwK8VUQs18pg4EUARvWVXu,2026-11-20T23:27+00:00,0,-1.03,rug/no liquidity
