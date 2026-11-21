@@ -23,3 +23,6 @@ opened,rule,symbol,news_lag_s,return_%,spy_%,excess_%,headline
 2026-11-19T12:32:35+00:00,fast_5m,WMT,67.2,-0.2,0.0,-0.2,Walmart Raises Fiscal Year Guidance Amid 3Q Earnings Beat
 2026-11-19T12:32:35+00:00,fast_30m,WMT,67.2,-0.2,0.0,-0.2,Walmart Raises Fiscal Year Guidance Amid 3Q Earnings Beat
 2026-11-19T12:32:35+00:00,fast_eod,WMT,67.2,-1.199,-1.589,0.39,Walmart Raises Fiscal Year Guidance Amid 3Q Earnings Beat
+2026-11-21T01:03:35+00:00,fast_5m,CRM,95.1,-0.2,0.0,-0.2,"Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says"
+2026-11-21T01:03:35+00:00,fast_30m,CRM,95.1,-0.2,0.0,-0.2,"Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says"
+2026-11-21T01:03:35+00:00,fast_eod,CRM,95.1,-0.2,0.0,-0.2,"Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says"
